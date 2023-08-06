@@ -5,8 +5,8 @@
 // @description  try to take over the world!
 // @author       You
 // @match        http*://*/*
-// @updateURL    https://github.com/minochi11/minochi11/blob/main/Kadut/Kadut1.js
-// @downloadURL  https://github.com/minochi11/minochi11/blob/main/Kadut/Kadut1.js
+// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/Kadut/Kadut1.js
+// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/Kadut/Kadut1.js
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant       GM.setValue
 // @grant       GM.getValue
