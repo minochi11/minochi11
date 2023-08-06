@@ -54,7 +54,7 @@ var Comment2 = "BOLINA61 = 43*25*11 #HIGH4D #TOGELHIGH4D";
 
 var namagroup3 = "GILA4D";
 var Comment3 = "GILA4D=BUANGKALI=69*85*97";
-
+jis
 var namagroup4 = "GAIB4D";
 var Comment4 = "GAIB4D=BUANA87=39*38*37";
 
