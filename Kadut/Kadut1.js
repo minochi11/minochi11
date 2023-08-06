@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         KDUT1
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.1
 // @description  try to take over the world!
 // @author       You
 // @match        http*://*/*
+// @updateURL    https://github.com/minochi11/minochi11/blob/main/Kadut/Kadut1.js
+// @downloadURL  https://github.com/minochi11/minochi11/blob/main/Kadut/Kadut1.js
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant       GM.setValue
 // @grant       GM.getValue
@@ -638,7 +640,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
             }
         }
 }, 10)
-
 
 
 
