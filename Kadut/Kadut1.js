@@ -48,7 +48,7 @@ var namaadmin = [];
 
 
 
-var namagroup1 = "SHIOKELINCI4DE";
+var namagroup1 = "SHIOKELINCI4D";
 var Comment1 = "#shiokelinci4d*BUNDER0*34*94*17";
 
 var namagroup2 = "HIGH4D";
