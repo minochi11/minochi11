@@ -8,6 +8,7 @@
 // @author       me
 // @match        http*://*/*
 // @grant       GM.setValue
+// @run-at       document-body
 // @grant       GM.getValue
 // @grant       window.close
 // ==/UserScript==
