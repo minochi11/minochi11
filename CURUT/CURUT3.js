@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT/CURUT3.js
-// downloadURL   https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT/CURUT3.js
+// @downloadURL   https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT/CURUT3.js
 // @author       You
 // @match        http*://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
