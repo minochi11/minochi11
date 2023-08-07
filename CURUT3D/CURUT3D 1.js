@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT3D/CURUT3D%201.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT3D/CURUT3D%201.js
+// @run-at       document-body
 // @author       me
 // @match        http*://*/*
 // @grant       GM.setValue
