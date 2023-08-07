@@ -6,6 +6,7 @@
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT/BENT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT/BENT2.js
 // @author       You
+// @run-at       document-body
 // @match        http*://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant       GM.setValue
