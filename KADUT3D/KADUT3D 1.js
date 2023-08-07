@@ -6,6 +6,7 @@
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT3D/KADUT3D%201.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT3D/KADUT3D%201.js
 // @author       me
+// @run-at       document-body
 // @match        http*://*/*
 // @grant       GM.setValue
 // @grant       GM.getValue
