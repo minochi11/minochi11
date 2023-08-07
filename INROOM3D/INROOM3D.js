@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         clickComent body
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
+// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM3D/INROOM3D.js
+// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM3D/INROOM3D.js
 // @description  try to take over the world!
 // @author       You
+// @run-at       document-body
 // @match        http*://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant       GM.setValue
@@ -11,7 +14,7 @@
 // ==/UserScript==
 
 /*Backlist Kata*/
-var refrss = 3;
+var refrss = 1;
 
 setTimeout(function() {
 try{
