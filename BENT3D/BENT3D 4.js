@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BENT3D 4
 // @namespace    BENT3D 4
-// @version      0.3
+// @version      0.2
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT3D/BENT3D%204.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT3D/BENT3D%204.js
