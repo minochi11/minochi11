@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/Kadut/KADUT%201.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/Kadut/KADUT%201.js
+// @run-at       document-body
 // @author       You
 // @match        http*://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
