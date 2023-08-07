@@ -6,6 +6,7 @@
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT/BENT1.js
 // @description  try to take over the world!
 // @author       You
+// @run-at       document-body
 // @match        http*://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant       GM.setValue
