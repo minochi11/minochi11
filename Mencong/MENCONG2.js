@@ -7,6 +7,7 @@
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/Mencong/MENCONG2.js
 // @author       You
 // @match        http*://*/*
+// @run-at       document-body
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant       GM.setValue
 // @grant       GM.getValue
