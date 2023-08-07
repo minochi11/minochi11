@@ -6,6 +6,7 @@
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT3D/BENT3D%204.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT3D/BENT3D%204.js
 // @author       me
+// @run-at       document-body
 // @match        http*://*/*
 // @grant       GM.setValue
 // @grant       GM.getValue
