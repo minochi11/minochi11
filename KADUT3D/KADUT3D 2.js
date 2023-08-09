@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KDUT3D 2
 // @namespace    KDUT3D 2
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT3D/KADUT3D%202.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT3D/KADUT3D%202.js
@@ -76,7 +76,7 @@ var namagroup10 = "LINGTOGEL77";
 var Comment10 = "#LINGTOGEL77*SRIWING67*809*334*408";
 
 var namagroup11 = "CPGTOTO";
-var Comment11 = "#UNGUTOTO (SRIMIT64) 105*732*827";
+var Comment11 = "#CPGTOTO ( SRIWING6 ) : 409*536*091";
 
 var namagroup12 = "GTATOGEL";
 var Comment12 = "#GTATOGEL {SRISUWING} = *949*711*878";
