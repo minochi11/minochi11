@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         clickComent body
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM/INROOM.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM/INROOM.js
