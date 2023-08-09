@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         clickComent body
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM3D/INROOM3D.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM3D/INROOM3D.js
 // @description  try to take over the world!
@@ -40,7 +40,7 @@ var ia = document.getElementById('m_group_stories_container');
         var postingan3 = postinganmod1.toLowerCase();
         var aTags3 = carikomen.getElementsByTagName("a");
 
-        if( waktupost == "Baru saja"||waktupost == "1 menit"||waktupost == "2 menit"||waktupost == "1 mnt"|| waktupost == "2 mnt") {
+        if( waktupost == "Baru saja"||waktupost == "1 menit"||waktupost == "2 menit"||waktupost == "3 menit"||waktupost == "4 menit"||waktupost == "1 mnt"||waktupost == "2 mnt"||waktupost == "3 mnt"||waktupost == "4 mnt") {
 
             if (postingan1.includes(Backlist1) == true || postingan1.includes(Backlist2) == true || postingan1.includes(Backlist3) == true || postingan1.includes(Backlist4) == true || postingan1.includes(Backlist5) == true || postingan1.includes(Backlist6) == true|| postingan1.includes(Backlist7) == true) {
 window.location.reload();
