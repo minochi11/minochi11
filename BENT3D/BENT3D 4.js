@@ -87,7 +87,7 @@ var namagroup14 = 'OLBTOTO';
 var Comment14 = '#OLBTOTO(BALUNGAN1)*433*876*051'; 
 
 var namagroup15 = 'BROMOTOTO';
-var Comment15 = 'BOLER19 # 880/367/535 #YOGAPRO""; 
+var Comment15 = 'BOLER19 # 880/367/535 #YOGAPRO'; 
 
 var namagroup16 = 'PAKDE4D';
 var Comment16 = 'PAKDE4D ( BONES17 ) : 640*173*183';
