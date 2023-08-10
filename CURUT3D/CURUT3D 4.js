@@ -87,7 +87,7 @@ var namagroup14 = 'OLBTOTO';
 var Comment14 = '#OLBTOTO(TUMPLEKAH)*460*835*427'; 
 
 var namagroup15 = 'BROMOTOTO';
-var Comment15 = 'TUKULENG12 # 490/967/512 #YOGAPRO""; 
+var Comment15 = 'TUKULENG12 # 490/967/512 #YOGAPRO'; 
 
 var namagroup16 = 'PAKDE4D';
 var Comment16 = 'PAKDE4D ( TUMPURUNG ) : 108*153*284';
