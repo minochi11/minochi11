@@ -87,7 +87,7 @@ var namagroup14 = 'OLBTOTO';
 var Comment14 = '#OLBTOTO(SAWERSEK)*073*244*779'; 
 
 var namagroup15 = 'BROMOTOTO';
-var Comment15 = 'SALAMANAE # 989/992/254 #YOGAPRO""; 
+var Comment15 = 'SALAMANAE # 989/992/254 #YOGAPRO'; 
 
 var namagroup16 = 'PAKDE4D';
 var Comment16 = 'PAKDE4D ( SAKEMPUL ) : 306*515*517';
