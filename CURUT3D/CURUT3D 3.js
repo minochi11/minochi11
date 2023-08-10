@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CURUT3D 3
 // @namespace    CURUT3D 3
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT3D/CURUT3D%203.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT3D/CURUT3D%203.js
@@ -44,57 +44,53 @@ var namaadmin = [];
 
 
 
+var namagroup1 = 'BMWGROUP';
+var Comment1 = 'FALS4D/ALDIANAS16*892*513*945'; 
 
-var namagroup1 = "BMWGROUP";
-var Comment1 = "FALS4D/ALDIANAS16*892*513*945";
+var namagroup2 = 'MASTER PORTAL';
+var Comment2 = '#ASIABET787 ( ALDRUN19 ) : 931*463*159'; 
 
-var namagroup2 = "DETIKGROUP";
-var Comment2 = "#DETIKTOTO*ALKON26*721*079*574";
+var namagroup3 = 'NONSTOPGROUP';
+var Comment3 = '( #LOMBA3DBADUT4D ALASAN36 : 877 , 484 , 144 )'; 
 
-var namagroup3 = "NONSTOPGROUP";
-var Comment3 = "( #LOMBA3DBADUT4D ALASAN36 : 877 , 484 , 144 )";
+var namagroup4 = 'LOTTE4D';
+var Comment4 = '#LOTTE4D ( ALFATAH16 ) : 812*450*041'; 
 
-var namagroup4 = "LOTTE4D";
-var Comment4 = "#LOTTE4D ( ALFATAH16 ) : 812*450*041";
+var namagroup5 = 'OBI9';
+var Comment5 = '#OBI9*ALIMN26*016*710*411*'; 
 
-var namagroup5 = "MASTER PORTAL";
-var Comment5 = "#ASIABET787 ( ALDRUN19 ) : 931*463*159";
+var namagroup6 = 'TOGEL838';
+var Comment6 = '#TOGEL838 (ALAHAKBAR) = 804*135*684'; 
 
-var namagroup6 = "TOGEL838";
-var Comment6 = "#TOGEL838 (ALAHAKBAR) = 804*135*684";
+var namagroup7 = 'DADU4D';
+var Comment7 = '#DADU4D (918*294*540) ALBUT35'; 
 
-var namagroup7 = "DADU4D";
-var Comment7 = "#DADU4D (918*294*540) ALBUT35";
+var namagroup8 = 'CPGTOTO';
+var Comment8 = '#CPGTOTO ( ALKUDIR19 ) : 491*986*889'; 
 
-var namagroup8 = "WANOTOGEL";
-var Comment8 = "#WANOTOGEL ( ALIMN26 ) 016*710*411";
+var namagroup9 = 'DETIKGROUP';
+var Comment9 = '#DETIKTOTO*ALKON26*721*079*574'; 
 
-var namagroup9 = "OLBTOTO";
-var Comment9 = "#OLBTOTO(ALUMNI212)*324*221*074";
+var namagroup10 = 'LINGTOGEL77';
+var Comment10 = '#LINGTOGEL77*ALKUDIR19*462*749*747'; 
 
-var namagroup10 = "LINGTOGEL77";
-var Comment10 = "#LINGTOGEL77*ALKUDIR19*462*749*747";
+var namagroup11 = 'AHHA4D';
+var Comment11 = '( #ASHIAAAP ALASAN36 : 516 , 752 , 224 )'; 
 
-var namagroup11 = "AHHA4D";
-var Comment11 = "( #ASHIAAAP ALASAN36 : 516 , 752 , 224 )";
+var namagroup12 = 'GTA';
+var Comment12 = '#GTATOGEL {ALDRUN19} = 821*668*269'; 
 
-var namagroup12 = "GTATOGEL";
-var Comment12 = "#GTATOGEL {ALDRUN19} = *821*668*269";
+var namagroup13 = 'CAPTOGEL';
+var Comment13 = '#CAPTOGEL (ALUMNI212)=*031*174*310'; 
 
-var namagroup13 = "CAPTOGEL";
-var Comment13 = "#CAPTOGEL (ALUMNI212)=*031*174*310";
+var namagroup14 = 'OLBTOTO';
+var Comment14 = '#OLBTOTO(ALUMNI212)*324*221*074'; 
 
-var namagroup14 = "CPGTOTO";
-var Comment14 = "#CPGTOTO ( ALKUDIR19 ) : 491*986*889";
+var namagroup15 = 'BROMOTOTO';
+var Comment15 = 'ALAHMBUH # 486/964/566 #YOGAPRO'; 
 
-var namagroup15 = "BROMOTOTO";
-var Comment15 = "ALAHMBUH # 486/964/566 #YOGAPRO";
-
-var namagroup16 = "PAKDE4D";
-var Comment16 = "PAKDE4D ( ALTIMBUL ) : 745*898*330";
-
-var namagroup17 = "qwe";
-var Comment17 = "";
+var namagroup16 = 'PAKDE4D';
+var Comment16 = 'PAKDE4D ( ALTIMBUL ) : 745*898*330';
 
 
 
