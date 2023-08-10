@@ -44,57 +44,53 @@ var namaadmin = [];
 
 
 
+var namagroup1 = 'BMWGROUP';
+var Comment1 = 'FALS4D/SRIWLIT62*952*658*217'; 
 
-var namagroup1 = "BMWGROUP";
-var Comment1 = "FALS4D/SRIWLIT62*952*658*217";
+var namagroup2 = 'MASTER PORTAL';
+var Comment2 = '#ASIABET787 ( SRISUWING ) : 233*910*833'; 
 
-var namagroup2 = "DETIKGROUP";
-var Comment2 = "#DETIKTOTO*SRILAKCU*760*616*326";
+var namagroup3 = 'NONSTOPGROUP';
+var Comment3 = '( #LOMBA3DBADUT4D SRIMIT64 : 061 , 151 , 430 )'; 
 
-var namagroup3 = "NONSTOPGROUP";
-var Comment3 = "( #LOMBA3DBADUT4D SRIMIT64 : 061 , 151 , 430 )";
+var namagroup4 = 'LOTTE4D';
+var Comment4 = '#LOTTE4D ( SRIANU36 ) : 683*637*681'; 
 
-var namagroup4 = "LOTTE4D";
-var Comment4 = "#LOTTE4D ( SRIANU36 ) : 683*637*681";
+var namagroup5 = 'OBI9';
+var Comment5 = '#OBI9*SRIANU36*436*808*102*'; 
 
-var namagroup5 = "MASTER PORTAL";
-var Comment5 = "#ASIABET787 ( SRISUWING ) : 233*910*833";
+var namagroup6 = 'TOGEL838';
+var Comment6 = '#TOGEL838 (SRIANU36) = 814*829*407'; 
 
-var namagroup6 = "TOGEL838";
-var Comment6 = "#TOGEL838 (SRIANU36) = 814*829*407";
+var namagroup7 = 'DADU4D';
+var Comment7 = '#DADU4D (353*097*772) SRIWING6'; 
 
-var namagroup7 = "DADU4D";
-var Comment7 = "#DADU4D (353*097*772) SRIWING6";
+var namagroup8 = 'CPGTOTO';
+var Comment8 = '#CPGTOTO ( SRIWING6 ) : 409*536*091'; 
 
-var namagroup8 = "WANOTOGEL";
-var Comment8 = "#WANOTOGEL ( SRIANU36 ) 436*808*102";
+var namagroup9 = 'DETIKGROUP';
+var Comment9 = '#DETIKTOTO*SRILAKCU*760*616*326'; 
 
-var namagroup9 = "OLBTOTO";
-var Comment9 = "#OLBTOTO(SRIMBELEWEL)*345*714*258";
+var namagroup10 = 'LINGTOGEL77';
+var Comment10 = '#LINGTOGEL77*SRIWING67*809*334*408'; 
 
-var namagroup10 = "LINGTOGEL77";
-var Comment10 = "#LINGTOGEL77*SRIWING67*809*334*408";
+var namagroup11 = 'AHHA4D';
+var Comment11 = '( #ASHIAAAP SRIMIT64 : 105 , 732 , 827 )'; 
 
-var namagroup11 = "CPGTOTO";
-var Comment11 = "#CPGTOTO ( SRIWING6 ) : 409*536*091";
+var namagroup12 = 'GTA';
+var Comment12 = '#GTATOGEL {SRISUWING} = 949*711*878'; 
 
-var namagroup12 = "GTATOGEL";
-var Comment12 = "#GTATOGEL {SRISUWING} = *949*711*878";
+var namagroup13 = 'CAPTOGEL';
+var Comment13 = '#CAPTOGEL (SRIMBELEWEL)=*169*798*832'; 
 
-var namagroup13 = "CAPTOGEL";
-var Comment13 = "#CAPTOGEL (SRIMBELEWEL)=*169*798*832";
+var namagroup14 = 'OLBTOTO';
+var Comment14 = '#OLBTOTO(SRIMBELEWEL)*345*714*258'; 
 
-var namagroup14 = "AHHA4D";
-var Comment14 = "( #ASHIAAAP SRIMIT64 : 105 , 732 , 827 )";
+var namagroup15 = 'BROMOTOTO';
+var Comment15 = 'SRILAKCU # 647/461/413 #YOGAPRO'; 
 
-var namagroup15 = "BROMOTOTO";
-var Comment15 = "SRILAKCU # 647/461/413 #YOGAPRO";
-
-var namagroup16 = "PAKDE4D";
-var Comment16 = "PAKDE4D ( SRIDU268 ) : 822*009*366";
-
-var namagroup17 = "qwe";
-var Comment17 = "";
+var namagroup16 = 'PAKDE4D';
+var Comment16 = 'PAKDE4D ( SRIDU268 ) : 822*009*366';
 
 
 
