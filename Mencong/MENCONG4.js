@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MNC4
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/Mencong/MENCONG4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/Mencong/MENCONG4.js
@@ -50,7 +50,7 @@ var namaadmin = [];
 
 
 var namagroup1 = "SHIOKELINCI4D";
-var Comment1 = "#shiokelinci4d*TOMENJERY12*13*17*24";
+var Comment1 = "#shiokelinci4d*TOMENJERY12*13*17";
 
 var namagroup2 = "HIGH4D";
 var Comment2 = "TOMRAIDER13 = 35*92*32 #HIGH4D #TOGELHIGH4D";
