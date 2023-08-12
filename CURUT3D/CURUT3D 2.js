@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CURUT3D 2
 // @namespace    CURUT3D 2
-// @version      0.3
+// @version      0.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT3D/CURUT3D%202.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT3D/CURUT3D%202.js
@@ -47,8 +47,8 @@ var namaadmin = [];
 var namagroup1 = 'BMWGROUP';
 var Comment1 = 'FALS4D/MOCHOK52*561*506*120'; 
 
-var namagroup2 = 'MASTER PORTAL';
-var Comment2 = '#ASIABET787 ( MOCHI92 ) : 560*429*182'; 
+var namagroup2 = 'Situstogel88';
+var Comment2 = '#SITUSTOGEL88 ( MOCHI92 ) : 560*429*182'; 
 
 var namagroup3 = 'NONSTOPGROUP';
 var Comment3 = '( #LOMBA3DBADUT4D MODAR17 : 553 , 050 , 978 )'; 
