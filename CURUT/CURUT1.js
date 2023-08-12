@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CURUT1
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT/CURUT1.js
 // @downloadURL   https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT/CURUT1.js
@@ -50,7 +50,7 @@ var namaadmin = [];
 
 
 var namagroup1 = "SHIOKELINCI4D";
-var Comment1 = "#shiokelinci4d*QOMAR26*37*94*79";
+var Comment1 = "#shiokelinci4d*QOMAR26*37*94";
 
 var namagroup2 = "HIGH4D";
 var Comment2 = "QOMAR27 = 30*31*98 #HIGH4D #TOGELHIGH4D";
