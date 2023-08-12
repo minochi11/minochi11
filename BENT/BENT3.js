@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BEN3
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @author       You
 // @run-at       document-body
@@ -95,7 +95,7 @@ var namagroup15 = "BOCORAN PREDIKSI SDY";
 var Comment15 = "#TOGELKUY CNDAKARTA76 20*74*28";
 
 var namagroup16 = "SHIOKELINCI4D";
-var Comment16 = "#shiokelinci4d*CACING65*89*58*71";
+var Comment16 = "#shiokelinci4d*CACING65*89*58";
 
 
 
