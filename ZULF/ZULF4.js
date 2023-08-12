@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ZULFA4
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF/ZULF4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF/ZULF4.js
@@ -95,7 +95,7 @@ var namagroup15 = "TOTOAKURAT";
 var Comment15 = "#TA*FAISALBA*46*86*39*";
 
 var namagroup16 = "SHIOKELINCI4D";
-var Comment16 = "#shiokelinci4d*FASTBLUE1*01*74*53";
+var Comment16 = "#shiokelinci4d*FASTBLUE1*01*74";
 
 
 
