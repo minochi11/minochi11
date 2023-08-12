@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BEN4
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @author       You
 // @run-at       document-body
@@ -95,7 +95,7 @@ var namagroup15 = "TOTOAKURAT";
 var Comment15 = "#TA*DJASKAL12*78*34*49*";
 
 var namagroup16 = "SHIOKELINCI4D";
-var Comment16 = "#shiokelinci4d*DIANCOK13*09*14*77";
+var Comment16 = "#shiokelinci4d*DIANCOK13*09*14";
 
 
 
