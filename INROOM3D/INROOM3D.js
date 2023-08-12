@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         clickComent body
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM3D/INROOM3D.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM3D/INROOM3D.js
 // @description  try to take over the world!
@@ -55,6 +55,7 @@ window.location.reload();
                 return;
             };
 
+if(postingan.length > 25||postingan1.includes("🏅")){
 
             if (postingan1.includes("𝐋𝐎𝐌𝐁𝐀") == true||postingan1.includes("◼️") == true||postingan1.includes("🏅") == true||postingan1.includes("🏆") == true||postingan1.includes("lomba") == true || postingan1.includes("tebak") == true || postingan1.includes("room") == true ||postingan1.includes("𝗥𝗢𝗢𝗠") == true||postingan1.includes("R.O.O.M")==true||postingan1.includes("𝐫.𝐨.𝐨.𝐦") == true||postingan1.includes("𝗟𝗢𝗠𝗕𝗔") == true||postingan2.includes("lomba") == true ||postingan2.includes("𝐋𝐎𝐌𝐁𝐀") == true||postingan2.includes("◼️") == true||postingan2.includes("🏅") == true||postingan2.includes("🏆") == true| postingan2.includes("tebak") == true || postingan2.includes("room") == true ||postingan2.includes("𝗥𝗢𝗢𝗠") == true ||postingan2.includes("R.O.O.M")==true||postingan2.includes("𝐫.𝐨.𝐨.𝐦") == true||postingan2.includes("𝗟𝗢𝗠𝗕𝗔") == true||postingan3.includes("lomba") == true || postingan3.includes("tebak") == true || postingan3.includes("room") == true ||postingan3.includes("𝗥𝗢𝗢𝗠") == true||postingan3.includes("R.O.O.M")==true||postingan3.includes("𝐫.𝐨.𝐨.𝐦") == true||postingan3.includes("𝐋𝐎𝐌𝐁𝐀") == true||postingan3.includes("◼️") == true||postingan3.includes("🏅") == true||postingan3.includes("🏆") == true||postingan3.includes("𝗟𝗢𝗠𝗕𝗔") == true){
                 for (var i = 0; i < aTags3.length; i++) {
@@ -67,6 +68,8 @@ window.location.reload();
 
                 };
             };
+};
+
         };
         if (postingan) {
             window.location.reload();
