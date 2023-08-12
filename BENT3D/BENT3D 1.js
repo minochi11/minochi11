@@ -48,7 +48,7 @@ var namagroup1 = 'BMWGROUP';
 var Comment1 = 'FALS4D/DALBAN13 *347*453*687'; 
 
 var namagroup2 = 'Situstogel88';
-var Comment2 = '#SITUSTOGEL88 ( ASABKUBUR12 ) : 766*753*776'; 
+var Comment2 = '#SITUSTOGEL88 ( DOLENG28 ) : 766*753*776'; 
 
 var namagroup3 = 'NONSTOPGROUP';
 var Comment3 = '( #LOMBA3DBADUT4D DENDENG14 : 852 , 056 , 703 )'; 
