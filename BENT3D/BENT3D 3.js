@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BENT3D 3
 // @namespace    BENT3D 3
-// @version      0.4
+// @version      0.5
 // @description  try to take over the world!
 // @author       me
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT3D/BENT3D%203.js
@@ -48,7 +48,7 @@ var namagroup1 = 'BMWGROUP';
 var Comment1 = 'FALS4D/SARIAH99*973*362*807'; 
 
 var namagroup2 = 'Situstogel88';
-var Comment2 = '#SITUSTOGEL88 ( CACINGAN54 ) : 081*585*648'; 
+var Comment2 = '#SITUSTOGEL88 ( SIALANKU13 ) : 081*585*648'; 
 
 var namagroup3 = 'NONSTOPGROUP';
 var Comment3 = '( #LOMBA3DBADUT4D SARAMBI : 736 , 911 , 103 )'; 
