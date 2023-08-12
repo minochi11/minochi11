@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KDUT3
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/Kadut/KADUT%203.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/Kadut/KADUT%203.js
@@ -50,7 +50,7 @@ var namaadmin = [];
 
 
 var namagroup1 = "SHIOKELINCI4D";
-var Comment1 = "#shiokelinci4d*JOROKLU63*24*57*35";
+var Comment1 = "#shiokelinci4d*JOROKLU63*24*57";
 
 var namagroup2 = "HIGH4D";
 var Comment2 = "JOMPLANG = 56*26*54 #HIGH4D #TOGELHIGH4D";
