@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BEN2
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT/BENT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT/BENT2.js
@@ -95,7 +95,7 @@ var namagroup15 = "TOTOAKURAT";
 var Comment15 = "#TA*BERANAK76*54*30*60*";
 
 var namagroup16 = "SHIOKELINCI4D";
-var Comment16 = "#shiokelinci4d*BENTOEL12*04*10*41";
+var Comment16 = "#shiokelinci4d*BENTOEL12*04*10";
 
 
 
