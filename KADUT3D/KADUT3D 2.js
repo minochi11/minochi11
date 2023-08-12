@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KDUT3D 2
 // @namespace    KDUT3D 2
-// @version      0.3
+// @version      0.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT3D/KADUT3D%202.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT3D/KADUT3D%202.js
@@ -47,8 +47,8 @@ var namaadmin = [];
 var namagroup1 = 'BMWGROUP';
 var Comment1 = 'FALS4D/SRIWLIT62*952*658*217'; 
 
-var namagroup2 = 'MASTER PORTAL';
-var Comment2 = '#ASIABET787 ( SRISUWING ) : 233*910*833'; 
+var namagroup2 = 'Situstogel88';
+var Comment2 = '#SITUSTOGEL88 ( SRISUWING ) : 233*910*833'; 
 
 var namagroup3 = 'NONSTOPGROUP';
 var Comment3 = '( #LOMBA3DBADUT4D SRIMIT64 : 061 , 151 , 430 )'; 
