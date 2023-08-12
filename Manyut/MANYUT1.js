@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MANYUT1
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/Manyut/MANYUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/Manyut/MANYUT1.js
@@ -83,7 +83,7 @@ var namagroup11 = "Tiktak";
 var Comment11 = "#Tiktaktogel / HORESU14 / 27 , 26 , 47";
 
 var namagroup12 = "SHIOKELINCI4D";
-var Comment12 = "#shiokelinci4d*HONO212*05*37*96";
+var Comment12 = "#shiokelinci4d*HONO212*05*37";
 
 var namagroup13 = "PORTOGEL OFFICIAL";
 var Comment13 = "#PORTOGEL (HOJOL134) : 17*87*18";
