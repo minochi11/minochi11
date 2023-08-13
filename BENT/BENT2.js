@@ -103,6 +103,12 @@ var Comment16 = "#shiokelinci4d*BENTOEL12*04*10";
 
 
 
+
+
+
+
+
+
 setTimeout(function() {
 
 
@@ -192,7 +198,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                     },
                     body: formBody
                 })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -222,7 +227,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                  alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -251,7 +255,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -282,7 +285,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         body: formBody
                     })
 
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -311,7 +313,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         body: formBody
                     })
 
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -340,7 +341,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -368,7 +368,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -397,7 +396,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -426,7 +424,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -454,7 +451,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -483,7 +479,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -512,7 +507,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -540,7 +534,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -569,7 +562,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -598,7 +590,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -627,7 +618,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -636,5 +626,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
             }
         }
 }, 10)
+
+
 
 
