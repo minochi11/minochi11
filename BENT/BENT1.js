@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BEN1
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT/BENT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT/BENT1.js
 // @description  try to take over the world!
