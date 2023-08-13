@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KDUT3
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/Kadut/KADUT%203.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/Kadut/KADUT%203.js
