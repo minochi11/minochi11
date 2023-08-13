@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BENT3D 3
 // @namespace    BENT3D 3
-// @version      0.5
+// @version      0.6
 // @description  try to take over the world!
 // @author       me
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT3D/BENT3D%203.js
@@ -104,6 +104,14 @@ var Comment16 = 'PAKDE4D ( SRITING81 ) : 150*625*338';
 
 
 
+
+
+
+
+
+
+
+
 setTimeout(function() {
 
 
@@ -193,7 +201,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                     },
                     body: formBody
                 })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -223,7 +230,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                  alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -252,7 +258,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -283,7 +288,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         body: formBody
                     })
 
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -312,7 +316,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         body: formBody
                     })
 
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -341,7 +344,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -369,7 +371,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -398,7 +399,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -427,7 +427,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -455,7 +454,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -484,7 +482,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -513,7 +510,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -541,7 +537,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -570,7 +565,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -599,7 +593,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -628,7 +621,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
