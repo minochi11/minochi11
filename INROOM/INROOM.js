@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         clickComent body
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM/INROOM.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM/INROOM.js
 // @author       You
-// @run-at       document-end
+// @run-at       document-body
 // @match        http*://*/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant       GM.setValue
