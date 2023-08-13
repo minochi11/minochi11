@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CURUT3D 4
 // @namespace    CURUT3D 4
-// @version      0.4
+// @version      0.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT3D/CURUT3D%204.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT3D/CURUT3D%204.js
@@ -99,6 +99,14 @@ var Comment16 = 'PAKDE4D ( TUMPURUNG ) : 108*153*284';
 
 
 
+
+
+
+
+
+
+
+
 setTimeout(function() {
 
 
@@ -188,7 +196,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                     },
                     body: formBody
                 })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -218,7 +225,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                  alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -247,7 +253,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -278,7 +283,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         body: formBody
                     })
 
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -307,7 +311,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         body: formBody
                     })
 
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -336,7 +339,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -364,7 +366,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -393,7 +394,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -422,7 +422,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -450,7 +449,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -479,7 +477,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -508,7 +505,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -536,7 +532,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -565,7 +560,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -594,7 +588,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -623,7 +616,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -632,4 +624,5 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
             }
         }
 }, 10)
+
 
