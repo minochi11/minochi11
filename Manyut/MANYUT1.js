@@ -110,6 +110,8 @@ var Comment16 = "#JNETOTO(HOMOGEN12)*05*37*96";
 
 
 
+
+
 setTimeout(function() {
 
 
@@ -199,7 +201,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                     },
                     body: formBody
                 })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -229,7 +230,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                  alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -258,7 +258,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -289,7 +288,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         body: formBody
                     })
 
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -318,7 +316,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         body: formBody
                     })
 
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -347,7 +344,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -375,7 +371,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -404,7 +399,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -433,7 +427,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -461,7 +454,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -490,7 +482,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -519,7 +510,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -547,7 +537,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -576,7 +565,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -605,7 +593,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -634,7 +621,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -643,6 +629,10 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
             }
         }
 }, 10)
+
+
+
+
 
 
 
