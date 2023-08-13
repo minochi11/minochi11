@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BEN3
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  try to take over the world!
 // @author       You
 // @run-at       document-body
