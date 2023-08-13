@@ -106,8 +106,6 @@ var Comment16 = "#shiokelinci4d*CACING65*89*58";
 
 
 
-
-
 setTimeout(function() {
 
 
@@ -192,7 +190,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                        'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                         'Sec-Fetch-Site' : 'same-origin',
                     },
                     body: formBody
@@ -221,7 +219,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -249,7 +247,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -278,7 +276,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -306,7 +304,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -335,7 +333,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -362,7 +360,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -390,7 +388,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -418,7 +416,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -445,7 +443,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers:{
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -473,7 +471,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -501,7 +499,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -528,7 +526,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -556,7 +554,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -584,7 +582,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -612,7 +610,7 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8',
-                            'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0',
+                            'User-Agent': 'SupportsFresco=1 modular=3 Dalvik/2.1.0 (Linux; U; Android 13; Redmi K20 Pro Build/TD1A.221105.001) [FBAN/EMA;FBBV/455601591;FBAV/346.0.0.8.76;FBDV/Redmi K20 Pro;FBSV/13;FBCX/OkHttp3;FBDM/{density=2.3375}]',
                             'Sec-Fetch-Site' : 'same-origin',
                         },
                         body: formBody
@@ -625,6 +623,9 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
             }
         }
 }, 10)
+
+
+
 
 
 
