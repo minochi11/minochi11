@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KDUT3D 4
 // @namespace    KDUT3D 4
-// @version      0.4
+// @version      0.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT3D/KADUT3D%204.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT3D/KADUT3D%204.js
@@ -101,6 +101,11 @@ var Comment16 = 'PAKDE4D ( SAKEMPUL ) : 306*515*517';
 
 
 
+
+
+
+
+
 setTimeout(function() {
 
 
@@ -190,7 +195,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                     },
                     body: formBody
                 })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -220,7 +224,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                  alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -249,7 +252,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -280,7 +282,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         body: formBody
                     })
 
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -309,7 +310,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         body: formBody
                     })
 
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -338,7 +338,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -366,7 +365,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -395,7 +393,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -424,7 +421,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -452,7 +448,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -481,7 +476,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -510,7 +504,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -538,7 +531,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -567,7 +559,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -596,7 +587,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -625,7 +615,6 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
                         },
                         body: formBody
                     })
-                alert("Done");
                 /*end*/
                 } else{
                     window.close();
@@ -634,6 +623,8 @@ var aldro = aTags1[i].textContent.toLocaleUpperCase();
             }
         }
 }, 10)
+
+
 
 
 
