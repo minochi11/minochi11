@@ -80,4 +80,4 @@ window.location.reload();
 }
     catch {
     };
-}, refrss * 100);
+}, refrss * 10);
