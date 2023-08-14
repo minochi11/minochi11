@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         clickComent body
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      0.6
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM/INROOM.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/INROOM/INROOM.js
@@ -14,7 +14,7 @@
 // ==/UserScript==
 
 /*Backlist Kata*/
-var refrss = 3;
+var refrss = 0;
 
 setTimeout(function() {
 try{
