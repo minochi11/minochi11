@@ -79,4 +79,4 @@ if(postingan1.length > 30||postingan2.length > 30||postingan3.length > 30||posti
 }
     catch {
     };
-}, refrss * 100);
+}, refrss * 10);
