@@ -211,7 +211,8 @@ if (id1 == "" || id1 == undefined || id1 == null ||id1 == "0") {
             }
         }
 } else {
-
+window.close();
+                    location.href = "about:blank"
 
 }
 
