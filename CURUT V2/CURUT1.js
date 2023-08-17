@@ -195,7 +195,11 @@ setTimeout(function() {
 
                         if (document.getElementsByClassName('native-text')[kr1].textContent.includes("Tulis")) {
                             document.getElementsByClassName('native-text')[kr1].click();
-                            /*isi Comment*/
+                            
+                        }
+
+                    }
+/*isi Comment*/
                             document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment1;
                             /*Tampilkan TOMBOL SEND*/
                             document.getElementsByClassName("textbox-submit-button")[0].style.display=""
@@ -207,10 +211,6 @@ setTimeout(function() {
                             /*Tekan TOMBOL SEND*/
 GM.setValue( 1,1);
                             return;
-                        }
-
-                    }
-
 
                 }
             }
@@ -248,7 +248,11 @@ GM.setValue( 1,1);
 
                         if (document.getElementsByClassName('native-text')[kr2].textContent.includes("Tulis")) {
                             document.getElementsByClassName('native-text')[kr2].click();
-                            /*isi Comment*/
+                            
+                        }
+                    }
+
+/*isi Comment*/
                             document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment2;
                             /*Tampilkan TOMBOL SEND*/
                             document.getElementsByClassName("textbox-submit-button")[0].style.display=""
@@ -260,10 +264,6 @@ GM.setValue( 1,1);
                             /*Tekan TOMBOL SEND*/
 GM.setValue( 1,2);
                             return;
-                        }
-                    }
-
-
                 }
 
             }
@@ -300,7 +300,12 @@ GM.setValue( 1,2);
 
                         if (document.getElementsByClassName('native-text')[kr3].textContent.includes("Tulis")) {
                             document.getElementsByClassName('native-text')[kr3].click();
-                            /*isi Comment*/
+                            
+                        }
+
+
+                    }
+/*isi Comment*/
                             document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment3;
                             /*Tampilkan TOMBOL SEND*/
                             document.getElementsByClassName("textbox-submit-button")[0].style.display=""
@@ -312,11 +317,6 @@ GM.setValue( 1,2);
                             /*Tekan TOMBOL SEND*/
 GM.setValue( 3,1);
                             return;
-                        }
-
-
-                    }
-
                 }
             }
         } else{
@@ -355,6 +355,15 @@ GM.setValue( 3,1);
                             document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment4;
                             /*Tampilkan TOMBOL SEND*/
                             document.getElementsByClassName("textbox-submit-button")[0].style.display=""
+                            
+                        }
+
+
+                    }
+                    /*isi Comment*/
+                            document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment4;
+                            /*Tampilkan TOMBOL SEND*/
+                            document.getElementsByClassName("textbox-submit-button")[0].style.display=""
                             /*Tekan TOMBOL SEND*/
                             var clicksendcoment4 = document.getElementsByClassName("textbox-submit-button")[0];
                             var clickEvent4 = document.createEvent ('MouseEvents');
@@ -363,11 +372,6 @@ GM.setValue( 3,1);
                             /*Tekan TOMBOL SEND*/
 GM.setValue( 4,1);
                             return;
-                        }
-
-
-                    }
-                    /*isi Comment*/
 
                 }
             }
@@ -404,7 +408,12 @@ GM.setValue( 4,1);
                         if (document.getElementsByClassName('native-text')[kr5].textContent.includes("Tulis")) {
                             document.getElementsByClassName('native-text')[kr5].click();
                             /*isi Comment*/
-                            document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment5;
+                            
+                        }
+
+
+                    }
+document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment5;
                             /*Tampilkan TOMBOL SEND*/
                             document.getElementsByClassName("textbox-submit-button")[0].style.display=""
                             /*Tekan TOMBOL SEND*/
@@ -415,10 +424,6 @@ GM.setValue( 4,1);
                             /*Tekan TOMBOL SEND*/
 GM.setValue( 5,1);
                             return;
-                        }
-
-
-                    }
 
                 }
             }
