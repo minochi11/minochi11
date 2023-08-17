@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CURUT4
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
@@ -120,7 +120,7 @@ setTimeout(function() {
 
     }
     if (document.getElementsByClassName('native-text')[2].textContent.includes("Postingan")) {
-        window.close();
+        return;
 
     }
 
