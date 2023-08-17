@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CURUT1
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT1.js
@@ -178,7 +178,7 @@ setTimeout(function() {
         /*start*/
 
         if (id1 == "" || id1 == undefined || id1 == null ||id1 == "0") {
-            GM.setValue( 1,1);
+            
             if (ceknamagroup.includes(namagroup1) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -205,6 +205,7 @@ setTimeout(function() {
                             clickEvent1.initEvent ("mousedown", true, true);
                             clicksendcoment1.dispatchEvent (clickEvent1);
                             /*Tekan TOMBOL SEND*/
+GM.setValue( 1,1);
                             return;
                         }
 
@@ -229,7 +230,7 @@ setTimeout(function() {
 
 
         if (id2 == "" || id2 == undefined || id2 == null ||id2 == "0") {
-            GM.setValue( 2,1);
+            
             /*start*/
             if (ceknamagroup.includes(namagroup2) === true) {
                 if (cekpostingan.length < 30) {
@@ -257,6 +258,7 @@ setTimeout(function() {
                             clickEvent2.initEvent ("mousedown", true, true);
                             clicksendcoment2.dispatchEvent (clickEvent2);
                             /*Tekan TOMBOL SEND*/
+GM.setValue( 1,2);
                             return;
                         }
                     }
@@ -281,7 +283,7 @@ setTimeout(function() {
 
         /*start*/
         if (id3 == "" || id3 == undefined || id3 == null ||id3 == "0") {
-            GM.setValue( 3,1);
+            
             if (ceknamagroup.includes(namagroup3) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -308,6 +310,7 @@ setTimeout(function() {
                             clickEvent3.initEvent ("mousedown", true, true);
                             clicksendcoment3.dispatchEvent (clickEvent3);
                             /*Tekan TOMBOL SEND*/
+GM.setValue( 3,1);
                             return;
                         }
 
@@ -332,7 +335,7 @@ setTimeout(function() {
 
         /*start*/
         if (id4 == "" || id4 == undefined || id4 == null ||id4 == "0") {
-            GM.setValue( 4,1);
+            
             if (ceknamagroup.includes(namagroup4) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -358,6 +361,7 @@ setTimeout(function() {
                             clickEvent4.initEvent ("mousedown", true, true);
                             clicksendcoment4.dispatchEvent (clickEvent4);
                             /*Tekan TOMBOL SEND*/
+GM.setValue( 4,1);
                             return;
                         }
 
@@ -382,7 +386,7 @@ setTimeout(function() {
 
         /*start*/
         if (id5 == "" || id5 == undefined || id5 == null ||id5 == "0") {
-            GM.setValue( 5,1);
+            
             if (ceknamagroup.includes(namagroup5) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -409,6 +413,7 @@ setTimeout(function() {
                             clickEvent5.initEvent ("mousedown", true, true);
                             clicksendcoment5.dispatchEvent (clickEvent5);
                             /*Tekan TOMBOL SEND*/
+GM.setValue( 5,1);
                             return;
                         }
 
@@ -433,7 +438,7 @@ setTimeout(function() {
 
         /*start*/
         if (id6 == "" || id6 == undefined || id6 == null ||id6 == "0") {
-            GM.setValue( 6,1);
+            
             if (ceknamagroup.includes(namagroup6) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -460,6 +465,7 @@ setTimeout(function() {
                             clickEvent6.initEvent ("mousedown", true, true);
                             clicksendcoment6.dispatchEvent (clickEvent6);
                             /*Tekan TOMBOL SEND*/
+GM.setValue( 6,1);
                             return;
                         }
 
@@ -484,7 +490,7 @@ setTimeout(function() {
 
         /*start*/
         if (id7 == "" || id7 == undefined || id7 == null ||id7 == "0") {
-            GM.setValue( 7,1);
+            
             if (ceknamagroup.includes(namagroup7) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -511,6 +517,7 @@ setTimeout(function() {
                             clickEvent7.initEvent ("mousedown", true, true);
                             clicksendcoment7.dispatchEvent (clickEvent7);
                             /*Tekan TOMBOL SEND*/
+GM.setValue( 7,1);
                             return;
                         }
 
@@ -534,7 +541,7 @@ setTimeout(function() {
 
         /*start*/
         if (id8 == "" || id8 == undefined || id8 == null ||id8 == "0") {
-            GM.setValue( 8,1);
+            
             if (ceknamagroup.includes(namagroup8) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -561,6 +568,7 @@ setTimeout(function() {
                             clickEvent8.initEvent ("mousedown", true, true);
                             clicksendcoment8.dispatchEvent (clickEvent8);
                             /*Tekan TOMBOL SEND*/
+GM.setValue( 8,1);
                             return;
                         }
 
@@ -587,7 +595,7 @@ setTimeout(function() {
 
         /*start*/
         if (id9 == "" || id9 == undefined || id9 == null ||id9 == "0") {
-            GM.setValue( 9,1);
+            
             if (ceknamagroup.includes(namagroup9) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -614,6 +622,7 @@ setTimeout(function() {
                             clickEvent9.initEvent ("mousedown", true, true);
                             clicksendcoment9.dispatchEvent (clickEvent9);
                             /*Tekan TOMBOL SEND*/
+GM.setValue( 9,1);
                             return;
                         }
 
@@ -638,7 +647,7 @@ setTimeout(function() {
 
         /*start*/
         if (id10 == "" || id10 == undefined || id10 == null ||id10 == "0") {
-            GM.setValue( 10,1);
+            
             if (ceknamagroup.includes(namagroup10) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -665,6 +674,7 @@ setTimeout(function() {
                             clickEvent10.initEvent ("mousedown", true, true);
                             clicksendcoment10.dispatchEvent (clickEvent10);
                             /*Tekan TOMBOL SEND*/
+GM.setValue( 10,1);
                             return;
                         }
 
@@ -690,7 +700,7 @@ setTimeout(function() {
 
         /*start*/
         if (id11 == "" || id11 == undefined || id11 == null ||id11 == "0") {
-            GM.setValue(11,1);
+            
             if (ceknamagroup.includes(namagroup11) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -717,6 +727,7 @@ setTimeout(function() {
                             clickEvent11.initEvent ("mousedown", true, true);
                             clicksendcoment11.dispatchEvent (clickEvent11);
                             /*Tekan TOMBOL SEND*/
+GM.setValue(11,1);
                             return;
                         }
 
@@ -741,7 +752,7 @@ setTimeout(function() {
 
         /*start*/
         if (id12 == "" || id12 == undefined || id12 == null ||id12 == "0") {
-            GM.setValue(12,1);
+            
             if (ceknamagroup.includes(namagroup12) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -768,6 +779,7 @@ setTimeout(function() {
                             clickEvent12.initEvent ("mousedown", true, true);
                             clicksendcoment12.dispatchEvent (clickEvent12);
                             /*Tekan TOMBOL SEND*/
+GM.setValue(12,1);
                             return;
                         }
 
@@ -792,7 +804,7 @@ setTimeout(function() {
 
         /*start*/
         if (id13 == "" || id13 == undefined || id13 == null ||id13 == "0") {
-            GM.setValue(13,1);
+            
             if (ceknamagroup.includes(namagroup13) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -819,6 +831,7 @@ setTimeout(function() {
                             clickEvent13.initEvent ("mousedown", true, true);
                             clicksendcoment13.dispatchEvent (clickEvent13);
                             /*Tekan TOMBOL SEND*/
+GM.setValue(13,1);
                             return;
                         }
 
@@ -844,7 +857,7 @@ setTimeout(function() {
 
         /*start*/
         if (id14 == "" || id14 == undefined || id14 == null ||id14 == "0") {
-            GM.setValue(14,1);
+            
             if (ceknamagroup.includes(namagroup14) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -871,6 +884,7 @@ setTimeout(function() {
                             clickEvent14.initEvent ("mousedown", true, true);
                             clicksendcoment14.dispatchEvent (clickEvent14);
                             /*Tekan TOMBOL SEND*/
+GM.setValue(14,1);
                             return;
                         }
 
@@ -897,7 +911,7 @@ setTimeout(function() {
 
         /*start*/
         if (id15 == "" || id15 == undefined || id15 == null ||id15 == "0") {
-            GM.setValue(15,1);
+            
             if (ceknamagroup.includes(namagroup15) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -924,6 +938,7 @@ setTimeout(function() {
                             clickEvent15.initEvent ("mousedown", true, true);
                             clicksendcoment15.dispatchEvent (clickEvent15);
                             /*Tekan TOMBOL SEND*/
+GM.setValue(15,1);
                             return;
                         }
 
@@ -950,7 +965,7 @@ setTimeout(function() {
 
         /*start*/
         if (id16 == "" || id16 == undefined || id16 == null ||id16 == "0") {
-            GM.setValue(16,1);
+            
             if (ceknamagroup.includes(namagroup16) === true) {
                 if (cekpostingan.length < 30) {
                     window.location.reload();
@@ -977,6 +992,7 @@ setTimeout(function() {
                             clickEvent16.initEvent ("mousedown", true, true);
                             clicksendcoment16.dispatchEvent (clickEvent16);
                             /*Tekan TOMBOL SEND*/
+GM.setValue(16,1);
                             return;
                         }
 
