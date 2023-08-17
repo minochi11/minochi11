@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         CURUT1
 // @namespace    http://tampermonkey.net/
-// @version      0.5
+// @version      0.1
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT1.js
 // @author       You
 // @match        http*://*/*
-// @run-at       document-body
+// @run-at       document-end
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant       GM.setValue
 // @grant       GM.getValue
