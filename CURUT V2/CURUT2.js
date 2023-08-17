@@ -3,8 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.4
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT1.js
-// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT1.js
+// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT2.js
+// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT2.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
