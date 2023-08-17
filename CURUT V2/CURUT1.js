@@ -118,7 +118,7 @@ setTimeout(function() {
 
     }
     if (document.getElementsByClassName('native-text')[2].textContent.includes("Postingan")) {
-        window.close();
+        return;
 
     }
 
