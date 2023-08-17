@@ -21,6 +21,7 @@
 var refresh = 10;
 
 
+
 var namagroup1 = "SHIOKELINCI4D";
 var Comment1 = "#shiokelinci4d*TELEKKLUWER*91*64";
 
@@ -68,7 +69,6 @@ var Comment15 = "#TA*TURUSU71*33*89*01*";
 
 var namagroup16 = "WAHANATOGEL";
 var Comment16 = "#WAHANATOGEL(TUMPLEKAH) : 23*82*24";
-
 
 
 
