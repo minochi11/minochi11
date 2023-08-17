@@ -173,6 +173,10 @@ if (tm == "" || tm == undefined || tm == null) {
 
 
         /*start*/
+if (id1 == "" || id1 == undefined || id1 == null ||id1 == "0") {
+                 GM.setValue( 1,1);
+
+
         if (ceknamagroup.includes(namagroup1) === true) {
             if (cekpostingan.length < 30) {
                 window.location.reload();
@@ -206,7 +210,10 @@ if (tm == "" || tm == undefined || tm == null) {
                 return;
             }
         }
+} else {
 
+
+}
 
 
         /*end*/
