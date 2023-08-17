@@ -133,6 +133,21 @@ var waktupost = document.getElementsByClassName('native-text')[24].textContent;
 
 
 setTimeout(function() {
+if (tm == "" || tm == undefined || tm == null) {
+        GM.setValue("time", hour);
+    }
+
+
+    if ( hour > tm + 2 || hour < tm||document.URL.includes("google") == true){
+        for (var kr = 1; kr < 18; kr++) {
+        GM.setValue( kr,0);
+    }
+    GM.setValue("time", hour);
+
+    }
+
+
+
 
     if (document.getElementsByClassName('native-text')[12].textContent == 'Bergabung grup') {
         document.getElementsByClassName('native-text')[12].click();
