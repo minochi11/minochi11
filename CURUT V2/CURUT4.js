@@ -806,7 +806,7 @@ setTimeout(function() {
 
 
 
-
+    window.location.reload();
 
 
 },refresh * 10)
