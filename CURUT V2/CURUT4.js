@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CURUT4
 // @namespace    http://tampermonkey.net/
-// @version      1.6
+// @version      1.7
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
@@ -95,34 +95,6 @@ var id15 = await GM.getValue(15);
 var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 
-/*Keyword*/
-var keyword1 ="𝗥𝗢𝗢𝗠";
-var keyword2 ="𝗟𝗢𝗠𝗕𝗔";
-var keyword3 ="lomba";
-var keyword4 ="room";
-var keyword5 ="ROOM";
-var keyword6 ="LOMBA";
-var keyword7 ="🏅";
-var keyword8 ="tebak";
-var keyword9 ="R.O.O.M";
-var keyword10 ="roniotu";
-
-/*Backlist Kata*/
-var Backlist1 = "rekap";
-var Backlist2 = "artikel";
-var Backlist3 = "hasil";
-var Backlist4 = "jam berapa";
-var Backlist5 = "room lomba freebet";
-var Backlist6 = "pemenang";
-var Backlist7 = "bos";
-var Backlist8 = "kapan";
-var Backlist9 = "";
-var cekpostingan = document.getElementsByClassName('native-text')[26].textContent.toLowerCase();
-var ceknamagroup = document.getElementsByClassName('native-text')[7].textContent;
-var waktupost = document.getElementsByClassName('native-text')[24].textContent;
-
-
-
 
 /*Keyword*/
 var keyword1 ="𝗥𝗢𝗢𝗠";
@@ -134,7 +106,7 @@ var keyword6 ="LOMBA";
 var keyword7 ="🏅";
 var keyword8 ="tebak";
 var keyword9 ="R.O.O.M";
-var keyword10 ="info";
+var keyword10 ="r.o.o.m";
 
 /*Backlist Kata*/
 var Backlist1 = "rekap";
@@ -161,7 +133,7 @@ setTimeout(function() {
     if ( hour > tm + 2 || hour < tm||document.URL.includes("google") ){
         for (var kr = 1; kr < 18; kr++) {
             GM.setValue( kr,0);
-            alert("google")
+   
         }
         GM.setValue("time", hour);
 
