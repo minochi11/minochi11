@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         CURUT2
+// @name         NEW CURUT2
 // @namespace    http://tampermonkey.net/
 // @version      1.8
 // @description  try to take over the world!
@@ -16,9 +16,10 @@
 
 
 
+var refresh = 100;
 
 
-var refresh = 10;
+
 
 
 var namagroup1 = "SHIOKELINCI4D";
@@ -98,6 +99,8 @@ var id17 = await GM.getValue(17);
 
 
 
+
+
 /*Keyword*/
 var keyword1 ="𝗥𝗢𝗢𝗠";
 var keyword2 ="𝗟𝗢𝗠𝗕𝗔";
@@ -167,7 +170,8 @@ setInterval(function(){
     var ceknamagroup = document.getElementsByClassName('native-text')[7].textContent;
     var cekpostingan
     var waktupost = document.querySelectorAll("[class='native-text']");
-
+    var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
+    var urutkan2 = document.querySelectorAll("[data-mcomponent='TextArea']");
 
     if (ceknamagroup.includes(namagroup1) == true) {
         if (id1 == "1"){
@@ -284,13 +288,46 @@ setInterval(function(){
             for (var kro = kr1; kro < waktupost.length; kro++) {
                 var chen = waktupost[kro].textContent.toLowerCase()
                 if (chen.includes(Backlist1)||chen.includes(Backlist2)||chen.includes(Backlist3)||chen.includes(Backlist4)||chen.includes(Backlist5)||chen.includes(Backlist6)||chen.includes(Backlist7)||chen.includes(Backlist8)||chen.includes(Backlist9)){
-                    alert("ada BL")
                     window.location.reload();
                 } else {
 
                     if(chen.includes(keyword1)||chen.includes(keyword2)||chen.includes(keyword3)||chen.includes(keyword4)||chen.includes(keyword5)||chen.includes(keyword6)||chen.includes(keyword7)||chen.includes(keyword8)||chen.includes(keyword8)||chen.includes(keyword9)||chen.includes(keyword10)) {
+                        /*Tidak Masuk Kriteria*/
+                        if (chen.length < 30) {
+                            if (document.readyState === "complete") {
+                                for (var cokes = 0; cokes < urutkan2.length; cokes++) {
+                                    if (urutkan2[cokes].textContent.includes("URUTKAN")) {
+                                        urutkan2[cokes].click()
 
 
+                                    }
+                                }
+
+                            }
+                            if (document.readyState === "complete") {
+                                for (var cokr = 0; cokr < urutkan.length; cokr++) {
+                                    if(urutkan[cokr].textContent.includes("URUTKAN")) {
+                                        urutkan[cokr].click()
+
+                                    }
+                                }
+
+                            }
+
+
+                            if (document.readyState === "complete") {
+                                for (var cokid = 0; cokid < waktupost.length; cokid++) {
+                                    if(waktupost[cokid].textContent.includes("Postingan baru")) {
+                                        waktupost[cokid].click()
+
+                                    }
+                                }
+
+                            }
+                            return;
+
+                        };
+                        /*Tidak Masuk Kriteria*/
 
                         /*start Coment*/
                         if (ceknamagroup.includes(namagroup1) == true) {
@@ -351,7 +388,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 2,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -389,7 +426,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 3,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -426,7 +463,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 4,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -464,7 +501,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 5,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -504,7 +541,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 6,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -543,7 +580,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 7,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -581,7 +618,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 8,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -619,7 +656,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 9,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -657,7 +694,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 10,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -696,7 +733,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 11,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -733,7 +770,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 12,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -771,7 +808,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 13,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -808,7 +845,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 14,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -846,7 +883,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 15,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -883,7 +920,7 @@ setInterval(function(){
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 16,1);
                                         return;
-                                        break 
+                                        break
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -919,7 +956,17 @@ setInterval(function(){
 
     }
 
-    var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
+
+    if (document.readyState === "complete") {
+        for (var coke = 0; coke < urutkan2.length; coke++) {
+            if (urutkan2[coke].textContent.includes("URUTKAN")) {
+                urutkan2[coke].click()
+
+
+            }
+        }
+
+    }
     if (document.readyState === "complete") {
         for (var cok = 0; cok < urutkan.length; cok++) {
             if(urutkan[cok].textContent.includes("URUTKAN")) {
@@ -942,8 +989,4 @@ setInterval(function(){
     }
 
 
-
 },refresh * 10)
-
-
-
