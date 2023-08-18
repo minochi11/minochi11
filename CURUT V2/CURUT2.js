@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CURUT2
 // @namespace    http://tampermonkey.net/
-// @version      1.6
+// @version      1.7
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT2.js
@@ -105,7 +105,7 @@ var keyword6 ="LOMBA";
 var keyword7 ="🏅";
 var keyword8 ="tebak";
 var keyword9 ="R.O.O.M";
-var keyword10 ="info";
+var keyword10 ="r.o.o.m";
 
 /*Backlist Kata*/
 var Backlist1 = "rekap";
@@ -132,7 +132,7 @@ setTimeout(function() {
     if ( hour > tm + 2 || hour < tm||document.URL.includes("google") ){
         for (var kr = 1; kr < 18; kr++) {
             GM.setValue( kr,0);
-            alert("google")
+         
         }
         GM.setValue("time", hour);
 
@@ -162,7 +162,7 @@ setTimeout(function() {
     for (var kr1 = 5; kr1 < waktupost.length; kr1++) {
 
 
-        if (waktupost[kr1].textContent.includes( "Baru saja") ||waktupost[kr1].textContent.slice(0, 7) == "1 menit"||waktupost[kr1].textContent.slice(0, 7) == "2 menit"||waktupost[kr1].textContent.slice(0, 7) == "3 menit"||waktupost[kr1].textContent.slice(0, 7) == "4 menit"||waktupost[kr1].textContent.slice(0, 7) == "19 jam") {
+        if (waktupost[kr1].textContent.includes( "Baru saja") ||waktupost[kr1].textContent.slice(0, 7) == "1 menit"||waktupost[kr1].textContent.slice(0, 7) == "2 menit"||waktupost[kr1].textContent.slice(0, 7) == "3 menit"||waktupost[kr1].textContent.slice(0, 7) == "4 menit"||waktupost[kr1].textContent.slice(0, 7) == "5 menit") {
 
 
 
