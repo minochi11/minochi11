@@ -164,7 +164,7 @@ setTimeout(function() {
     for (var kr1 = 5; kr1 < waktupost.length; kr1++) {
 
 
-        if (waktupost[kr1].textContent.includes( "Baru saja") ||waktupost[kr1].textContent.slice(0, 7) == "1 menit"||waktupost[kr1].textContent.slice(0, 7) == "2 menit"||waktupost[kr1].textContent.slice(0, 7) == "3 menit"||waktupost[kr1].textContent.slice(0, 7) == "4 menit"||waktupost[kr1].textContent.slice(0, 7) == "19 jam") {
+        if (waktupost[kr1].textContent.includes( "Baru saja") ||waktupost[kr1].textContent.slice(0, 7) == "1 menit"||waktupost[kr1].textContent.slice(0, 7) == "2 menit"||waktupost[kr1].textContent.slice(0, 7) == "3 menit"||waktupost[kr1].textContent.slice(0, 7) == "4 menit"||waktupost[kr1].textContent.slice(0, 7) == "5 menit") {
 
 
 
