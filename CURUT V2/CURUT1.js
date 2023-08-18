@@ -807,7 +807,7 @@ setTimeout(function() {
 
 
 
-
+    window.location.reload();
 
 
 
