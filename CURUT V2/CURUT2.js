@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CURUT2
 // @namespace    http://tampermonkey.net/
-// @version      1.7
+// @version      1.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT2.js
@@ -95,6 +95,9 @@ var id16 = await GM.getValue(16);
 var id17 = await GM.getValue(17);
 
 
+
+
+
 /*Keyword*/
 var keyword1 ="𝗥𝗢𝗢𝗠";
 var keyword2 ="𝗟𝗢𝗠𝗕𝗔";
@@ -105,7 +108,7 @@ var keyword6 ="LOMBA";
 var keyword7 ="🏅";
 var keyword8 ="tebak";
 var keyword9 ="R.O.O.M";
-var keyword10 ="r.o.o.m";
+var keyword10 ="info";
 
 /*Backlist Kata*/
 var Backlist1 = "rekap";
@@ -121,18 +124,21 @@ var Backlist9 = "qwesdaw";
 
 
 
+setInterval(function(){
 
-setTimeout(function() {
+
+
+
+
     'use strict';
     if (tm == "" || tm == undefined || tm == null) {
         GM.setValue("time", hour);
     }
 
-
     if ( hour > tm + 2 || hour < tm||document.URL.includes("google") ){
         for (var kr = 1; kr < 18; kr++) {
             GM.setValue( kr,0);
-         
+
         }
         GM.setValue("time", hour);
 
@@ -146,30 +152,140 @@ setTimeout(function() {
     }
     if (document.getElementsByClassName('native-text')[2].textContent.includes("Postingan")) {
         location.href = "about:blank"
+        window.close()
 
     }
+    if (document.getElementsByClassName('fixed-container')[0].textContent.includes("Postingan")) {
 
+        location.href = "about:blank"
+        window.close()
 
-
+    }
 
 
 
     var ceknamagroup = document.getElementsByClassName('native-text')[7].textContent;
     var cekpostingan
     var waktupost = document.querySelectorAll("[class='native-text']");
+
+
+    if (ceknamagroup.includes(namagroup1) == true) {
+        if (id1 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup2) == true) {
+        if (id2 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup3) == true) {
+        if (id3 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup4) == true) {
+        if (id4 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup5) == true) {
+        if (id5 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup6) == true) {
+        if (id6 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup7) == true) {
+        if (id7 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup8) == true) {
+        if (id8 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup9) == true) {
+        if (id9 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup10) == true) {
+        if (id10 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup11) == true) {
+        if (id11 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup12) == true) {
+        if (id12 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup13) == true) {
+        if (id13 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup14) == true) {
+        if (id14 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup15) == true) {
+        if (id15 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
+    if (ceknamagroup.includes(namagroup16) == true) {
+        if (id16 == "1"){
+            location.href = "about:blank"
+            window.close()
+        }
+    }
     outerloops:
+
+
+
+
+
+
+
+
+
 
     for (var kr1 = 5; kr1 < waktupost.length; kr1++) {
 
 
-        if (waktupost[kr1].textContent.includes( "Baru saja") ||waktupost[kr1].textContent.slice(0, 7) == "1 menit"||waktupost[kr1].textContent.slice(0, 7) == "2 menit"||waktupost[kr1].textContent.slice(0, 7) == "3 menit"||waktupost[kr1].textContent.slice(0, 7) == "4 menit"||waktupost[kr1].textContent.slice(0, 7) == "5 menit") {
-
-
+        if (waktupost[kr1].textContent.includes( "Baru saja") ||waktupost[kr1].textContent.slice(0, 7) == "1 menit"||waktupost[kr1].textContent.slice(0, 7) == "2 menit"||waktupost[kr1].textContent.slice(0, 7) == "3 menit"||waktupost[kr1].textContent.slice(0, 7) == "4 menit"||waktupost[kr1].textContent.slice(0, 7) == "19 jam") {
 
             for (var kro = kr1; kro < waktupost.length; kro++) {
                 var chen = waktupost[kro].textContent.toLowerCase()
                 if (chen.includes(Backlist1)||chen.includes(Backlist2)||chen.includes(Backlist3)||chen.includes(Backlist4)||chen.includes(Backlist5)||chen.includes(Backlist6)||chen.includes(Backlist7)||chen.includes(Backlist8)||chen.includes(Backlist9)){
-
+                    alert("ada BL")
+                    window.location.reload();
                 } else {
 
                     if(chen.includes(keyword1)||chen.includes(keyword2)||chen.includes(keyword3)||chen.includes(keyword4)||chen.includes(keyword5)||chen.includes(keyword6)||chen.includes(keyword7)||chen.includes(keyword8)||chen.includes(keyword8)||chen.includes(keyword9)||chen.includes(keyword10)) {
@@ -195,8 +311,9 @@ setTimeout(function() {
                                         clicksendcoment1.dispatchEvent (clickEvent1);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 1,1);
+                                        return;
+                                        break
 
-                                        break outerloops
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -233,8 +350,8 @@ setTimeout(function() {
                                         clicksendcoment2.dispatchEvent (clickEvent2);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 2,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -271,8 +388,8 @@ setTimeout(function() {
                                         clicksendcoment3.dispatchEvent (clickEvent3);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 3,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -289,7 +406,7 @@ setTimeout(function() {
                         /*end Comment*/
 
 
-                         /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup4) == true) {
 
                             /*cari textbox comment*/
@@ -308,8 +425,8 @@ setTimeout(function() {
                                         clicksendcoment4.dispatchEvent (clickEvent4);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 4,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -327,7 +444,7 @@ setTimeout(function() {
 
 
 
-                                /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup5) == true) {
 
                             /*cari textbox comment*/
@@ -346,8 +463,8 @@ setTimeout(function() {
                                         clicksendcoment5.dispatchEvent (clickEvent5);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 5,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -367,7 +484,7 @@ setTimeout(function() {
 
 
 
-                                /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup6) == true) {
 
                             /*cari textbox comment*/
@@ -386,8 +503,8 @@ setTimeout(function() {
                                         clicksendcoment6.dispatchEvent (clickEvent6);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 6,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -406,7 +523,7 @@ setTimeout(function() {
 
 
 
-                                /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup7) == true) {
 
                             /*cari textbox comment*/
@@ -425,8 +542,8 @@ setTimeout(function() {
                                         clicksendcoment7.dispatchEvent (clickEvent7);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 7,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -444,7 +561,7 @@ setTimeout(function() {
 
 
 
-                                      /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup8) == true) {
 
                             /*cari textbox comment*/
@@ -463,8 +580,8 @@ setTimeout(function() {
                                         clicksendcoment8.dispatchEvent (clickEvent8);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 8,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -482,7 +599,7 @@ setTimeout(function() {
 
 
 
-                                      /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup9) == true) {
 
                             /*cari textbox comment*/
@@ -501,8 +618,8 @@ setTimeout(function() {
                                         clicksendcoment9.dispatchEvent (clickEvent9);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 9,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -520,7 +637,7 @@ setTimeout(function() {
 
 
 
-                                /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup10) == true) {
 
                             /*cari textbox comment*/
@@ -539,8 +656,8 @@ setTimeout(function() {
                                         clicksendcoment10.dispatchEvent (clickEvent10);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 10,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -559,7 +676,7 @@ setTimeout(function() {
 
 
 
-                         /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup11) == true) {
 
                             /*cari textbox comment*/
@@ -578,8 +695,8 @@ setTimeout(function() {
                                         clicksendcoment11.dispatchEvent (clickEvent11);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 11,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -596,7 +713,7 @@ setTimeout(function() {
                         /*end Comment*/
 
 
-                            /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup12) == true) {
 
                             /*cari textbox comment*/
@@ -615,8 +732,8 @@ setTimeout(function() {
                                         clicksendcoment12.dispatchEvent (clickEvent12);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 12,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -634,7 +751,7 @@ setTimeout(function() {
 
 
 
-                          /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup13) == true) {
 
                             /*cari textbox comment*/
@@ -653,8 +770,8 @@ setTimeout(function() {
                                         clicksendcoment13.dispatchEvent (clickEvent13);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 13,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -671,7 +788,7 @@ setTimeout(function() {
                         /*end Comment*/
 
 
-                         /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup14) == true) {
 
                             /*cari textbox comment*/
@@ -690,8 +807,8 @@ setTimeout(function() {
                                         clicksendcoment14.dispatchEvent (clickEvent14);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 14,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -709,7 +826,7 @@ setTimeout(function() {
 
 
 
-                           /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup15) == true) {
 
                             /*cari textbox comment*/
@@ -728,8 +845,8 @@ setTimeout(function() {
                                         clicksendcoment15.dispatchEvent (clickEvent15);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 15,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -746,7 +863,7 @@ setTimeout(function() {
                         /*end Comment*/
 
 
-                            /*start Coment*/
+                        /*start Coment*/
                         if (ceknamagroup.includes(namagroup16) == true) {
 
                             /*cari textbox comment*/
@@ -765,8 +882,8 @@ setTimeout(function() {
                                         clicksendcoment16.dispatchEvent (clickEvent16);
                                         /*Tekan TOMBOL SEND*/
                                         GM.setValue( 16,1);
-
-                                        break outerloops
+                                        return;
+                                        break 
                                     } else{
                                         location.href = "about:blank"
                                         window.close();
@@ -802,16 +919,31 @@ setTimeout(function() {
 
     }
 
+    var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
+    if (document.readyState === "complete") {
+        for (var cok = 0; cok < urutkan.length; cok++) {
+            if(urutkan[cok].textContent.includes("URUTKAN")) {
+                urutkan[cok].click()
+
+            }
+        }
+
+    }
 
 
+    if (document.readyState === "complete") {
+        for (var coki = 0; coki < waktupost.length; coki++) {
+            if(waktupost[coki].textContent.includes("Postingan baru")) {
+                waktupost[coki].click()
+
+            }
+        }
+
+    }
 
 
-    window.location.reload();
 
 },refresh * 10)
-
-
-
 
 
 
