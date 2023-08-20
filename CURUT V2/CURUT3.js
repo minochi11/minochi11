@@ -1,4 +1,4 @@
-/ ==UserScript==
+// ==UserScript==
 // @name         NEW CURUT3
 // @namespace    http://tampermonkey.net/
 // @version      2.0
