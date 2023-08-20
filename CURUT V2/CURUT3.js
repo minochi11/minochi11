@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW CURUT3
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      1.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT3.js
@@ -16,7 +16,7 @@
 
 
 
-var refresh = 90;
+var refresh = 100;
 
 
 
@@ -96,12 +96,29 @@ var id17 = await GM.getValue(17);
 
 
 /*Keyword*/
-var keyword = ["𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔", "𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔", "𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","lomba angker4d","room lomba","ROOM_LOMBA","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","room lomba betting"];
-
+var keyword = ["𝗥𝗢𝗢𝗠", "𝗟𝗢𝗠𝗕𝗔", "lomba","room","ROOM","LOMBA","🏅","tebak","R.O.O.M","l.o.m.b.a"];
+var keyword1 ="𝗥𝗢𝗢𝗠";
+var keyword2 = "𝗟𝗢𝗠𝗕𝗔";
+var keyword3 ="lomba";
+var keyword4 ="room";
+var keyword5 ="ROOM";
+var keyword6 ="LOMBA";
+var keyword7 ="🏅";
+var keyword8 ="tebak";
+var keyword9 ="R.O.O.M";
+var keyword10 ="info";
 
 /*Backlist Kata*/
-var Backlist = ["rekap", "artikel", "hasil","jam berapa","room lomba freebet","nanti","kapan","bos","mana"];
-
+var Backlist = ["rekap", "artikel", "hasil","jam berapa","room lomba freebet","nanti","kapan","bos"];
+var Backlist1 = "rekap";
+var Backlist2 = "artikel";
+var Backlist3 = "hasil";
+var Backlist4 = "jam berapa";
+var Backlist5 = "room lomba freebet";
+var Backlist6 = "pemenang";
+var Backlist7 = "dsa";
+var Backlist8 = "kapan";
+var Backlist9 = "qwesdaw";
 
 
 setInterval(function(){
@@ -281,14 +298,14 @@ setInterval(function(){
     var cekjam6 = document.getElementsByClassName('native-text')[25].textContent
     var cekjam7 = document.getElementsByClassName('native-text')[26].textContent
 
-    var cekcomment1 = document.getElementsByClassName('native-text')[22].textContent.toLowerCase()
-    var cekcomment2 = document.getElementsByClassName('native-text')[22].textContent.toLowerCase()
-    var cekcomment3 = document.getElementsByClassName('native-text')[23].textContent.toLowerCase()
-    var cekcomment4 = document.getElementsByClassName('native-text')[24].textContent.toLowerCase()
-    var cekcomment5 = document.getElementsByClassName('native-text')[25].textContent.toLowerCase()
-    var cekcomment6 = document.getElementsByClassName('native-text')[26].textContent.toLowerCase()
-    var cekcomment7 = document.getElementsByClassName('native-text')[27].textContent.toLowerCase()
-    var cekcomment8 = document.getElementsByClassName('native-text')[28].textContent.toLowerCase()
+    var cekcomment1 = document.getElementsByClassName('native-text')[22].textContent
+    var cekcomment2 = document.getElementsByClassName('native-text')[22].textContent
+    var cekcomment3 = document.getElementsByClassName('native-text')[23].textContent
+    var cekcomment4 = document.getElementsByClassName('native-text')[24].textContent
+    var cekcomment5 = document.getElementsByClassName('native-text')[25].textContent
+    var cekcomment6 = document.getElementsByClassName('native-text')[26].textContent
+    var cekcomment7 = document.getElementsByClassName('native-text')[27].textContent
+    var cekcomment8 = document.getElementsByClassName('native-text')[28].textContent
 
     var valid = false;
     if (cekjam1.includes("Baru saja")||cekjam1.slice(0, 7) == "1 menit"||cekjam2.includes("Baru saja")||cekjam2.slice(0, 7) == "1 menit"||cekjam3.includes("Baru saja")||cekjam3.slice(0, 7) == "1 menit"||cekjam4.includes("Baru saja")||cekjam4.slice(0, 7) == "1 menit"||cekjam5.includes("Baru saja")||cekjam5.slice(0, 7) == "1 menit"||cekjam6.includes("Baru saja")||cekjam6.slice(0, 7) == "1 menit"||cekjam7.includes("Baru saja")||cekjam7.slice(0, 7) == "1 menit") {
@@ -335,9 +352,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 1,1);
                     valid = false;
-                    alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -353,9 +368,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 2,1);
                     valid = false;
-                    alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -371,9 +384,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue(3,1);
                     valid = false;
-                     alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -389,9 +400,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 4,1);
                     valid = false;
-                    alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -407,9 +416,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 5,1);
                     valid = false;
-                     alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -425,9 +432,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 6,1);
                     valid = false;
-                    alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -443,9 +448,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 7,1);
                     valid = false;
-                     alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -461,9 +464,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 8,1);
                     valid = false;
-                     alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -479,9 +480,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 9,1);
                     valid = false;
-                     alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -497,9 +496,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 10,1);
                     valid = false;
-                     alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -515,9 +512,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 11,1);
                     valid = false;
-                     alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -533,9 +528,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 12,1);
                     valid = false;
-                     alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -551,9 +544,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 13,1);
                     valid = false;
-                     alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -569,9 +560,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 14,1);
                     valid = false;
-                     alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -587,9 +576,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 15,1);
                     valid = false;
-                    alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -605,9 +592,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 16,1);
                     valid = false;
-                     alert("done")
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -668,4 +653,3 @@ function clicksend() {
     clicksendcoment.dispatchEvent (clickEvent);
     /*Tekan TOMBOL SEND*/
 }
-
