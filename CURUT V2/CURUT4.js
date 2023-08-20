@@ -16,7 +16,7 @@
 
 
 
-var refresh = 120;
+var refresh = 90;
 
 
 
