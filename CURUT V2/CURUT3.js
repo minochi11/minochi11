@@ -1,4 +1,4 @@
-// ==UserScript==
+/ ==UserScript==
 // @name         NEW CURUT3
 // @namespace    http://tampermonkey.net/
 // @version      2.0
@@ -15,8 +15,8 @@
 // ==/UserScript==
 
 
-
 var refresh = 90;
+
 
 
 
@@ -69,6 +69,10 @@ var Comment15 = "#TA*ALAHAKBAR*41*83*08*";
 
 var namagroup16 = "JNETOTO";
 var Comment16 = "#JNETOTO(ALKUDIR19)*42*16*50";
+
+
+
+
 
 var d = new Date();
 var hour = d.getHours();
