@@ -281,14 +281,14 @@ setInterval(function(){
     var cekjam6 = document.getElementsByClassName('native-text')[25].textContent
     var cekjam7 = document.getElementsByClassName('native-text')[26].textContent
 
-    var cekcomment1 = document.getElementsByClassName('native-text')[22].textContent
-    var cekcomment2 = document.getElementsByClassName('native-text')[22].textContent
-    var cekcomment3 = document.getElementsByClassName('native-text')[23].textContent
-    var cekcomment4 = document.getElementsByClassName('native-text')[24].textContent
-    var cekcomment5 = document.getElementsByClassName('native-text')[25].textContent
-    var cekcomment6 = document.getElementsByClassName('native-text')[26].textContent
-    var cekcomment7 = document.getElementsByClassName('native-text')[27].textContent
-    var cekcomment8 = document.getElementsByClassName('native-text')[28].textContent
+    var cekcomment1 = document.getElementsByClassName('native-text')[22].textContent.toLowerCase()
+    var cekcomment2 = document.getElementsByClassName('native-text')[22].textContent.toLowerCase()
+    var cekcomment3 = document.getElementsByClassName('native-text')[23].textContent.toLowerCase()
+    var cekcomment4 = document.getElementsByClassName('native-text')[24].textContent.toLowerCase()
+    var cekcomment5 = document.getElementsByClassName('native-text')[25].textContent.toLowerCase()
+    var cekcomment6 = document.getElementsByClassName('native-text')[26].textContent.toLowerCase()
+    var cekcomment7 = document.getElementsByClassName('native-text')[27].textContent.toLowerCase()
+    var cekcomment8 = document.getElementsByClassName('native-text')[28].textContent.toLowerCase()
 
     var valid = false;
     if (cekjam1.includes("Baru saja")||cekjam1.slice(0, 7) == "1 menit"||cekjam2.includes("Baru saja")||cekjam2.slice(0, 7) == "1 menit"||cekjam3.includes("Baru saja")||cekjam3.slice(0, 7) == "1 menit"||cekjam4.includes("Baru saja")||cekjam4.slice(0, 7) == "1 menit"||cekjam5.includes("Baru saja")||cekjam5.slice(0, 7) == "1 menit"||cekjam6.includes("Baru saja")||cekjam6.slice(0, 7) == "1 menit"||cekjam7.includes("Baru saja")||cekjam7.slice(0, 7) == "1 menit") {
