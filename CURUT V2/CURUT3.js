@@ -335,7 +335,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 1,1);
                     valid = false;
+                    alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -351,7 +353,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 2,1);
                     valid = false;
+                    alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -367,7 +371,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue(3,1);
                     valid = false;
+                     alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -383,7 +389,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 4,1);
                     valid = false;
+                    alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -399,7 +407,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 5,1);
                     valid = false;
+                     alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -415,7 +425,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 6,1);
                     valid = false;
+                    alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -431,7 +443,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 7,1);
                     valid = false;
+                     alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -447,7 +461,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 8,1);
                     valid = false;
+                     alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -463,7 +479,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 9,1);
                     valid = false;
+                     alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -479,7 +497,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 10,1);
                     valid = false;
+                     alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -495,7 +515,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 11,1);
                     valid = false;
+                     alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -511,7 +533,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 12,1);
                     valid = false;
+                     alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -527,7 +551,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 13,1);
                     valid = false;
+                     alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -543,7 +569,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 14,1);
                     valid = false;
+                     alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -559,7 +587,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 15,1);
                     valid = false;
+                    alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -575,7 +605,9 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 16,1);
                     valid = false;
+                     alert("done")
                     location.href = "about:blank"
+                    window.close()
 
                 }
             }
@@ -636,3 +668,4 @@ function clicksend() {
     clicksendcoment.dispatchEvent (clickEvent);
     /*Tekan TOMBOL SEND*/
 }
+
