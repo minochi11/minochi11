@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MENCONG2
 // @namespace    http://tampermonkey.net/
-// @version      2.2
+// @version      2.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG2.js
@@ -106,6 +106,19 @@ var Backlist = ["rekap", "artikel", "hasil","jam berapa","room lomba freebet","n
 
 
 
+/*Waktu*/
+var jam1 = "Baru saja"
+var jam2 = "1 menit"
+var jam3 = "2 menit"
+var jam4 = "3 menit"
+var jam5 = "4 menit"
+var jam6 = "5 menit"
+var jam7 = "6 menit"
+var jam8 = "7 menit"
+var jam9 = "8 menit"
+
+var jam = [jam1,jam2,jam3,jam4,jam5,jam6,jam7,jam8,jam9];
+
 setInterval(function(){
 
 
@@ -153,7 +166,7 @@ setInterval(function(){
 
     if (document.readyState === "complete") {
         for (var coki = 0; coki < waktupost.length; coki++) {
-            if(waktupost[coki].textContent.includes("Aktivitas")) {
+            if(waktupost[coki].textContent.includes("Postingan baru")) {
                 waktupost[coki].click()
 
             }
@@ -283,17 +296,17 @@ setInterval(function(){
     var cekjam6 = document.getElementsByClassName('native-text')[25].textContent
     var cekjam7 = document.getElementsByClassName('native-text')[26].textContent
 
-    var cekcomment1 = document.getElementsByClassName('native-text')[22].textContent.toLowerCase()
-    var cekcomment2 = document.getElementsByClassName('native-text')[22].textContent.toLowerCase()
-    var cekcomment3 = document.getElementsByClassName('native-text')[23].textContent.toLowerCase()
-    var cekcomment4 = document.getElementsByClassName('native-text')[24].textContent.toLowerCase()
-    var cekcomment5 = document.getElementsByClassName('native-text')[25].textContent.toLowerCase()
-    var cekcomment6 = document.getElementsByClassName('native-text')[26].textContent.toLowerCase()
-    var cekcomment7 = document.getElementsByClassName('native-text')[27].textContent.toLowerCase()
-    var cekcomment8 = document.getElementsByClassName('native-text')[28].textContent.toLowerCase()
+    var cekcomment1 = document.getElementsByClassName('native-text')[22].textContent
+    var cekcomment2 = document.getElementsByClassName('native-text')[22].textContent
+    var cekcomment3 = document.getElementsByClassName('native-text')[23].textContent
+    var cekcomment4 = document.getElementsByClassName('native-text')[24].textContent
+    var cekcomment5 = document.getElementsByClassName('native-text')[25].textContent
+    var cekcomment6 = document.getElementsByClassName('native-text')[26].textContent
+    var cekcomment7 = document.getElementsByClassName('native-text')[27].textContent
+    var cekcomment8 = document.getElementsByClassName('native-text')[28].textContent
 
     var valid = false;
-    if (cekjam1.includes("Baru saja")||cekjam1.slice(0, 7) == "1 menit"||cekjam2.includes("Baru saja")||cekjam2.slice(0, 7) == "1 menit"||cekjam3.includes("Baru saja")||cekjam3.slice(0, 7) == "1 menit"||cekjam4.includes("Baru saja")||cekjam4.slice(0, 7) == "1 menit"||cekjam5.includes("Baru saja")||cekjam5.slice(0, 7) == "1 menit"||cekjam6.includes("Baru saja")||cekjam6.slice(0, 7) == "1 menit"||cekjam7.includes("Baru saja")||cekjam7.slice(0, 7) == "1 menit") {
+    if (cekjam1.includes("Baru saja")||cekjam(cekjam1,jam) == 1||cekjam2.includes("Baru saja")||cekjam(cekjam2,jam) == 1||cekjam3.includes("Baru saja")||cekjam(cekjam3,jam) == 1||cekjam4.includes("Baru saja")||cekjam(cekjam4,jam) == 1||cekjam5.includes("Baru saja")||cekjam(cekjam5,jam) == 1||cekjam6.includes("Baru saja")||cekjam(cekjam6,jam) == 1||cekjam7.includes("Baru saja")||cekjam(cekjam7,jam) == 1) {
         /*Jika Waktu Di TEMUKAN */
 
         for (var j in keyword){
@@ -337,9 +350,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 1,1);
                     valid = false;
-                
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -355,9 +366,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 2,1);
                     valid = false;
-                    
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -373,9 +382,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue(3,1);
                     valid = false;
-                   
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -391,9 +398,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 4,1);
                     valid = false;
-                   
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -409,9 +414,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 5,1);
                     valid = false;
-                     
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -427,9 +430,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 6,1);
                     valid = false;
-                    
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -445,9 +446,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 7,1);
                     valid = false;
-                  
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -463,9 +462,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 8,1);
                     valid = false;
-                 
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -481,9 +478,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 9,1);
                     valid = false;
-                    
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -499,9 +494,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 10,1);
                     valid = false;
-                    
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -517,9 +510,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 11,1);
                     valid = false;
-                    
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -535,9 +526,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 12,1);
                     valid = false;
-                     
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -553,9 +542,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 13,1);
                     valid = false;
-                    
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -571,9 +558,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 14,1);
                     valid = false;
-                     
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -589,9 +574,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 15,1);
                     valid = false;
-                   
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -607,9 +590,7 @@ setInterval(function(){
                     clearInterval()
                     GM.setValue( 16,1);
                     valid = false;
-                
                     location.href = "about:blank"
-                    window.close()
 
                 }
             }
@@ -650,44 +631,16 @@ setInterval(function(){
 
 
 
+function cekjam(target, pattern){
+    var value = 0;
+    var ven = target.slice(0, 7);
 
+    pattern.forEach(function(word){
+        value = value + ven.includes(word);
 
-
-
-
-
-
-
-
-
-function clicksend() {
-    /*Tampilkan TOMBOL SEND*/
-    document.getElementsByClassName("textbox-submit-button")[0].style.display=""
-    /*Tekan TOMBOL SEND*/
-    var clicksendcoment = document.getElementsByClassName("textbox-submit-button")[0];
-    var clickEvent = document.createEvent ('MouseEvents');
-    clickEvent.initEvent ("mousedown", true, true);
-    clicksendcoment.dispatchEvent (clickEvent);
-    /*Tekan TOMBOL SEND*/
+    });
+    return (value === 1)
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
