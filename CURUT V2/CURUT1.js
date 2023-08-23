@@ -167,7 +167,7 @@ setInterval(function(){
 
     if (document.readyState === "complete") {
         for (var coki = 0; coki < waktupost.length; coki++) {
-            if(waktupost[coki].textContent.includes("Postingan baru")) {
+            if(waktupost[coki].textContent.includes("Aktivitas")) {
                 waktupost[coki].click()
 
             }
