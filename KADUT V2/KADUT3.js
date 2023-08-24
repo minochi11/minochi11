@@ -101,7 +101,7 @@ var namagroup25 = 'DETIKGROUP';
 var Comment25 = '#Detiktoto*JOROKLUH*677*044*440';
 
 var namagroup26 = 'LINGTOGEL77';
-var Comment28 = '#LINGTOGEL77*JOMNDUL73*545*470*548';
+var Comment26 = '#LINGTOGEL77*JOMNDUL73*545*470*548';
 
 var namagroup27 = 'AHHA4D';
 var Comment27 = '( #ASHIAAAP JONTOR6 : 172 , 916 , 968 )';
