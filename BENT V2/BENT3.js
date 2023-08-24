@@ -102,7 +102,7 @@ var namagroup25 = 'DETIKGROUP';
 var Comment25 = '#Detiktoto*SUWING11*571*315*175';
 
 var namagroup26 = 'LINGTOGEL77';
-var Comment28 = '#LINGTOGEL77*CUCUKU76*005*274*998';
+var Comment26 = '#LINGTOGEL77*CUCUKU76*005*274*998';
 
 var namagroup27 = 'AHHA4D';
 var Comment27 = '( #ASHIAAAP CUKAPASAR56 : 803 , 907 , 526 )';
