@@ -44,8 +44,8 @@ var Comment6 = "KIOSTOTO=BURUNG69=51*68*91";
 var namagroup7 = "KHUSUS MACAU";
 var Comment7 = "#ASEPTOGEL BOLINA61 80*59*12";
 
-var namagroup8 = "ANGKER";
-var Comment8 = "ANGKER4D=BUDELTUNG=69*85*97";
+var namagroup8 = "hwhwh";
+var Comment8 = "aaa";
 
 var namagroup9 = "SNIPER NUSANTARA";
 var Comment9 = "#VESPATOGEL (BOTAP27) 52*14*84";
@@ -62,8 +62,8 @@ var Comment12 = "#TOGELKUY BUSUNGMU62 88*50*90";
 var namagroup13 = "PORTOGEL OFFICIAL";
 var Comment13 = "#PORTOGEL (BUANGKABEH) : 43*25*11";
 
-var namagroup14 = "AXISTOGEL OFFICIAL";
-var Comment14 = "#BETTING BUKABEH: 88*50*90";
+var namagroup14 = "ANGKER";
+var Comment14 = "ANGKER4D=BUDELTUNG=69*85*97";
 
 var namagroup15 = "TOTOAKURAT";
 var Comment15 = "#TA*BUNTOTASU*51*68*91*";
