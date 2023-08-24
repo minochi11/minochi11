@@ -77,7 +77,7 @@ var namagroup17 = 'BMWGROUP';
 var Comment17 = 'FALS4D/SAKBIL*629*458*796';
 
 var namagroup18 = 'Situstogel88';
-var Comment110 = '#SITUSTOGEL88 ( SAWERBOSE0 ) : 886*383*661';
+var Comment18 = '#SITUSTOGEL88 ( SAWERBOSE0 ) : 886*383*661';
 
 var namagroup19 = 'NONSTOPGROUP';
 var Comment19 = '( #LOMBA3DBADUT4D SANGEKABEH : 503 , 730 , 831 )';
@@ -101,13 +101,13 @@ var namagroup25 = 'DETIKGROUP';
 var Comment25 = '#Detiktoto*SALAMANAE*723*452*975';
 
 var namagroup26 = 'LINGTOGEL77';
-var Comment210 = '#LINGTOGEL77*SAIKIPIYE*520*341*879';
+var Comment26 = '#LINGTOGEL77*SAIKIPIYE*520*341*879';
 
 var namagroup27 = 'AHHA4D';
 var Comment27 = '( #ASHIAAAP SANGEKABEH : 235 , 256 , 064 )';
 
 var namagroup28 = 'GTA';
-var Comment210 = '#GTATOGEL {SAWERBOSE0} = 654*184*987';
+var Comment28 = '#GTATOGEL {SAWERBOSE0} = 654*184*987';
 
 var namagroup29 = 'CAPTOGEL';
 var Comment29 = '#CAPTOGEL (SAWERSEK)=*147*170*965';
