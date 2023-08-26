@@ -18,49 +18,49 @@
 var refresh = 90;
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*KRISWATI89*09*99*79'; 
+var Comment1 = '#shiokelinci4d*KRISWATI89*09*79';
 
 var namagroup2 = 'HIGH4D';
-var Comment2 = 'KRISAKTI1 = 06*29*21 #HIGH4D #TOGELHIGH4D'; 
+var Comment2 = 'KRISAKTI1 = 06*29*21 #HIGH4D #TOGELHIGH4D';
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / KRISMANDA23 / 70 , 87 , 80'; 
+var Comment3 = '#Tiktaktogel / KRISMANDA23 / 70 , 87 , 80';
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=KRISEMPU51=02*71*74'; 
+var Comment4 = 'GAIB4D=KRISEMPU51=02*71*74';
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = KRISAN41 = 06*29*21'; 
+var Comment5 = '#keitogel = KRISAN41 = 06*29*21';
 
 var namagroup6 = 'KiosToto';
-var Comment6 = 'KIOSTOTO=KRISMANDA23=34*64*68'; 
+var Comment6 = 'KIOSTOTO=KRISMANDA23=34*64*68';
 
 var namagroup7 = 'KHUSUS MACAU';
-var Comment7 = '#ASEPTOGEL KRISMA56 34*64*68'; 
+var Comment7 = '#ASEPTOGEL KRISMA56 34*64*68';
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=KRISTANTI34=84*44*19'; 
+var Comment8 = 'ANGKER4D=KRISTANTI34=84*44*19';
 
 var namagroup9 = 'GILA4D';
-var Comment9 = 'GILA4D=KRISMALI2=84*44*19'; 
+var Comment9 = 'GILA4D=KRISMALI2=84*44*19';
 
 var namagroup10 = 'JNETOTO';
-var Comment10 = '#JNETOTO(KRISANTI46)*70*87*80'; 
+var Comment10 = '#JNETOTO(KRISANTI46)*70*87*80';
 
 var namagroup11 = 'TOTOAKURAT';
-var Comment11 = '#TA*KRISUNDEL5*84*44*19*'; 
+var Comment11 = '#TA*KRISUNDEL5*84*44*19*';
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY KRISING47 02*71*74'; 
+var Comment12 = '#TOGELKUY KRISING47 02*71*74';
 
 var namagroup13 = 'PORTOGEL';
-var Comment13 = '#PORTOGEL (KRISAN24) : 37*49*16'; 
+var Comment13 = '#PORTOGEL (KRISAN24) : 37*49*16';
 
 var namagroup14 = 'WAHANATOGEL';
-var Comment14 = '#WAHANATOGEL(KRIKAR23) : 37*49*16'; 
+var Comment14 = '#WAHANATOGEL(KRIKAR23) : 37*49*16';
 
 var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (KRISNA46) 55*59*78'; 
+var Comment15 = '#VESPATOGEL (KRISNA46) 55*59*78';
 
 var namagroup16 = '1231';
 var Comment16 = '123123';
