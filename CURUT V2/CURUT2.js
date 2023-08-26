@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW CURUT2
 // @namespace    http://tampermonkey.net/
-// @version      2.5
+// @version      2.6
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT2.js
@@ -101,6 +101,11 @@ setInterval(function(){
 
 
     'use strict';
+    GM.setValue("JAM", 0);
+GM.setValue("KEYWORD", 0);
+GM.setValue("BACKLIST", 0);
+GM.setValue("CLICKCOMMENT", 0);
+GM.setValue("DONE", 0);
 
     var ceknamagroup = document.getElementsByClassName('native-text')[4].textContent;
     var ceknamagroup1 = document.getElementsByClassName('native-text')[5].textContent;
@@ -169,10 +174,11 @@ setInterval(function(){
     var valid = false;
     if (cekjam1.includes("Baru saja")||cekjam(cekjam1,jam) == 1||cekjam2.includes("Baru saja")||cekjam(cekjam2,jam) == 1||cekjam3.includes("Baru saja")||cekjam(cekjam3,jam) == 1||cekjam4.includes("Baru saja")||cekjam(cekjam4,jam) == 1||cekjam5.includes("Baru saja")||cekjam(cekjam5,jam) == 1||cekjam6.includes("Baru saja")||cekjam(cekjam6,jam) == 1||cekjam7.includes("Baru saja")||cekjam(cekjam7,jam) == 1||cekjam8.includes("Baru saja")||cekjam(cekjam8,jam) == 1||cekjam9.includes("Baru saja")||cekjam(cekjam9,jam) == 1) {
         /*Jika Waktu Di TEMUKAN */
-
+ GM.setValue("JAM", 1);
         for (var j in keyword){
             if (cekcomment1.includes(keyword[j])||cekcomment2.includes(keyword[j])||cekcomment3.includes(keyword[j])||cekcomment4.includes(keyword[j])||cekcomment5.includes(keyword[j])||cekcomment6.includes(keyword[j])||cekcomment7.includes(keyword[j])||cekcomment8.includes(keyword[j])||cekcomment9.includes(keyword[j])||cekcomment10.includes(keyword[j])||cekcomment11.includes(keyword[j])||cekcomment12.includes(keyword[j])){
                 /*Jika Keyword Di TEMUKAN */
+                GM.setValue("KEYWORD", 1);
                 valid = true;
                 break;
             }
@@ -182,6 +188,7 @@ setInterval(function(){
             if (cekcomment1.includes(Backlist[h])||cekcomment2.includes(Backlist[h])||cekcomment3.includes(Backlist[h])||cekcomment4.includes(Backlist[h])||cekcomment5.includes(Backlist[h])||cekcomment6.includes(Backlist[h])||cekcomment7.includes(Backlist[h])||cekcomment8.includes(Backlist[h])||cekcomment9.includes(Backlist[h])||cekcomment10.includes(Backlist[h])||cekcomment11.includes(Backlist[h])||cekcomment12.includes(Backlist[h])){
                 /*Jika backlist Di TEMUKAN */
                 valid = false;
+                GM.setValue("BACKLIST", 1);
                 break;
             }
         }
@@ -211,6 +218,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 1,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -227,6 +235,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 2,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -243,6 +252,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue(3,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -259,6 +269,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 4,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -275,6 +286,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 5,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -291,6 +303,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 6,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -307,6 +320,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 7,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -323,6 +337,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 8,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -339,6 +354,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 9,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -355,6 +371,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 10,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -371,6 +388,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 11,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -387,6 +405,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 12,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -403,6 +422,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 13,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -419,6 +439,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 14,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -435,6 +456,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 15,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -451,6 +473,7 @@ setInterval(function(){
                 clearInterval()
                 GM.setValue( 16,1);
                 valid = false;
+                GM.setValue("DONE", 1);
                 location.href = "about:blank"
 
             }
@@ -520,4 +543,6 @@ function clicksend() {
     clickEvent.initEvent ("mousedown", true, true);
     clicksendcoment.dispatchEvent (clickEvent);
     /*Tekan TOMBOL SEND*/
+    GM.setValue("CLICKCOMMENT", 1);
 }
+
