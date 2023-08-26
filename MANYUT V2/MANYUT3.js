@@ -97,7 +97,7 @@ var Comment25 = '#SLOTO288/ALKON26/721*079*574';
 
 var namagroup26 = 'LINGTOGEL77';
 var Comment26 = '#LINGTOGEL77*ALKUDIR19*462*749*747'; 
-:
+
 var namagroup27 = 'AHHA4D';
 var Comment27 = '( #ASHIAAAP ALASAN36 : 516 , 752 , 224 )'; 
 
