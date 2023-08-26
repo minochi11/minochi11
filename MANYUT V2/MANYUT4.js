@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT4
 // @namespace    http://tampermonkey.net/
-// @version      2.7
+// @version      2.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
@@ -207,18 +207,18 @@ GM.setValue("DONE", 0);
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
     var cekjam9 = document.getElementsByClassName('native-text')[27].textContent
 
-    var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent
-    var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent
-    var cekcomment3 = document.getElementsByClassName('native-text')[22].textContent
-    var cekcomment4 = document.getElementsByClassName('native-text')[23].textContent
-    var cekcomment5 = document.getElementsByClassName('native-text')[24].textContent
-    var cekcomment6 = document.getElementsByClassName('native-text')[25].textContent
-    var cekcomment7 = document.getElementsByClassName('native-text')[26].textContent
-    var cekcomment8 = document.getElementsByClassName('native-text')[27].textContent
-    var cekcomment9 = document.getElementsByClassName('native-text')[28].textContent
-    var cekcomment10 = document.getElementsByClassName('native-text')[29].textContent
-    var cekcomment11= document.getElementsByClassName('native-text')[30].textContent
-    var cekcomment12= document.getElementsByClassName('native-text')[31].textContent
+    var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent.toLowerCase();
+    var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent.toLowerCase();
+    var cekcomment3 = document.getElementsByClassName('native-text')[22].textContent.toLowerCase();
+    var cekcomment4 = document.getElementsByClassName('native-text')[23].textContent.toLowerCase();
+    var cekcomment5 = document.getElementsByClassName('native-text')[24].textContent.toLowerCase();
+    var cekcomment6 = document.getElementsByClassName('native-text')[25].textContent.toLowerCase();
+    var cekcomment7 = document.getElementsByClassName('native-text')[26].textContent.toLowerCase();
+    var cekcomment8 = document.getElementsByClassName('native-text')[27].textContent.toLowerCase();
+    var cekcomment9 = document.getElementsByClassName('native-text')[28].textContent.toLowerCase();
+    var cekcomment10 = document.getElementsByClassName('native-text')[29].textContent.toLowerCase();
+    var cekcomment11= document.getElementsByClassName('native-text')[30].textContent.toLowerCase();
+    var cekcomment12= document.getElementsByClassName('native-text')[31].textContent.toLowerCase();
 
     var validcom = false;
     var valid = false;
