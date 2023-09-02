@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW CURUT2
 // @namespace    http://tampermonkey.net/
-// @version      2.8
+// @version      2.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT2.js
@@ -20,52 +20,52 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*MOCHOK52*18*53';
+var Comment1 = '#shiokelinci4d*MOCHOK52*18*53*20'; 
 
 var namagroup2 = 'HIGH4D';
-var Comment2 = 'MOCHI92 = 26*40*92 #HIGH4D #TOGELHIGH4D';
+var Comment2 = 'MOCHI92 = 26*40*92 #HIGH4D #TOGELHIGH4D'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / MODAR17 / 11 , 39 , 85';
+var Comment3 = '#Tiktaktogel / MODAR17 / 11 , 39 , 85'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=MOCHOK36=71*13*96';
+var Comment4 = 'GAIB4D=MOCHOK36=71*13*96'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = MONTIR36 = 81*93*34';
+var Comment5 = '#keitogel = MONTIR36 = 81*93*34'; 
 
 var namagroup6 = 'KiosToto';
-var Comment6 = 'KIOSTOTO=MROTO15=55*86*06';
+var Comment6 = 'KIOSTOTO=MROTO15=55*86*06'; 
 
 var namagroup7 = 'KHUSUS MACAU';
-var Comment7 = '#ASEPTOGEL MOMER14 18*53*20';
+var Comment7 = '#ASEPTOGEL MOMER14 18*53*20'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=MOMER14=71*13*96';
+var Comment8 = 'ANGKER4D=MOMER14=71*13*96'; 
 
 var namagroup9 = 'GILA4D';
-var Comment9 = 'GILA4D=MOLET25=71*13*96';
+var Comment9 = 'GILA4D=MOLET25=71*13*96'; 
 
 var namagroup10 = 'JNETOTO';
-var Comment10 = '#JNETOTO(MOSIOM19)*81*93*34';
+var Comment10 = '#JNETOTO(MOSIOM19)*81*93*34'; 
 
 var namagroup11 = 'TOTOAKURAT';
-var Comment11 = '#TA*MORATUL19*11*39*85*';
+var Comment11 = '#TA*MORATUL19*11*39*85*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY MORAK16 26*40*92';
+var Comment12 = '#TOGELKUY MORAK16 26*40*92'; 
 
-var namagroup13 = 'PORTOGEL';
-var Comment13 = '#PORTOGEL (MOKONG71) : 03*68*05';
+var namagroup13 = 'CAK4D';
+var Comment13 = '#CAK4D*MOKONG71*03*68*05'; 
 
-var namagroup14 = 'WAHANATOGEL';
-var Comment14 = '#WAHANATOGEL(MONTOK69) : 03*68*05';
+var namagroup14 = 'RNR303';
+var Comment14 = '#RNR303(MONTOK69) : 03*68*05'; 
 
 var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (MOCHO19) 72*17*84';
+var Comment15 = '#VESPATOGEL (MOCHO19) 72*17*84'; 
 
-var namagroup16 = '1232123';
-var Comment16 = '123123';
+var namagroup16 = '12312';
+var Comment16 = '';
 
 
 
