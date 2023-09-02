@@ -32,7 +32,7 @@ var namagroup4 = 'GAIB4D';
 var Comment4 = 'GAIB4D=CACINGAN54=93*75*12'; 
 
 var namagroup5 = 'CAK4D';
-var Comment5 = '#CAK4D*CINTAKU43*99*82*69'; 
+var Comment5 = '#CAK4D*CINTAKU43*82*69'; 
 
 var namagroup6 = 'TiktakTogel';
 var Comment6 = '#Tiktaktogel / CUKAPASAR56 / 99 , 82 , 69'; 
