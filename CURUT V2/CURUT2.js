@@ -20,7 +20,7 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*MOCHOK52*18*53*20'; 
+var Comment1 = '#shiokelinci4d*MOCHOK52*18*53'; 
 
 var namagroup2 = 'HIGH4D';
 var Comment2 = 'MOCHI92 = 26*40*92 #HIGH4D #TOGELHIGH4D'; 
