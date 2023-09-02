@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF1
 // @namespace    http://tampermonkey.net/
-// @version      2.8
+// @version      2.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF1.js
@@ -19,53 +19,52 @@ var refresh = 90;
 
 
 var namagroup1 = 'HIGH4D';
-var Comment1 = 'SUSUANTIK = 26*27*29 #HIGH4D #TOGELHIGH4D';
+var Comment1 = 'SUSUANTIK = 26*27*29 #HIGH4D #TOGELHIGH4D'; 
 
 var namagroup2 = 'ANGKER';
-var Comment2 = 'ANGKER4D=ZULAFRNA002=72*24*92';
+var Comment2 = 'ANGKER4D=ZULAFRNA002=72*24*92'; 
 
 var namagroup3 = 'JNETOTO';
-var Comment3 = '#JNETOTO(ZULFCANTIK)*97*90*81';
+var Comment3 = '#JNETOTO(ZULFCANTIK)*97*90*81'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=CICIZULFA02=50*84*37';
+var Comment4 = 'GAIB4D=CICIZULFA02=50*84*37'; 
 
-var namagroup5 = 'PORTOGEL';
-var Comment5 = '#PORTOGEL (ZULIKA00) : 28*34*25';
+var namagroup5 = 'CAK4D';
+var Comment5 = '#CAK4D*ZULIKA00*28*34*25'; 
 
 var namagroup6 = 'TiktakTogel';
-var Comment6 = '#Tiktaktogel / ZULFGOLD / 31 , 83 , 45';
+var Comment6 = '#Tiktaktogel / ZULFGOLD / 31 , 83 , 45'; 
 
 var namagroup7 = 'KHUSUS MACAU';
-var Comment7 = '#ASEPTOGEL ZULFCANTIK 72*24*92';
+var Comment7 = '#ASEPTOGEL ZULFCANTIK 72*24*92'; 
 
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
-var Comment8 = '#TOGELKUY ZULAFRNA002 31*83*45';
+var Comment8 = '#TOGELKUY ZULAFRNA002 31*83*45'; 
 
 var namagroup9 = 'SHIOKELINCI4D';
-var Comment9 = '#shiokelinci4d*ZULFANI12*28*34';
+var Comment9 = '#shiokelinci4d*ZULFANI12*28*34*25'; 
 
 var namagroup10 = 'GILA4D';
-var Comment10 = 'GILA4D=ZUHULU00=50*84*37';
+var Comment10 = 'GILA4D=ZUHULU00=50*84*37'; 
 
 var namagroup11 = 'KEITOGEL';
-var Comment11 = '#keitogel = ZUZU34 = 97*90*81';
+var Comment11 = '#keitogel = ZUZU34 = 97*90*81'; 
 
 var namagroup12 = 'KiosToto';
-var Comment12 = 'KIOSTOTO=ZULFCANTIK=68*07*48';
+var Comment12 = 'KIOSTOTO=ZULFCANTIK=68*07*48'; 
 
 var namagroup13 = 'TOTOAKURAT';
-var Comment13 = '#TA*ZULFANI*26*27*29*';
+var Comment13 = '#TA*ZULFANI*26*27*29*'; 
 
-var namagroup14 = 'WAHANATOGEL';
-var Comment14 = '#WAHANATOGEL(ZULAFRNA002) : 89*03*41';
+var namagroup14 = 'RNR303';
+var Comment14 = '#RNR303(ZULAFRNA002) : 89*03*41'; 
 
 var namagroup15 = '123123123';
-var Comment15 = '';
+var Comment15 = ''; 
 
 var namagroup16 = '123213213';
 var Comment16 = '123123';
-
 
 
 
