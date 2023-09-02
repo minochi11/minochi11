@@ -19,7 +19,7 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*ALDIANAS16*04*46*75'; 
+var Comment1 = '#shiokelinci4d*ALDIANAS16*04*46'; 
 
 var namagroup2 = 'HIGH4D';
 var Comment2 = 'ALAKTRAS = 61*67*22 #HIGH4D #TOGELHIGH4D'; 
