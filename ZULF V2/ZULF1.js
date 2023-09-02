@@ -43,7 +43,7 @@ var namagroup8 = 'BOCORAN PREDIKSI SDY';
 var Comment8 = '#TOGELKUY ZULAFRNA002 31*83*45'; 
 
 var namagroup9 = 'SHIOKELINCI4D';
-var Comment9 = '#shiokelinci4d*ZULFANI12*28*34*25'; 
+var Comment9 = '#shiokelinci4d*ZULFANI12*28*25'; 
 
 var namagroup10 = 'GILA4D';
 var Comment10 = 'GILA4D=ZUHULU00=50*84*37'; 
