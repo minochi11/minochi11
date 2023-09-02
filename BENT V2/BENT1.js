@@ -44,7 +44,7 @@ var namagroup8 = 'BOCORAN PREDIKSI SDY';
 var Comment8 = '#TOGELKUY ASKALIMAN 33*22*67'; 
 
 var namagroup9 = 'SHIOKELINCI4D';
-var Comment9 = '#shiokelinci4d*ASLISUPER12*86*01*94'; 
+var Comment9 = '#shiokelinci4d*ASLISUPER12*86*01'; 
 
 var namagroup10 = 'GILA4D';
 var Comment10 = 'GILA4D=ASALAM44=65*13*15'; 
