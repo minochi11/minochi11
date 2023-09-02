@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT3
 // @namespace    http://tampermonkey.net/
-// @version      2.8
+// @version      2.9
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT3.js
@@ -20,7 +20,7 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*JOROKLU63*24*57*'; 
+var Comment1 = '#shiokelinci4d*JOROKLU63*24*57'; 
 
 var namagroup2 = 'HIGH4D';
 var Comment2 = 'JOMPLANG = 56*26*54 #HIGH4D #TOGELHIGH4D'; 
@@ -55,11 +55,11 @@ var Comment11 = '#TA*JONTOR64*05*29*44*';
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
 var Comment12 = '#TOGELKUY JOJONBETAWI 70*31*86'; 
 
-var namagroup13 = 'PORTOGEL';
-var Comment13 = '#PORTOGEL (JONGONO) : 56*26*54'; 
+var namagroup13 = 'CAK4D';
+var Comment13 = '#CAK4D*JONGONO*56*26*54'; 
 
-var namagroup14 = 'WAHANATOGEL';
-var Comment14 = '#WAHANATOGEL(JOVINDUL) : 70*31*86'; 
+var namagroup14 = 'RNR303';
+var Comment14 = '#RNR303(JOVINDUL) : 70*31*86'; 
 
 var namagroup15 = 'SNIPER';
 var Comment15 = '#VESPATOGEL (JOROKLUH) 32*28*01'; 
@@ -94,8 +94,8 @@ var Comment23 = '#DADU4D (351*052*177) JOKONDO7';
 var namagroup24 = 'CPGTOTO';
 var Comment24 = '#CPGTOTO ( JOKONDO7 ) : 761*631*951'; 
 
-var namagroup25 = 'Sloto288';
-var Comment25 = '#SLOTO288/JOROKLUH/677*044*440'; 
+var namagroup25 = 'KARMASLOT';
+var Comment25 = '#KARMASLOT = (JOROKLUH) 677*044*440 BETTING'; 
 
 var namagroup26 = 'LINGTOGEL77';
 var Comment26 = '#LINGTOGEL77*JOMNDUL73*545*470*548'; 
@@ -117,7 +117,6 @@ var Comment31 = 'JOROKLUH # 731/340/303 #YOGAPRO';
 
 var namagroup32 = 'PAKDE4D';
 var Comment32 = 'PAKDE4D ( JOKILAN11 ) : 442*124*163';
-
 
 
 
