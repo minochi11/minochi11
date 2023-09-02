@@ -18,7 +18,7 @@
 var refresh = 90;
 
 
-"var namagroup1 = 'SHIOKELINCI4D';
+var namagroup1 = 'SHIOKELINCI4D';
 var Comment1 = '#shiokelinci4d*METALIKA41*39*03'; 
 
 var namagroup2 = 'HIGH4D';
