@@ -59,7 +59,7 @@ var namagroup13 = 'TOTOAKURAT';
 var Comment13 = '#TA*BERANAK76*54*30*60*'; 
 
 var namagroup14 = 'RNR303';
-var Comment14 = '#RNR303(BOMBAA54) : 63*76*37'; 
+var Comment14 = '#RNR303(BINAKARMA54) : 63*76*37'; 
 
 var namagroup15 = '12312312';
 var Comment15 = ''; 
