@@ -21,7 +21,7 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*QOMAR26*37*94*79'; 
+var Comment1 = '#shiokelinci4d*QOMAR26*37*94'; 
 
 var namagroup2 = 'HIGH4D';
 var Comment2 = 'QOMAR27 = 30*31*98 #HIGH4D #TOGELHIGH4D'; 
