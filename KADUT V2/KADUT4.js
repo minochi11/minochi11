@@ -69,8 +69,8 @@ var Comment16 = '';
 
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'BMWGROUP';
-var Comment17 = 'FALS4D/SAKBIL*629*458*796'; 
+var namagroup17 = 'BorToto';
+var Comment17 = '#Bortoto (SAKEMPUL) : 629*458*796'; 
 
 var namagroup18 = 'Situstogel88';
 var Comment18 = '#SITUSTOGEL88 ( SAWERBOSE0 ) : 886*383*661'; 
