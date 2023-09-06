@@ -68,8 +68,8 @@ var namagroup16 = '1231231';
 var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'BMWGROUP';
-var Comment17 = 'FALS4D/MOCHOK52*561*506*120'; 
+var namagroup17 = 'BorToto';
+var Comment17 = '#Bortoto (MOCHKUR19) : 561*506*120'; 
 
 var namagroup18 = 'Situstogel88';
 var Comment18 = '#SITUSTOGEL88 ( MOCHI92 ) : 560*429*182'; 
