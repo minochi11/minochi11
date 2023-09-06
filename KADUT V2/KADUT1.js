@@ -70,8 +70,8 @@ var Comment16 = '';
 
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'BMWGROUP';
-var Comment17 = 'FALS4D/BORIAN19*257*365*991'; 
+var namagroup17 = 'BorToto';
+var Comment17 = '#Bortoto (BOLEN19) : 257*365*991'; 
 
 var namagroup18 = 'Situstogel88';
 var Comment18 = '#SITUSTOGEL88 ( BUNCIT17 ) : 834*213*702'; 
