@@ -69,8 +69,8 @@ var Comment16 = '';
 
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'BMWGROUP';
-var Comment17 = 'FALS4D/SRIWLIT62*952*658*217'; 
+var namagroup17 = 'BorToto';
+var Comment17 = '#Bortoto (SRIDU268) : 952*658*217'; 
 
 var namagroup18 = 'Situstogel88';
 var Comment18 = '#SITUSTOGEL88 ( SRISUWING ) : 233*910*833'; 
