@@ -68,8 +68,8 @@ var namagroup16 = '12312';
 var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'BMWGROUP';
-var Comment17 = 'FALS4D/QOMAR26*141*720*316'; 
+var namagroup17 = 'BorToto';
+var Comment17 = '#Bortoto (QUMURTU17) : 141*720*316'; 
 
 var namagroup18 = 'Situstogel88';
 var Comment18 = '#SITUSTOGEL88 ( QOMAR27 ) : 844*642*259'; 
