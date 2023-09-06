@@ -68,8 +68,8 @@ var namagroup16 = 'awdawd1';
 var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'BMWGROUP';
-var Comment17 = 'FALS4D/TELEKKLUWER*157*839*830'; 
+var namagroup17 = 'BorToto';
+var Comment17 = '#Bortoto (TUMPURUNG) : 157*839*830'; 
 
 var namagroup18 = 'Situstogel88';
 var Comment18 = '#SITUSTOGEL88 ( TELEKEK ) : 414*823*774'; 
