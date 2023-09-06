@@ -71,8 +71,8 @@ var Comment16 = '123123';
 
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'BMWGROUP';
-var Comment17 = 'FALS4D/DALBAN13 *347*453*687'; 
+var namagroup17 = 'BorToto';
+var Comment17 = '#Bortoto (DONAL13) : 347*453*687'; 
 
 var namagroup18 = 'Situstogel88';
 var Comment18 = '#SITUSTOGEL88 ( DOLENG28 ) : 766*753*776'; 
