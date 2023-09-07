@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF2
 // @namespace    http://tampermonkey.net/
-// @version      2.9
+// @version      3.0
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF2.js
@@ -57,8 +57,8 @@ var Comment12 = 'KIOSTOTO=TERMINATO003=73*66*58';
 var namagroup13 = 'TOTOAKURAT';
 var Comment13 = '#TA*ALBAKU13*70*49*19*'; 
 
-var namagroup14 = 'RNR303';
-var Comment14 = '#RNR303(KORBANSLOT11) : 40*51*78'; 
+var namagroup14 = 'GOSIPTOTO';
+var Comment14 = '#GOSIPTOTO (KORBANSLOT11) : *40*51*78'; 
 
 var namagroup15 = '12312312';
 var Comment15 = ''; 
