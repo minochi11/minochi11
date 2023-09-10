@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AUTO  JOIN
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/AUTOJOIN/AUTOJOIN.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/AUTOJOIN/AUTOJOIN.js
@@ -85,6 +85,9 @@ setInterval(function(){
           document.querySelectorAll("[type='submit']")[0].click()
 
       }
+if(document.querySelectorAll("[aria-label='Grup Saya']")){
+document.querySelectorAll("[aria-label='Grup Saya']")[0].click();
+}
 
 
 
