@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AUTO  JOIN
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/AUTOJOIN/AUTOJOIN.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/AUTOJOIN/AUTOJOIN.js
@@ -14,7 +14,7 @@
 // @grant       window.close
 // ==/UserScript==
 
-var refresh = 150;
+var refresh = 250;
 var cekjoin1 = document.getElementsByClassName('native-text')[10]
 var cekjoin2 = document.getElementsByClassName('native-text')[11]
 var cekjoin3 = document.getElementsByClassName('native-text')[12]
