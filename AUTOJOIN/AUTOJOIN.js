@@ -85,11 +85,6 @@ setInterval(function(){
           document.querySelectorAll("[type='submit']")[0].click()
 
       }
-if(document.querySelectorAll("[aria-label='Grup Saya']")){
-document.querySelectorAll("[aria-label='Grup Saya']")[0].click();
-}
-
-
 
   }
 
