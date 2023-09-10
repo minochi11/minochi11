@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AUTO  JOIN
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/AUTOJOIN/AUTOJOIN.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/AUTOJOIN/AUTOJOIN.js
@@ -64,8 +64,8 @@ setInterval(function(){
           if(document.getElementsByClassName('native-text')[2].textContent.includes("grup")){
 
 
-              if(document.getElementsByClassName('native-text')[12].textContent == "Lihat" || document.getElementsByClassName('native-text')[12].textContent == "Gabung") {
-                  document.getElementsByClassName('native-text')[12].click()
+              if(document.getElementsByClassName('native-text')[8].textContent == "Lihat" || document.getElementsByClassName('native-text')[8].textContent == "Gabung") {
+                  document.getElementsByClassName('native-text')[8].click()
               }
               if(document.getElementsByClassName('native-text')[11].textContent == "Lihat" || document.getElementsByClassName('native-text')[11].textContent == "Gabung") {
                   document.getElementsByClassName('native-text')[11].click()
