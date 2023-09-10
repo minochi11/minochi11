@@ -14,7 +14,7 @@
 // @grant       window.close
 // ==/UserScript==
 
-var refresh = 90;
+var refresh = 150;
 var cekjoin1 = document.getElementsByClassName('native-text')[10]
 var cekjoin2 = document.getElementsByClassName('native-text')[11]
 var cekjoin3 = document.getElementsByClassName('native-text')[12]
@@ -22,11 +22,20 @@ var cekjoin4 = document.getElementsByClassName('native-text')[13]
 var cekjoin5 = document.getElementsByClassName('native-text')[14]
 setInterval(function(){
     'use strict';
+    if(document.querySelectorAll("[aria-label='Grup']")[0]){
+        if(document.querySelectorAll("[aria-label='Grup']")[0].textContent == "Grup"){
+            document.querySelectorAll("[aria-label='Grup']")[0].click()
+        }
+    }
+     if(document.querySelectorAll("[data-store-id='17']")[0]){
 
+          if(document.querySelectorAll("[data-store-id='17']")[0].textContent = "Grup"){
+              document.querySelectorAll("[data-store-id='17']")[0].click();
+          }
 
+      }
 
-
-    if(document.readyState == "complete"){
+    if(cekjoin1||cekjoin2||cekjoin3||cekjoin4||cekjoin5){
         if(cekjoin1.textContent.includes("Bergabung grup")==true) {
             document.getElementsByClassName('native-text')[10].click();
             window.location.reload()
@@ -50,13 +59,36 @@ setInterval(function(){
 
 
     }
-      if(document.URL.includes('search')){
-        if(document.getElementsByClassName('native-text').length >=17 ) {
-        document.getElementsByClassName('native-text')[17].click()
-        }
-        document.querySelectorAll("[value='Kunjungi']")[0].click()
-    }
+  if(document.URL.includes('search')){
+      if(document.getElementsByClassName('native-text')[2]){
+          if(document.getElementsByClassName('native-text')[2].textContent.includes("grup")){
 
+
+              if(document.getElementsByClassName('native-text')[12].textContent == "Lihat" || document.getElementsByClassName('native-text')[12].textContent == "Gabung") {
+                  document.getElementsByClassName('native-text')[12].click()
+              }
+              if(document.getElementsByClassName('native-text')[11].textContent == "Lihat" || document.getElementsByClassName('native-text')[11].textContent == "Gabung") {
+                  document.getElementsByClassName('native-text')[11].click()
+              }
+              if(document.getElementsByClassName('native-text')[10].textContent == "Lihat" || document.getElementsByClassName('native-text')[10].textContent == "Gabung") {
+                  document.getElementsByClassName('native-text')[10].click()
+              }
+              if(document.getElementsByClassName('native-text')[9].textContent == "Lihat" || document.getElementsByClassName('native-text')[9].textContent == "Gabung") {
+                  document.getElementsByClassName('native-text')[9].click()
+              }
+
+
+          }
+      }
+
+      if (document.querySelectorAll("[data-module-result-type='group']")[0]){
+          document.querySelectorAll("[type='submit']")[0].click()
+
+      }
+
+
+
+  }
 
     // Your code here...
 },refresh * 10)
