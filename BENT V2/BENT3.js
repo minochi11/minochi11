@@ -32,7 +32,7 @@ var namagroup4 = 'GAIB4D';
 var Comment4 = 'GAIB4D=CACINGAN54=93*75*12'; 
 
 var namagroup5 = 'CAK4D';
-var Comment5 = '#CAK4D*CINTAKU43*82*69'; 
+var Comment5 = '#CAK4D*CINTAKU43*99*82*69'; 
 
 var namagroup6 = 'TiktakTogel';
 var Comment6 = '#Tiktaktogel / CUKAPASAR56 / 99 , 82 , 69'; 
@@ -44,7 +44,7 @@ var namagroup8 = 'BOCORAN PREDIKSI SDY';
 var Comment8 = '#TOGELKUY CNDAKARTA76 20*74*28'; 
 
 var namagroup9 = 'SHIOKELINCI4D';
-var Comment9 = '#shiokelinci4d*CACING65*89*58*71'; 
+var Comment9 = '#shiokelinci4d*CACING65*89*58'; 
 
 var namagroup10 = 'GILA4D';
 var Comment10 = 'GILA4D=CUALINSENG41=93*75*12'; 
