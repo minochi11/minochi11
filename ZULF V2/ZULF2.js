@@ -19,7 +19,7 @@ var refresh = 90;
 
 
 var namagroup1 = 'FULUSTOTO';
-var Comment1 = '#FULUSTOTO*KAKEKZEUS007=70*49*19'; 
+var Comment1 = '#FULUSTOTO*KAKEKZEUS0077=70*49*19'; 
 
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=KORBANSLOT11=18*12*98'; 
