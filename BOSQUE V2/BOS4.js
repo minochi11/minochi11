@@ -19,51 +19,51 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*METALIKA41*39*03*67'; 
+var Comment1 = '#shiokelinci4d*ZONEST2*65*32'; 
 
-var namagroup2 = 'HIGH4D';
-var Comment2 = 'MENTARI17 = 31*90*85 #HIGH4D #TOGELHIGH4D'; 
+var namagroup2 = 'FULUSTOTO';
+var Comment2 = '#FULUSTOTO*ZOROK73=51*17*14'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / MERANTAU41 / 01 , 81 , 42'; 
+var Comment3 = '#Tiktaktogel / ZOMBIE27 / 42 , 21 , 55'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=MERATIH14=38*22*57'; 
+var Comment4 = 'GAIB4D=ZORAN36=30*45*36'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = MAKIMUNG31 = 31*90*85'; 
+var Comment5 = '#keitogel = ZONIAK63 = 25*54*74'; 
 
 var namagroup6 = 'KiosToto';
-var Comment6 = 'KIOSTOTO=MATIO50=08*69*36'; 
+var Comment6 = 'KIOSTOTO=ZOMING82=44*94*05'; 
 
 var namagroup7 = 'KHUSUS MACAU';
-var Comment7 = '#ASEPTOGEL MAKDUNGDUNG 08*69*36'; 
+var Comment7 = '#ASEPTOGEL ZONATIK73 44*94*05'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=MACRONI52=53*41*98'; 
+var Comment8 = 'ANGKER4D=ZONATING=15*86*07'; 
 
 var namagroup9 = 'GILA4D';
-var Comment9 = 'GILA4D=MEROJAYA51=53*41*98'; 
+var Comment9 = 'GILA4D=ZOWOK26=42*21*18'; 
 
 var namagroup10 = 'JNETOTO';
-var Comment10 = '#JNETOTO(MELAMUN44)*01*81*42'; 
+var Comment10 = '#JNETOTO(ZOKET72)*22*83*81'; 
 
 var namagroup11 = 'TOTOAKURAT';
-var Comment11 = '#TA*MAUEWEK5X*53*41*98*'; 
+var Comment11 = '#TA*ZOKUTU72*51*17*14*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY MAKTUNG52 38*22*57'; 
+var Comment12 = '#TOGELKUY ZOWEKNI82 30*45*36'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( MADUL45 ) : 62*15*95'; 
+var Comment13 = '#TOYIBSLOT ( ZOWINDO ) : 65*32*61'; 
 
 var namagroup14 = 'GOSIPTOTO';
-var Comment14 = '#GOSIPTOTO (MASAK741) : *62*15*95'; 
+var Comment14 = '#GOSIPTOTO (ZORLETA) : *30*45*36'; 
 
 var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (MERAHKU75) 94*66*86'; 
+var Comment15 = '#VESPATOGEL (ZONIAK26) 25*54*74'; 
 
-var namagroup16 = '521625';
+var namagroup16 = 'hdnqkwg7';
 var Comment16 = '';
 
 
