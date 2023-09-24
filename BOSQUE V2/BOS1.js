@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BOS1
 // @namespace    http://tampermonkey.net/
-// @version      3.1
+// @version      3.2
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS1.js
@@ -79,7 +79,7 @@ var Comment16 = '';
 
 
 /*Keyword*/
-var keyword = ["room", "ROOM", "lomba","LOMBA","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","lomba angker4d","room lomba","ROOM_LOMBA","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","room lomba betting"];
+var keyword = ["room", "ROOM", "lomba","LOMBA","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","room lomba betting"];
 
 
 /*Backlist Kata*/
