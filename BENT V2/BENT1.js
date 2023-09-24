@@ -71,7 +71,7 @@ var Comment16 = '123123';
 
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'BorToto';
+var namagroup17 = 'BORTOTO';
 var Comment17 = '#Bortoto (DONAL13) : 347*453*687'; 
 
 var namagroup18 = 'Situstogel88';
