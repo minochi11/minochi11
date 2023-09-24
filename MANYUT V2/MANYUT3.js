@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT3
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT3.js
@@ -68,7 +68,7 @@ var namagroup16 = '123123';
 var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'BorToto';
+var namagroup17 = 'BORTOTO';
 var Comment17 = '#Bortoto (ALTIMBUL) : 892*513*945'; 
 
 var namagroup18 = 'Situstogel88';
@@ -121,7 +121,7 @@ var Comment32 = 'PAKDE4D ( ALTIMBUL ) : 745*898*330';
 
 
 /*Keyword*/
-var keyword = ["room", "ROOM", "lomba","LOMBA","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","lomba angker4d","room lomba","ROOM_LOMBA","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","room lomba betting"];
+var keyword = ["room", "ROOM", "lomba","LOMBA","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","room lomba betting"];
 
 
 /*Backlist Kata*/
