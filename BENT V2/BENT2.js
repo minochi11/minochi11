@@ -70,7 +70,7 @@ var Comment16 = '';
 
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'BorToto';
+var namagroup17 = 'BORTOTO';
 var Comment17 = '#Bortoto (POLITAS) : 579*394*855'; 
 
 var namagroup18 = 'Situstogel88';
