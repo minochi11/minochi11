@@ -22,8 +22,8 @@ var refresh = 90;
 var namagroup1 = 'SHIOKELINCI4D';
 var Comment1 = '#shiokelinci4d*JOROKLU63*24*57'; 
 
-var namagroup2 = 'FULUSTOTO';
-var Comment2 = '#FULUSTOTO*JOMPLANG=56*26*54'; 
+var namagroup2 = 'WOLF138';
+var Comment2 = 'JOMPLANG = 56*26*54 #WOLF138 #TOGELWOLF138'; 
 
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / JONTOR6 / 87 , 41 , 20'; 
