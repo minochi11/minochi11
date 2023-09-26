@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF1
 // @namespace    http://tampermonkey.net/
-// @version      3.4
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF1.js
@@ -18,8 +18,8 @@
 var refresh = 90;
 
 
-var namagroup1 = 'WOLF138';
-var Comment1 = 'SUSUANTIK = 26*27*29 #WOLF138 #TOGELWOLF138'; 
+var namagroup1 = 'VELBET4D';
+var Comment1 = '{SUSUANTIK} = #VELBET4D = 26*27*29'; 
 
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=ZULAFRNA002=72*24*92'; 
