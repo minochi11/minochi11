@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.5
+// @version      3.6
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT2.js
@@ -78,8 +78,8 @@ var Comment18 = '#SITUSTOGEL88 ( SRISUWING ) : 233*910*833';
 var namagroup19 = 'NONSTOPGROUP';
 var Comment19 = '( #LOMBA3DBADUT4D SRIMIT64 : 061 , 151 , 430 )'; 
 
-var namagroup20 = 'LOTTE4D';
-var Comment20 = '#LOTTE4D ( SRIANU36 ) : 683*637*681'; 
+var namagroup20 = 'PAO4D';
+var Comment20 = '#PAO4D (SRIANU36) = 683*637*681'; 
 
 var namagroup21 = 'OBI9';
 var Comment21 = '#OBI9*SRIANU36*436*808*102*'; 
@@ -90,8 +90,8 @@ var Comment22 = '#TOGEL838 (SRIANU36) = 814*829*407';
 var namagroup23 = 'DADU4D';
 var Comment23 = '#DADU4D (353*097*772) SRIWING6'; 
 
-var namagroup24 = 'CPGTOTO';
-var Comment24 = '#CPGTOTO ( SRIWING6 ) : 409*536*091'; 
+var namagroup24 = 'OTU SLOT';
+var Comment24 = '#OTUSLOT*SRIWING6*409*536*091*BETTING'; 
 
 var namagroup25 = 'KARMASLOT';
 var Comment25 = '#KARMASLOT = (SRILAKCU) 760*616*326 BETTING'; 
@@ -99,8 +99,8 @@ var Comment25 = '#KARMASLOT = (SRILAKCU) 760*616*326 BETTING';
 var namagroup26 = 'LINGTOGEL77';
 var Comment26 = '#LINGTOGEL77*SRIWING67*809*334*408'; 
 
-var namagroup27 = 'AHHA4D';
-var Comment27 = '( #ASHIAAAP SRIMIT64 : 105 , 732 , 827 )'; 
+var namagroup27 = 'TOTOGACOR';
+var Comment27 = '#TOTOGACOR(SRIMIT64)105 , 732 , 827'; 
 
 var namagroup28 = 'GTA';
 var Comment28 = '#GTATOGEL {SRISUWING} = 949*711*878'; 
