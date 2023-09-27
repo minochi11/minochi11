@@ -92,8 +92,8 @@ var Comment22 = '#TOGEL838 (ASIMATJUMBO) = 674*112*501';
 var namagroup23 = 'DADU4D';
 var Comment23 = '#DADU4D (130*359*748) DOMINO28'; 
 
-var namagroup24 = 'CPGTOTO';
-var Comment24 = '#CPGTOTO ( ASIMATJUMBO ) : 871*154*128'; 
+var namagroup24 = 'OTU SLOT';
+var Comment24 = '#OTUSLOT*ASIMATJUMBO*871*154*128*BETTING'; 
 
 var namagroup25 = 'KARMASLOT';
 var Comment25 = '#KARMASLOT = (DAWET121) 626*456*924 BETTING'; 
