@@ -101,8 +101,8 @@ var Comment25 = '#KARMASLOT = (DAWET121) 626*456*924 BETTING';
 var namagroup26 = 'LINGTOGEL77';
 var Comment26 = '#LINGTOGEL77*ASTADINA12*289*060*718'; 
 
-var namagroup27 = 'AHHA4D';
-var Comment27 = '( #ASHIAAAP AZKALAN : 231 , 481 , 584 )'; 
+var namagroup27 = 'TOTOGACOR';
+var Comment27 = '#TOTOGACOR(ASKUTENG12)231 , 481 , 584'; 
 
 var namagroup28 = 'GTA';
 var Comment28 = '#GTATOGEL {ASABKUBUR12} = 382*909*089'; 
