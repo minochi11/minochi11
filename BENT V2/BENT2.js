@@ -91,8 +91,8 @@ var Comment22 = '#TOGEL838 (BERANAK76) = 318*915*556';
 var namagroup23 = 'DADU4D';
 var Comment23 = '#DADU4D (261*701*297) PANDALO19'; 
 
-var namagroup24 = 'CPGTOTO';
-var Comment24 = '#CPGTOTO ( BERANAK76 ) : 819*273*692'; 
+var namagroup24 = 'OTU SLOT';
+var Comment24 = '#OTUSLOT*BERANAK76*819*273*692*BETTING'; 
 
 var namagroup25 = 'KARMASLOT';
 var Comment25 = '#KARMASLOT = (PANDAL93) 322*914*018 BETTING'; 
@@ -100,8 +100,8 @@ var Comment25 = '#KARMASLOT = (PANDAL93) 322*914*018 BETTING';
 var namagroup26 = 'LINGTOGEL77';
 var Comment26 = '#LINGTOGEL77*BIKANG12*758*008*030'; 
 
-var namagroup27 = 'AHHA4D';
-var Comment27 = '( #ASHIAAAP BOBOHO55 : 022 , 698 , 350 )'; 
+var namagroup27 = 'TOTOGACOR';
+var Comment27 = '#TOTOGACOR(BONANSA67)022 , 698 , 350'; 
 
 var namagroup28 = 'GTA';
 var Comment28 = '#GTATOGEL {BINAKARMA54} = 938*075*080'; 
