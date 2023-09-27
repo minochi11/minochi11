@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.5
+// @version      3.6
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
@@ -77,8 +77,8 @@ var Comment18 = '#SITUSTOGEL88 ( QOMAR27 ) : 844*642*259';
 var namagroup19 = 'NONSTOPGROUP';
 var Comment19 = '( #LOMBA3DBADUT4D QOMAR28 : 619 , 260 , 036 )'; 
 
-var namagroup20 = 'LOTTE4D';
-var Comment20 = '#LOTTE4D ( QOMAR29 ) : 858*379*690'; 
+var namagroup20 = 'PAO4D';
+var Comment20 = '#PAO4D (QOMAR29) = 858*379*690'; 
 
 var namagroup21 = 'OBI9';
 var Comment21 = '#OBI9*QOMAR26*230*110*802*'; 
@@ -89,8 +89,8 @@ var Comment22 = '#TOGEL838 (QOMINTO15) = 572*960*662';
 var namagroup23 = 'DADU4D';
 var Comment23 = '#DADU4D (451*317*076) QUNTUL6'; 
 
-var namagroup24 = 'CPGTOTO';
-var Comment24 = '#CPGTOTO ( QOMARUT14 ) : 568*974*410'; 
+var namagroup24 = 'OTU SLOT';
+var Comment24 = '#OTUSLOT*QOMARUT14*568*974*410*BETTING'; 
 
 var namagroup25 = 'KARMASLOT';
 var Comment25 = '#KARMASLOT = (QOMA123) 935*979*659 BETTING'; 
@@ -98,8 +98,8 @@ var Comment25 = '#KARMASLOT = (QOMA123) 935*979*659 BETTING';
 var namagroup26 = 'LINGTOGEL77';
 var Comment26 = '#LINGTOGEL77*QOMARUT14*114*118*298'; 
 
-var namagroup27 = 'AHHA4D';
-var Comment27 = '( #ASHIAAAP QOMAR28 : 942 , 759 , 211 )'; 
+var namagroup27 = 'TOTOGACOR';
+var Comment27 = '#TOTOGACOR(QOMAR28)942 , 759 , 211'; 
 
 var namagroup28 = 'GTA';
 var Comment28 = '#GTATOGEL {QANAS52} = 920*245*624'; 
