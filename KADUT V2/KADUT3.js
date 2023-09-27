@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT3
 // @namespace    http://tampermonkey.net/
-// @version      3.5
+// @version      3.6
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT3.js
@@ -79,8 +79,8 @@ var Comment18 = '#SITUSTOGEL88 ( JOKILAN11 ) : 744*457*849';
 var namagroup19 = 'NONSTOPGROUP';
 var Comment19 = '( #LOMBA3DBADUT4D JONTOR6 : 786 , 708 , 735 )'; 
 
-var namagroup20 = 'LOTTE4D';
-var Comment20 = '#LOTTE4D ( JOSUWISUWI ) : 633*846*817'; 
+var namagroup20 = 'PAO4D';
+var Comment20 = '#PAO4D (JOSUWISUWI) = 633*846*817'; 
 
 var namagroup21 = 'OBI9';
 var Comment21 = '#OBI9*JOSUWISUWI*502*813*507*'; 
@@ -91,8 +91,8 @@ var Comment22 = '#TOGEL838 (JONTOR64) = 335*563*739';
 var namagroup23 = 'DADU4D';
 var Comment23 = '#DADU4D (351*052*177) JOKONDO7'; 
 
-var namagroup24 = 'CPGTOTO';
-var Comment24 = '#CPGTOTO ( JOKONDO7 ) : 761*631*951'; 
+var namagroup24 = 'OTU SLOT';
+var Comment24 = '#OTUSLOT*JOKONDO7*761*631*951*BETTING'; 
 
 var namagroup25 = 'KARMASLOT';
 var Comment25 = '#KARMASLOT = (JOROKLUH) 677*044*440 BETTING'; 
@@ -100,8 +100,8 @@ var Comment25 = '#KARMASLOT = (JOROKLUH) 677*044*440 BETTING';
 var namagroup26 = 'LINGTOGEL77';
 var Comment26 = '#LINGTOGEL77*JOMNDUL73*545*470*548'; 
 
-var namagroup27 = 'AHHA4D';
-var Comment27 = '( #ASHIAAAP JONTOR6 : 172 , 916 , 968 )'; 
+var namagroup27 = 'TOTOGACOR';
+var Comment27 = '#TOTOGACOR(JONTOR6)172 , 916 , 968'; 
 
 var namagroup28 = 'GTA';
 var Comment28 = '#GTATOGEL {JOJONBETAWI} = 785*017*176'; 
