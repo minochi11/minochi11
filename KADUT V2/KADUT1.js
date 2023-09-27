@@ -22,7 +22,7 @@ var refresh = 90;
 var namagroup1 = 'SHIOKELINCI4D';
 var Comment1 = '#shiokelinci4d*BUNDER0*34*94'; 
 
-var namagroup2 = 'VELBET4D
+var namagroup2 = 'VELBET4D';
 var Comment2 = '{BOLINA61} = #VELBET4D = 43*25*11'; 
 
 var namagroup3 = 'TiktakTogel';
