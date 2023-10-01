@@ -19,49 +19,49 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*TOMENJERY12*13*17*24'; 
+var Comment1 = '#shiokelinci4d*CADIHP*97*87'; 
 
-var namagroup2 = 'HIGH4D';
-var Comment2 = 'TOMRAIDER13 = 35*92*32 #HIGH4D #TOGELHIGH4D'; 
+var namagroup2 = 'VELBET4D';
+var Comment2 = '{ACOK02} = #VELBET4D = 37*85*45'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / TOMBOLPENTIL / 72 , 20 , 76'; 
+var Comment3 = '#Tiktaktogel / TELRING / 20 , 58 , 42'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=TOMBOLNUKLIR=93*77*07'; 
+var Comment4 = 'GAIB4D=JAGENN=89*24*46'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = TOMBLOK32 = 35*92*32'; 
+var Comment5 = '#keitogel = ACOK02 = 97*87*27'; 
 
 var namagroup6 = 'KiosToto';
-var Comment6 = 'KIOSTOTO=TOMBOY23=12*65*52'; 
+var Comment6 = 'KIOSTOTO=KANTAI=06*12*92'; 
 
-var namagroup7 = 'KHUSUS MACAU';
-var Comment7 = '#ASEPTOGEL TOMPAKAN23 12*65*52'; 
+var namagroup7 = 'KHUSUS';
+var Comment7 = '#ASEPTOGEL ACOK02 48*44*74'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=TOMBIBI24=18*48*51'; 
+var Comment8 = 'ANGKER4D=SOTEEL=48*44*74'; 
 
 var namagroup9 = 'GILA4D';
-var Comment9 = 'GILA4D=TOMBENG34=18*48*51'; 
+var Comment9 = 'GILA4D=SEGOTOT=20*58*84'; 
 
 var namagroup10 = 'JNETOTO';
-var Comment10 = '#JNETOTO(TOMSENG21)*72*20*76'; 
+var Comment10 = '#JNETOTO(ACOK02)*11*82*51'; 
 
 var namagroup11 = 'TOTOAKURAT';
-var Comment11 = '#TA*TOMLAK12*18*48*51*'; 
+var Comment11 = '#TA*ACOK02*37*85*45*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY TOMBIS34 93*77*07'; 
+var Comment12 = '#TOGELKUY COKAHU 06*12*92'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( TOMBOL24 ) : 46*50*05'; 
+var Comment13 = '#TOYIBSLOT ( ACOK02 ) : 29*28*86'; 
 
 var namagroup14 = 'GOSIPTOTO';
-var Comment14 = '#GOSIPTOTO (TOMBRENG34) : *46*50*05'; 
+var Comment14 = '#GOSIPTOTO (ACOK02) : *06*12*92'; 
 
 var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (TOMASKU34) 30*97*61'; 
+var Comment15 = '#VESPATOGEL (ACOK02) 29*28*86'; 
 
 var namagroup16 = 'hdnqkwg7';
 var Comment16 = '';
