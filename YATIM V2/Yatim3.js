@@ -19,49 +19,49 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*NOVITASURI12*82*43*47'; 
+var Comment1 = '#shiokelinci4d*SILITMUMET*69*57'; 
 
-var namagroup2 = 'HIGH4D';
-var Comment2 = 'NOVINOVA231 = 28*04*91 #HIGH4D #TOGELHIGH4D'; 
+var namagroup2 = 'VELBET4D';
+var Comment2 = '{SILITCLING} = #VELBET4D = 88*26*22'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / NOVIRAS34 / 63 , 25 , 56'; 
+var Comment3 = '#Tiktaktogel / SIALAN17 / 68 , 19 , 94'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=NOVITAS3=45*89*54'; 
+var Comment4 = 'GAIB4D=SILUWET=21*96*00'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = NOVIATOS12 = 28*04*91'; 
+var Comment5 = '#keitogel = SIMPAK17 = 69*57*34'; 
 
 var namagroup6 = 'KiosToto';
-var Comment6 = 'KIOSTOTO=NOVIRAMBU3=60*10*26'; 
+var Comment6 = 'KIOSTOTO=SINDOLI39=14*65*30'; 
 
-var namagroup7 = 'KHUSUS MACAU';
-var Comment7 = '#ASEPTOGEL NOVITARU34 60*10*26'; 
+var namagroup7 = 'KHUSUS';
+var Comment7 = '#ASEPTOGEL SIPIRIT10 32*70*33'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=NOVITAS53=73*83*40'; 
+var Comment8 = 'ANGKER4D=SIPIRIT10=32*70*16'; 
 
 var namagroup9 = 'GILA4D';
-var Comment9 = 'GILA4D=NOVINANU83=73*83*40'; 
+var Comment9 = 'GILA4D=SIKUKAKU11=68*19*94'; 
 
 var namagroup10 = 'JNETOTO';
-var Comment10 = '#JNETOTO(NOVIKARMA11)*63*25*56'; 
+var Comment10 = '#JNETOTO(SIKLUWER)*60*13*38'; 
 
 var namagroup11 = 'TOTOAKURAT';
-var Comment11 = '#TA*NOVINDOL*73*83*40*'; 
+var Comment11 = '#TA*SINTING19*88*26*22*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY NOVIKAR23 45*89*54'; 
+var Comment12 = '#TOGELKUY SIMBAHMU 21*96*00'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( NOVIAN24 ) : 96*14*23'; 
+var Comment13 = '#TOYIBSLOT ( SIMPAL19 ) : 31*40*98'; 
 
 var namagroup14 = 'GOSIPTOTO';
-var Comment14 = '#GOSIPTOTO (NOVISAN31) : *96*14*23'; 
+var Comment14 = '#GOSIPTOTO (SIUDUK19) : *14*65*30'; 
 
 var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (NOVIPAL34) 27*58*75'; 
+var Comment15 = '#VESPATOGEL (SIMUMET17) 31*40*98'; 
 
 var namagroup16 = 'u382ys';
 var Comment16 = '';
