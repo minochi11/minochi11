@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BOS4
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.5
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS4.js
@@ -21,8 +21,8 @@ var refresh = 90;
 var namagroup1 = 'SHIOKELINCI4D';
 var Comment1 = '#shiokelinci4d*ZONEST2*65*32'; 
 
-var namagroup2 = 'FULUSTOTO';
-var Comment2 = '#FULUSTOTO*ZOROK73=51*17*14'; 
+var namagroup2 = 'VELBET4D';
+var Comment2 = '{ZOROK73} = #VELBET4D = 51*17*14'; 
 
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / ZOMBIE27 / 42 , 21 , 55'; 
@@ -36,7 +36,7 @@ var Comment5 = '#keitogel = ZONIAK63 = 25*54*74';
 var namagroup6 = 'KiosToto';
 var Comment6 = 'KIOSTOTO=ZOMING82=44*94*05'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL ZONATIK73 44*94*05'; 
 
 var namagroup8 = 'ANGKER';
