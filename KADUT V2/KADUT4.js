@@ -124,8 +124,7 @@ var Comment32 = 'PAKDE4D ( SAKEMPUL ) : 306*515*517';
 
 
 /*Keyword*/
-var keyword = ["room", "ROOM", "lomba","LOMBA","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","𝗥𝗢𝗢𝗠 𝗟𝗢𝗠𝗕𝗔","room lomba betting"];
-
+var keyword = ["room", "ROOM", "lomba","LOMBA","𝗥𝗢𝗢𝗠","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","𝗟𝗢𝗠𝗕𝗔","room lomba betting"];
 
 /*Backlist Kata*/
 var Backlist = ["rekap", "artikel", "hasil","jam berapa","room lomba freebet","nanti","kapan","bos","mana"];
