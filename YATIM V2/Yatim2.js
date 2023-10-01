@@ -19,49 +19,49 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*KRISWATI89*09*99*79'; 
+var Comment1 = '#shiokelinci4d*FERTULE*43*75'; 
 
-var namagroup2 = 'HIGH4D';
-var Comment2 = 'KRISAKTI1 = 06*29*21 #HIGH4D #TOGELHIGH4D'; 
+var namagroup2 = 'VELBET4D';
+var Comment2 = '{FERCUKZ} = #VELBET4D = 61*18*05'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / KRISMANDA23 / 70 , 87 , 80'; 
+var Comment3 = '#Tiktaktogel / FERPEKZ / 59 , 35 , 25'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=KRISEMPU51=02*71*74'; 
+var Comment4 = 'GAIB4D=FERIBS=78*91*04'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = KRISAN41 = 06*29*21'; 
+var Comment5 = '#keitogel = FERKEII = 43*75*41'; 
 
 var namagroup6 = 'KiosToto';
-var Comment6 = 'KIOSTOTO=KRISMANDA23=34*64*68'; 
+var Comment6 = 'KIOSTOTO=FERYOS=95*36*17'; 
 
-var namagroup7 = 'KHUSUS MACAU';
-var Comment7 = '#ASEPTOGEL KRISMA56 34*64*68'; 
+var namagroup7 = 'KHUSUS';
+var Comment7 = '#ASEPTOGEL FERCAU 54*09*67'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=KRISTANTI34=84*44*19'; 
+var Comment8 = 'ANGKER4D=FERKERR=54*09*63'; 
 
 var namagroup9 = 'GILA4D';
-var Comment9 = 'GILA4D=KRISMALI2=84*44*19'; 
+var Comment9 = 'GILA4D=FERGILL=59*35*25'; 
 
 var namagroup10 = 'JNETOTO';
-var Comment10 = '#JNETOTO(KRISANTI46)*70*87*80'; 
+var Comment10 = '#JNETOTO(FERJENS)*80*99*55'; 
 
 var namagroup11 = 'TOTOAKURAT';
-var Comment11 = '#TA*KRISUNDEL5*84*44*19*'; 
+var Comment11 = '#TA*FERRAT*61*18*05*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY KRISING47 02*71*74'; 
+var Comment12 = '#TOGELKUY FERKOYY 78*91*04'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( KRISAN24 ) : 37*49*16'; 
+var Comment13 = '#TOYIBSLOT ( FERYEBS ) : 52*39*71'; 
 
 var namagroup14 = 'GOSIPTOTO';
-var Comment14 = '#GOSIPTOTO (KRIKAR23) : *37*49*16'; 
+var Comment14 = '#GOSIPTOTO (FERSIP) : *95*36*17'; 
 
 var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (KRISNA46) 55*59*78'; 
+var Comment15 = '#VESPATOGEL (FERPERS) 52*39*71'; 
 
 var namagroup16 = '64926h';
 var Comment16 = '';
