@@ -19,49 +19,49 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*METALIKA41*39*03*67'; 
+var Comment1 = '#shiokelinci4d*GUNGJI1*66*72'; 
 
-var namagroup2 = 'HIGH4D';
-var Comment2 = 'MENTARI17 = 31*90*85 #HIGH4D #TOGELHIGH4D'; 
+var namagroup2 = 'VELBET4D';
+var Comment2 = '{GUNGHOK4} = #VELBET4D = 76*50*10'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / MERANTAU41 / 01 , 81 , 42'; 
+var Comment3 = '#Tiktaktogel / GUNGHJ6 / 79 , 02 , 77'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=MERATIH14=38*22*57'; 
+var Comment4 = 'GAIB4D=GUNGKALIGUNG=64*53*62'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = MAKIMUNG31 = 31*90*85'; 
+var Comment5 = '#keitogel = GUNGBUTZ = 66*72*93'; 
 
 var namagroup6 = 'KiosToto';
-var Comment6 = 'KIOSTOTO=MATIO50=08*69*36'; 
+var Comment6 = 'KIOSTOTO=GUNGCEL=76*50*10'; 
 
-var namagroup7 = 'KHUSUS MACAU';
-var Comment7 = '#ASEPTOGEL MAKDUNGDUNG 08*69*36'; 
+var namagroup7 = 'KHUSUS';
+var Comment7 = '#ASEPTOGEL GUNGLIKK 07*08*03'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=MACRONI52=53*41*98'; 
+var Comment8 = 'ANGKER4D=GUNGYUDZ=79*02*81'; 
 
 var namagroup9 = 'GILA4D';
-var Comment9 = 'GILA4D=MEROJAYA51=53*41*98'; 
+var Comment9 = 'GILA4D=GUNGCUAKZ=07*08*03'; 
 
 var namagroup10 = 'JNETOTO';
-var Comment10 = '#JNETOTO(MELAMUN44)*01*81*42'; 
+var Comment10 = '#JNETOTO(GUNGPOKE)*73*83*23'; 
 
 var namagroup11 = 'TOTOAKURAT';
-var Comment11 = '#TA*MAUEWEK5X*53*41*98*'; 
+var Comment11 = '#TA*GUNGDUSS*15*56*90*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY MAKTUNG52 38*22*57'; 
+var Comment12 = '#TOGELKUY GUNGFREE 64*53*62'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( MADUL45 ) : 62*15*95'; 
+var Comment13 = '#TOYIBSLOT ( GUNGYIBS ) : 49*01*47'; 
 
 var namagroup14 = 'GOSIPTOTO';
-var Comment14 = '#GOSIPTOTO (MASAK741) : *62*15*95'; 
+var Comment14 = '#GOSIPTOTO (GUNGSIPP) : *15*56*90'; 
 
 var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (MERAHKU75) 94*66*86'; 
+var Comment15 = '#VESPATOGEL (GUNGSNIPE) 49*01*47'; 
 
 var namagroup16 = '521625';
 var Comment16 = '';
