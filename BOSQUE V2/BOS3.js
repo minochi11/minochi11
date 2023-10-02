@@ -22,19 +22,19 @@ var namagroup1 = 'SHIOKELINCI4D';
 var Comment1 = '#shiokelinci4d*YONOBO74*92*62'; 
 
 var namagroup2 = 'VELBET4D';
-var Comment2 = '{YESAYA74} = #VELBET4D = 60*56*34'; 
+var Comment2 = '{YONOBO74} = #VELBET4D = 60*56*34'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / YOHANES74 / 58 , 46 , 10'; 
+var Comment3 = '#Tiktaktogel / YONOBO74 / 58 , 46 , 10'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=YOSUA51=77*66*79'; 
+var Comment4 = 'GAIB4D=YONOBO74=77*66*79'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = YORINA74 = 98*63*12'; 
+var Comment5 = '#keitogel = YONOBO74 = 98*63*12'; 
 
 var namagroup6 = 'KiosToto';
-var Comment6 = 'KIOSTOTO=YOKO74=04*50*24'; 
+var Comment6 = 'KIOSTOTO=YONOBO74=04*50*24'; 
 
 var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL YONOBO74 04*50*24'; 
