@@ -71,8 +71,8 @@ var Comment16 = '';
 var namagroup17 = 'BORTOTO';
 var Comment17 = '#Bortoto (MOCHKUR19) : 232*055*117'; 
 
-var namagroup18 = 'BOYSLOT';
-var Comment18 = '#BOYSLOT (MOCHI92) = 527*814*125 #TOGELONLINE'; 
+var namagroup18 = 'CIKA4D';
+var Comment18 = '#CIKA4D*MOCHI92*527*814*125'; 
 
 var namagroup19 = 'NONSTOPGROUP';
 var Comment19 = '( #LOMBA3DBADUT4D MODAR17 : 511 , 975 , 878 )'; 
