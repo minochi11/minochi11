@@ -73,8 +73,8 @@ var Comment16 = '';
 var namagroup17 = 'BORTOTO';
 var Comment17 = '#Bortoto (POLITAS) : 652*375*923'; 
 
-var namagroup18 = 'BOYSLOT';
-var Comment18 = '#BOYSLOT (POTANGINA) = 760*623*691 #TOGELONLINE'; 
+var namagroup18 = 'CIKA4D';
+var Comment18 = '#CIKA4D*POTANGINA*760*623*691'; 
 
 var namagroup19 = 'NONSTOPGROUP';
 var Comment19 = '( #LOMBA3DBADUT4D PAKALAN63 : 078 , 981 , 317 )'; 
