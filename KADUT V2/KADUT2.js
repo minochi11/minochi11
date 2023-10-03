@@ -72,8 +72,8 @@ var Comment16 = '';
 var namagroup17 = 'BORTOTO';
 var Comment17 = '#Bortoto (SRIDU268) : 902*982*835'; 
 
-var namagroup18 = 'BOYSLOT';
-var Comment18 = '#BOYSLOT (SRISUWING) = 370*830*159 #TOGELONLINE'; 
+var namagroup18 = 'CIKA4D';
+var Comment18 = '#CIKA4D*SRISUWING*370*830*159'; 
 
 var namagroup19 = 'NONSTOPGROUP';
 var Comment19 = '( #LOMBA3DBADUT4D SRIMIT64 : 653 , 844 , 131 )'; 
