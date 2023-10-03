@@ -73,8 +73,8 @@ var Comment16 = '';
 var namagroup17 = 'BORTOTO';
 var Comment17 = '#Bortoto (BOLEN19) : 561*133*242'; 
 
-var namagroup18 = 'BOYSLOT';
-var Comment18 = '#BOYSLOT (BUNCIT17) = 629*282*409 #TOGELONLINE'; 
+var namagroup18 = 'CIKA4D';
+var Comment18 = '#CIKA4D*BUNCIT17*629*282*409'; 
 
 var namagroup19 = 'NONSTOPGROUP';
 var Comment19 = '( #LOMBA3DBADUT4D BOREK19 : 313 , 395 , 568 )'; 
