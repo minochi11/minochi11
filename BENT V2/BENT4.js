@@ -125,7 +125,7 @@ var Comment32 = '#PUCUK4D (BONES**) = 371*004*460';
 
 
 /*Keyword*/
-var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","aawdaw","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","","room lomba betting"];
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","aawdaw","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","12312wewq","room lomba betting"];
 
 /*Backlist Kata*/
 var Backlist = ["rekap", "artikel", "hasil","jam berapa","room lomba freebet","nanti","kapan","cok","mana"];
