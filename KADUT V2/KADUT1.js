@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.7
+// @version      3.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
@@ -58,8 +58,8 @@ var Comment12 = '#TOGELKUY BUSUNGMU62 88*50*90';
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( BUANGKABEH ) : 43*25*11'; 
 
-var namagroup14 = 'GOSIPTOTO';
-var Comment14 = '#GOSIPTOTO (BUKABEH) : *88*50*90';
+var namagroup14 = 'IDTOGEL';
+var Comment14 = '#IDTOGEL*BUKABEH*88*50*90';
 
 var namagroup15 = 'SNIPER';
 var Comment15 = '#VESPATOGEL (BOTAP27) 52*14*84'; 
@@ -94,8 +94,8 @@ var Comment23 = '#DADU4D (683*320*079) BOLESTA21';
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*BUDEGSU*324*383*943*BETTING'; 
 
-var namagroup25 = 'PASCOL4D';
-var Comment25 = '#PASCOL4D (716*995*123) = BUNDERL**'; 
+var namagroup25 = 'ODENGTOTO';
+var Comment25 = '#ODENGTOTO (BUNDERLER) = 716*995*123'; 
 
 var namagroup26 = 'LINGTOGEL77';
 var Comment26 = '#LINGTOGEL77*BOLENAN*714*672*164'; 
@@ -124,10 +124,11 @@ var Comment32 = '#PUCUK4D (BOLEN**) = 512*348*940';
 
 
 /*Keyword*/
-var keyword = ["room", "ROOM", "lomba","LOMBA","𝗥𝗢𝗢𝗠","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","𝗟𝗢𝗠𝗕𝗔","room lomba betting"];
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","aawdaw","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","qweqw","room lomba betting"];
 
 /*Backlist Kata*/
-var Backlist = ["rekap", "artikel", "hasil","jam berapa","room lomba freebet","nanti","kapan","bos","mana"];
+var Backlist = ["rekap", "artikel", "hasil","jam berapa","room lomba freebet","nanti","kapan","cok","mana"];
+
 
 
 
@@ -209,18 +210,18 @@ GM.setValue("DONE", 0);
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
     var cekjam9 = document.getElementsByClassName('native-text')[27].textContent
 
-    var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent.toLowerCase();
-    var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent.toLowerCase();
-    var cekcomment3 = document.getElementsByClassName('native-text')[22].textContent.toLowerCase();
-    var cekcomment4 = document.getElementsByClassName('native-text')[23].textContent.toLowerCase();
-    var cekcomment5 = document.getElementsByClassName('native-text')[24].textContent.toLowerCase();
-    var cekcomment6 = document.getElementsByClassName('native-text')[25].textContent.toLowerCase();
-    var cekcomment7 = document.getElementsByClassName('native-text')[26].textContent.toLowerCase();
-    var cekcomment8 = document.getElementsByClassName('native-text')[27].textContent.toLowerCase();
-    var cekcomment9 = document.getElementsByClassName('native-text')[28].textContent.toLowerCase();
-    var cekcomment10 = document.getElementsByClassName('native-text')[29].textContent.toLowerCase();
-    var cekcomment11= document.getElementsByClassName('native-text')[30].textContent.toLowerCase();
-    var cekcomment12= document.getElementsByClassName('native-text')[31].textContent.toLowerCase();
+    var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
+    var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent;
+    var cekcomment3 = document.getElementsByClassName('native-text')[22].textContent;
+    var cekcomment4 = document.getElementsByClassName('native-text')[23].textContent;
+    var cekcomment5 = document.getElementsByClassName('native-text')[24].textContent;
+    var cekcomment6 = document.getElementsByClassName('native-text')[25].textContent;
+    var cekcomment7 = document.getElementsByClassName('native-text')[26].textContent;
+    var cekcomment8 = document.getElementsByClassName('native-text')[27].textContent;
+    var cekcomment9 = document.getElementsByClassName('native-text')[28].textContent;
+    var cekcomment10 = document.getElementsByClassName('native-text')[29].textContent;
+    var cekcomment11= document.getElementsByClassName('native-text')[30].textContent;
+    var cekcomment12= document.getElementsByClassName('native-text')[31].textContent;
 
     var validcom = false;
     var valid = false;
