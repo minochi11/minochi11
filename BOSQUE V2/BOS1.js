@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BOS1
 // @namespace    http://tampermonkey.net/
-// @version      3.5
+// @version      3.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS1.js
@@ -57,8 +57,8 @@ var Comment12 = '#TOGELKUY XIANTAR6 95*93*59';
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( XIOYIB47 ) : 72*13*38'; 
 
-var namagroup14 = 'GOSIPTOTO';
-var Comment14 = '#GOSIPTOTO (XIAOLAN6) : *20*97*85'; 
+var namagroup14 = 'IDTOGEL';
+var Comment14 = '#IDTOGEL*XIAOLAN6*20*97*85'; 
 
 var namagroup15 = 'SNIPER';
 var Comment15 = '#VESPATOGEL (XIONGYU6) 72*13*38'; 
@@ -78,10 +78,10 @@ var Comment16 = '';
 
 
 /*Keyword*/
-var keyword = ["room", "ROOM", "lomba","LOMBA","𝗥𝗢𝗢𝗠","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","𝗟𝗢𝗠𝗕𝗔","room lomba betting"];
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","aawdaw","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","qweqw","room lomba betting"];
 
 /*Backlist Kata*/
-var Backlist = ["rekap", "artikel", "hasil","jam berapa","room lomba freebet","nanti","kapan","bos","mana"];
+var Backlist = ["rekap", "artikel", "hasil","jam berapa","room lomba freebet","nanti","kapan","cok","mana"];
 
 
 
@@ -159,18 +159,18 @@ GM.setValue("DONE", 0);
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
     var cekjam9 = document.getElementsByClassName('native-text')[27].textContent
 
-    var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent.toLowerCase();
-    var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent.toLowerCase();
-    var cekcomment3 = document.getElementsByClassName('native-text')[22].textContent.toLowerCase();
-    var cekcomment4 = document.getElementsByClassName('native-text')[23].textContent.toLowerCase();
-    var cekcomment5 = document.getElementsByClassName('native-text')[24].textContent.toLowerCase();
-    var cekcomment6 = document.getElementsByClassName('native-text')[25].textContent.toLowerCase();
-    var cekcomment7 = document.getElementsByClassName('native-text')[26].textContent.toLowerCase();
-    var cekcomment8 = document.getElementsByClassName('native-text')[27].textContent.toLowerCase();
-    var cekcomment9 = document.getElementsByClassName('native-text')[28].textContent.toLowerCase();
-    var cekcomment10 = document.getElementsByClassName('native-text')[29].textContent.toLowerCase();
-    var cekcomment11= document.getElementsByClassName('native-text')[30].textContent.toLowerCase();
-    var cekcomment12= document.getElementsByClassName('native-text')[31].textContent.toLowerCase();
+   var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
+    var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent;
+    var cekcomment3 = document.getElementsByClassName('native-text')[22].textContent;
+    var cekcomment4 = document.getElementsByClassName('native-text')[23].textContent;
+    var cekcomment5 = document.getElementsByClassName('native-text')[24].textContent;
+    var cekcomment6 = document.getElementsByClassName('native-text')[25].textContent;
+    var cekcomment7 = document.getElementsByClassName('native-text')[26].textContent;
+    var cekcomment8 = document.getElementsByClassName('native-text')[27].textContent;
+    var cekcomment9 = document.getElementsByClassName('native-text')[28].textContent;
+    var cekcomment10 = document.getElementsByClassName('native-text')[29].textContent;
+    var cekcomment11= document.getElementsByClassName('native-text')[30].textContent;
+    var cekcomment12= document.getElementsByClassName('native-text')[31].textContent;
 
     var validcom = false;
     var valid = false;
