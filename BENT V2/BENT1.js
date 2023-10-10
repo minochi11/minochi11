@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT1
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      3.10
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT1.js
@@ -77,8 +77,8 @@ var Comment17 = '#Bortoto (DONAL13) : 742*396*837';
 var namagroup18 = 'CIKA4D';
 var Comment18 = '#CIKA4D*DOLENG28*829*182*563'; 
 
-var namagroup19 = 'NONSTOPGROUP';
-var Comment19 = '( #LOMBA3DBADUT4D DENDENG14 : 212 , 913 , 566 )'; 
+var namagroup19 = 'DETIKGROUP';
+var Comment19 = '#DETIKTOTO*DAWET121*212 , 913 , 566'; 
 
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (ASABKUBUR12) = 578*382*447'; 
@@ -89,8 +89,8 @@ var Comment21 = '#OBI9*DOPLO19*248*366*052*';
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (ASIMATJUMBO) = 845*615*333'; 
 
-var namagroup23 = 'DADU4D';
-var Comment23 = '#DADU4D (730*146*072) DOMINO28'; 
+var namagroup23 = 'ABUTOGEL';
+var Comment23 = '#ABUTOGEL*DOPLOSU1*730*146*072'; 
 
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*ASIMATJUMBO*031*231*507*BETTING'; 
@@ -117,7 +117,7 @@ var namagroup31 = 'BROMOTOTO';
 var Comment31 = 'DONOKU1 # 737/386/614 #YOGAPRO'; 
 
 var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (DONAL**) = 121*290*397';
+var Comment32 = '#PUCUK4D (DONAL13) = 121*290*397';
 
 
 
