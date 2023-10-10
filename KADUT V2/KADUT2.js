@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      3.10
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT2.js
@@ -75,8 +75,8 @@ var Comment17 = '#Bortoto (SRIDU268) : 902*982*835';
 var namagroup18 = 'CIKA4D';
 var Comment18 = '#CIKA4D*SRISUWING*370*830*159'; 
 
-var namagroup19 = 'NONSTOPGROUP';
-var Comment19 = '( #LOMBA3DBADUT4D SRIMIT64 : 653 , 844 , 131 )'; 
+var namagroup19 = 'DETIKGROUP';
+var Comment19 = '#DETIKTOTO*SRILAKCU*653 , 844 , 131'; 
 
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (SRIANU36) = 144*191*344'; 
@@ -87,8 +87,8 @@ var Comment21 = '#OBI9*SRIANU36*049*446*417*';
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (SRIANU36) = 608*958*160'; 
 
-var namagroup23 = 'DADU4D';
-var Comment23 = '#DADU4D (522*862*928) SRIWING6'; 
+var namagroup23 = 'ABUTOGEL';
+var Comment23 = '#ABUTOGEL*SRIMBELEWEL*522*862*928'; 
 
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*SRIWING6*790*584*956*BETTING'; 
@@ -115,7 +115,7 @@ var namagroup31 = 'BROMOTOTO';
 var Comment31 = 'SRILAKCU # 885/063/335 #YOGAPRO'; 
 
 var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (SRIDU2**) = 283*860*341';
+var Comment32 = '#PUCUK4D (SRIDU268) = 283*860*341';
 
 
 
