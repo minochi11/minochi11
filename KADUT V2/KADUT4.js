@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      3.10
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
@@ -75,8 +75,8 @@ var Comment17 = '#Bortoto (SAKEMPUL) : 978*794*661';
 var namagroup18 = 'CIKA4D';
 var Comment18 = '#CIKA4D*SAWERBOSE0*496*193*869'; 
 
-var namagroup19 = 'NONSTOPGROUP';
-var Comment19 = '( #LOMBA3DBADUT4D SANGEKABEH : 452 , 548 , 988 )'; 
+var namagroup19 = 'DETIKGROUP';
+var Comment19 = '#DETIKTOTO*SALAMANAE*452 , 548 , 988'; 
 
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (SANDALMABUR) = 148*804*912'; 
@@ -87,8 +87,8 @@ var Comment21 = '#OBI9*SANDALMABUR*153*108*732*';
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (SANTAYBOSKU) = 233*859*976'; 
 
-var namagroup23 = 'DADU4D';
-var Comment23 = '#DADU4D (769*514*765) SAKAUAN'; 
+var namagroup23 = 'ABUTOGEL';
+var Comment23 = '#ABUTOGEL*SAWERSEK*769*514*765'; 
 
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*SAKAUAN*256*606*678*BETTING'; 
@@ -115,7 +115,7 @@ var namagroup31 = 'BROMOTOTO';
 var Comment31 = 'SALAMANAE # 854/687/353 #YOGAPRO'; 
 
 var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (SAKEMP**) = 347*717*349';
+var Comment32 = '#PUCUK4D (SAKEMPUL) = 347*717*349';
 
 
 
