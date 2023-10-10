@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      3.10
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
@@ -74,8 +74,8 @@ var Comment17 = '#Bortoto (QUMURTU17) : 422*611*577';
 var namagroup18 = 'CIKA4D';
 var Comment18 = '#CIKA4D*QOMAR27*792*823*692'; 
 
-var namagroup19 = 'NONSTOPGROUP';
-var Comment19 = '( #LOMBA3DBADUT4D QOMAR28 : 436 , 671 , 659 )'; 
+var namagroup19 = 'DETIKGROUP';
+var Comment19 = '#DETIKTOTO*QOMA123*436 , 671 , 659'; 
 
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (QOMAR29) = 432*490*149'; 
@@ -86,8 +86,8 @@ var Comment21 = '#OBI9*QOMAR26*866*905*034*';
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (QOMINTO15) = 088*362*261'; 
 
-var namagroup23 = 'DADU4D';
-var Comment23 = '#DADU4D (900*295*402) QUNTUL6'; 
+var namagroup23 = 'ABUTOGEL';
+var Comment23 = '#ABUTOGEL*QOECK62*900*295*402'; 
 
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*QOMARUT14*129*740*410*BETTING'; 
@@ -114,7 +114,7 @@ var namagroup31 = 'BROMOTOTO';
 var Comment31 = 'QUMUR19 # 205/168/920 #YOGAPRO'; 
 
 var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (QUMURTU**) = 277*218*646';
+var Comment32 = '#PUCUK4D (QUMURTU17) = 277*218*646';
 
 
 
