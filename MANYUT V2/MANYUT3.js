@@ -69,7 +69,7 @@ var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'BORTOTO';
-var Comment17 = '#Bortoto (ALTIMBUL) : 502*357*505'; 
+var Comment17 = 'BORTOTO (ALTIMBUL) *502*357*505'; 
 
 var namagroup18 = 'CIKA4D';
 var Comment18 = '#CIKA4D*ALDRUN19*271*918*951'; 
