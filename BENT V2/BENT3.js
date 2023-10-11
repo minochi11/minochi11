@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT3
 // @namespace    http://tampermonkey.net/
-// @version      3.10
+// @version      3.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
@@ -82,7 +82,7 @@ var Comment19 = '#DETIKTOTO*SUWING11*592 , 539 , 586';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (CACINGAN54) = 948*766*607'; 
 
-var namagroup21 = 'OBI9';
+var namagroup21 = 'OBI';
 var Comment21 = '#OBI9*SULET1*442*582*812*'; 
 
 var namagroup22 = 'TOGEL838';
@@ -125,7 +125,7 @@ var Comment32 = '#PUCUK4D (SRITING81) = 189*414*986';
 
 
 /*Keyword*/
-var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","aawdaw","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","qqweqwa","room lomba betting"];
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","BEBASIP","BEBAS IP","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","█","█"];
 
 /*Backlist Kata*/
 var Backlist = ["REKAP", "rekap", "hasil","HASIL","ROOM LOMBA FREEBET","nanti","kapan","Rekap","Hasil"];
