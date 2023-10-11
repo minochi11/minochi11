@@ -103,7 +103,7 @@ var Comment26 = '#LINGTOGEL77*DINDAKUCING*538*736*619';
 var namagroup27 = 'ALEXISTOGEL';
 var Comment27 = '#ALEXISTOGEL(DJASKA13) 3D = 909 , 562 , 651'; 
 
-var namagroup28 = 'GTA';
+var namagroup28 = 'AMANAH';
 var Comment28 = '#GTATOGEL {DUDUKGO81} = 786*275*599'; 
 
 var namagroup29 = 'CAPTOGEL';
