@@ -71,7 +71,7 @@ var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'BORTOTO';
-var Comment17 = '#Bortoto (BOLEN19) : 561*133*242'; 
+var Comment17 = 'BORTOTO (BOLEN19) *561*133*242'; 
 
 var namagroup18 = 'CIKA4D';
 var Comment18 = '#CIKA4D*BUNCIT17*629*282*409'; 
