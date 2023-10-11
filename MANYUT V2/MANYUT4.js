@@ -101,7 +101,7 @@ var Comment26 = '#LINGTOGEL77*TUKANGBATU*158*225*504';
 var namagroup27 = 'ALEXISTOGEL';
 var Comment27 = '#ALEXISTOGEL(TURUSU71) 3D = 874 , 361 , 612'; 
 
-var namagroup28 = 'GTA';
+var namagroup28 = 'AMANAH';
 var Comment28 = '#GTATOGEL {TULELOT11} = 420*008*274'; 
 
 var namagroup29 = 'CAPTOGEL';
