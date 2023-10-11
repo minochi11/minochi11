@@ -71,7 +71,7 @@ var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'BORTOTO';
-var Comment17 = '#Bortoto (SRITING81) : 591*241*297'; 
+var Comment17 = 'BORTOTO (SRITING81) *591*241*297'; 
 
 var namagroup18 = 'CIKA4D';
 var Comment18 = '#CIKA4D*SIALANKU13*036*213*953'; 
