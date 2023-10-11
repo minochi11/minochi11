@@ -102,7 +102,7 @@ var Comment26 = '#LINGTOGEL77*SRIWING67*949*984*887';
 var namagroup27 = 'ALEXISTOGEL';
 var Comment27 = '#ALEXISTOGEL(SRIMIT64) 3D = 649 , 798 , 924'; 
 
-var namagroup28 = 'GTA';
+var namagroup28 = 'AMANAH';
 var Comment28 = '#GTATOGEL {SRISUWING} = 616*200*677'; 
 
 var namagroup29 = 'CAPTOGEL';
