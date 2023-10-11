@@ -104,7 +104,7 @@ var Comment26 = '#LINGTOGEL77*JOMNDUL73*624*530*196';
 var namagroup27 = 'ALEXISTOGEL';
 var Comment27 = '#ALEXISTOGEL(JONTOR6) 3D = 199 , 026 , 264'; 
 
-var namagroup28 = 'GTA';
+var namagroup28 = 'AMANAH';
 var Comment28 = '#GTATOGEL {JOJONBETAWI} = 644*403*565'; 
 
 var namagroup29 = 'CAPTOGEL';
