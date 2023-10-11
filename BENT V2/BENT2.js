@@ -71,7 +71,7 @@ var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'BORTOTO';
-var Comment17 = '#Bortoto (POLITAS) : 652*375*923'; 
+var Comment17 = 'BORTOTO (POLITAS) *652*375*923'; 
 
 var namagroup18 = 'CIKA4D';
 var Comment18 = '#CIKA4D*POTANGINA*760*623*691'; 
