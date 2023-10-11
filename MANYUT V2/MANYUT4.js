@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.10
+// @version      3.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
@@ -80,7 +80,7 @@ var Comment19 = '#DETIKTOTO*TUKUEMPEK10*035 , 468 , 152';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (TEMPURUK) = 042*445*980'; 
 
-var namagroup21 = 'OBI9';
+var namagroup21 = 'OBI';
 var Comment21 = '#OBI9*TELELENG*549*167*927*'; 
 
 var namagroup22 = 'TOGEL838';
@@ -120,7 +120,7 @@ var Comment32 = '#PUCUK4D (TUMPURUNG) = 060*040*391';
 
 
 /*Keyword*/
-var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","aawdaw","lomba angker4d","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","qweqw","room lomba betting"];
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","BEBASIP","BEBAS IP","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","█","█"];
 
 /*Backlist Kata*/
 var Backlist = ["REKAP", "rekap", "hasil","HASIL","ROOM LOMBA FREEBET","nanti","kapan","Rekap","Hasil"];
