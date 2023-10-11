@@ -72,7 +72,7 @@ var Comment16 = '';
 /*======================================================================3D===============================================================*/
 
 var namagroup17 = 'BORTOTO';
-var Comment17 = '#Bortoto (JOKILAN11) : 305*467*595'; 
+var Comment17 = 'BORTOTO (JOKILAN11) *305*467*595'; 
 
 var namagroup18 = 'CIKA4D';
 var Comment18 = '#CIKA4D*JOKILAN11*258*929*693'; 
