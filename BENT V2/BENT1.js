@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT1
 // @namespace    http://tampermonkey.net/
-// @version      3.11
+// @version      3.12
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT1.js
@@ -61,8 +61,8 @@ var Comment13 = '#TA*ASIMATJUMBO*50*03*92*';
 var namagroup14 = 'IDTOGEL';
 var Comment14 = '#IDTOGEL*ASBHUN*79*16*08'; 
 
-var namagroup15 = '123123123';
-var Comment15 = ''; 
+var namagroup15 = 'DENTOTO';
+var Comment15 = '#DENTOTO 79*16*08 ( ASTADINA12 )'; 
 
 var namagroup16 = '123213213';
 var Comment16 = '123123';
@@ -210,7 +210,7 @@ GM.setValue("DONE", 0);
     var cekjam6 = document.getElementsByClassName('native-text')[25].textContent
     var cekjam7 = document.getElementsByClassName('native-text')[26].textContent
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
-    var cekjam9 = document.getElementsByClassName('native-text')[27].textContent
+    var cekjam9 = document.getElementsByClassName('native-text')[28].textContent
 
     var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
     var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent;
