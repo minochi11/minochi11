@@ -71,7 +71,7 @@ var Comment16 = '';
 var namagroup17 = 'BORTOTO';
 var Comment17 = 'BORTOTO (TUMPURUNG) *456*408*318'; 
 
-var namagroup18 = 'CIKA4D';
+var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*TELEKEK*774*399*815'; 
 
 var namagroup19 = 'DETIKGROUP';
