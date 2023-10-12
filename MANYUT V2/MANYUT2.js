@@ -71,7 +71,7 @@ var Comment16 = '';
 var namagroup17 = 'BORTOTO';
 var Comment17 = 'BORTOTO (MOCHKUR19) *232*055*117'; 
 
-var namagroup18 = 'CIKA4D';
+var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*MOCHI92*527*814*125'; 
 
 var namagroup19 = 'DETIKGROUP';
