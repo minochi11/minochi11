@@ -74,7 +74,7 @@ var Comment16 = '123123';
 var namagroup17 = 'BORTOTO';
 var Comment17 = 'BORTOTO (DONAL13) *742*396*837'; 
 
-var namagroup18 = 'CIKA4D';
+var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*DOLENG28*829*182*563'; 
 
 var namagroup19 = 'DETIKGROUP';
