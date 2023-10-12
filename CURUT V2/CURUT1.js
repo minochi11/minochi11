@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW CURUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.10
+// @version      3.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT1.js
@@ -65,8 +65,8 @@ var Comment14 = '#IDTOGEL*QOQOM52*60*49*73';
 var namagroup15 = 'SNIPER';
 var Comment15 = '#VESPATOGEL (QUMUR19) 36*87*10'; 
 
-var namagroup16 = '123213';
-var Comment16 = '123';
+var namagroup16 = 'DENTOTO';
+var Comment16 = '#DENTOTO 60*49*73 ( QOQOM52 )';
 
 
 
@@ -157,7 +157,7 @@ GM.setValue("DONE", 0);
     var cekjam6 = document.getElementsByClassName('native-text')[25].textContent
     var cekjam7 = document.getElementsByClassName('native-text')[26].textContent
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
-    var cekjam9 = document.getElementsByClassName('native-text')[27].textContent
+    var cekjam9 = document.getElementsByClassName('native-text')[28].textContent
 
     var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
     var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent;
