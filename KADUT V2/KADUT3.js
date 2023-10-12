@@ -98,7 +98,7 @@ var Comment24 = '#OTUSLOT*JOKONDO7*057*020*952*BETTING';
 var namagroup25 = 'ODENGTOTO';
 var Comment25 = '#ODENGTOTO (JOROKLUH) = 006*206*369'; 
 
-var namagroup26 = 'LINGTOGEL77';
+var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*JOMNDUL73*624*530*196'; 
 
 var namagroup27 = 'ALEXISTOGEL';
