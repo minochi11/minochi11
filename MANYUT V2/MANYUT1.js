@@ -95,7 +95,7 @@ var Comment24 = '#OTUSLOT*QOMARUT14*129*740*410*BETTING';
 var namagroup25 = 'ODENGTOTO';
 var Comment25 = '#ODENGTOTO (QOMA123) = 638*440*186'; 
 
-var namagroup26 = 'LINGTOGEL77';
+var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*QOMARUT14*493*329*571'; 
 
 var namagroup27 = 'ALEXISTOGEL';
