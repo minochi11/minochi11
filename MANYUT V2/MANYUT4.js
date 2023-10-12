@@ -95,7 +95,7 @@ var Comment24 = '#OTUSLOT*TUKANGBATU*787*543*319*BETTING';
 var namagroup25 = 'ODENGTOTO';
 var Comment25 = '#ODENGTOTO (TUKUEMPEK10) = 701*461*643'; 
 
-var namagroup26 = 'LINGTOGEL77';
+var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*TUKANGBATU*158*225*504'; 
 
 var namagroup27 = 'ALEXISTOGEL';
