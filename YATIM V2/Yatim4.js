@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yatim4
 // @namespace    http://tampermonkey.net/
-// @version      3.10
+// @version      3.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim4.js
@@ -63,8 +63,8 @@ var Comment14 = '#IDTOGEL*ACOK02*06*12*92';
 var namagroup15 = 'SNIPER';
 var Comment15 = '#VESPATOGEL (ACOK02) 29*28*86'; 
 
-var namagroup16 = 'hdnqkwg7';
-var Comment16 = '';
+var namagroup16 = 'DENTOTO';
+var Comment16 = '#DENTOTO 06*12*92 ( ACOK02 )';
 
 
 
@@ -150,7 +150,7 @@ GM.setValue("DONE", 0);
     var cekjam6 = document.getElementsByClassName('native-text')[25].textContent
     var cekjam7 = document.getElementsByClassName('native-text')[26].textContent
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
-    var cekjam9 = document.getElementsByClassName('native-text')[27].textContent
+    var cekjam9 = document.getElementsByClassName('native-text')[28].textContent
 
      var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
     var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent;
