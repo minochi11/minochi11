@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.11
+// @version      3.12
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
@@ -64,8 +64,8 @@ var Comment14 = '#IDTOGEL*CARITEM21*50*23*94';
 var namagroup15 = 'SNIPER';
 var Comment15 = '#VESPATOGEL (CUILATEM) 19*86*09'; 
 
-var namagroup16 = 'awdawd1';
-var Comment16 = '';
+var namagroup16 = 'DENTOTO';
+var Comment16 = '#DENTOTO 50*23*94 ( CANCAM54 )';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'BORTOTO';
@@ -204,7 +204,7 @@ GM.setValue("DONE", 0);
     var cekjam6 = document.getElementsByClassName('native-text')[25].textContent
     var cekjam7 = document.getElementsByClassName('native-text')[26].textContent
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
-    var cekjam9 = document.getElementsByClassName('native-text')[27].textContent
+    var cekjam9 = document.getElementsByClassName('native-text')[28].textContent
 
     var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
     var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent;
