@@ -73,7 +73,7 @@ var Comment16 = '';
 var namagroup17 = 'BORTOTO';
 var Comment17 = 'BORTOTO (POLITAS) *652*375*923'; 
 
-var namagroup18 = 'CIKA4D';
+var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*POTANGINA*760*623*691'; 
 
 var namagroup19 = 'DETIKGROUP';
