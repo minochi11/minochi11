@@ -72,7 +72,7 @@ var Comment16 = '';
 var namagroup17 = 'BORTOTO';
 var Comment17 = 'BORTOTO (SAKEMPUL) *978*794*661'; 
 
-var namagroup18 = 'CIKA4D';
+var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*SAWERBOSE0*496*193*869'; 
 
 var namagroup19 = 'DETIKGROUP';
