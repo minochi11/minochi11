@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MENCONG2
 // @namespace    http://tampermonkey.net/
-// @version      3.10
+// @version      3.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG2.js
@@ -62,8 +62,8 @@ var Comment14 = '#IDTOGEL*KRIKAR23*37*49*16';
 var namagroup15 = 'SNIPER';
 var Comment15 = '#VESPATOGEL (KRISNA46) 55*59*78'; 
 
-var namagroup16 = '121233';
-var Comment16 = '';
+var namagroup16 = 'DENTOTO';
+var Comment16 = '#DENTOTO 37*49*16 ( KRISNA46 )';
 
 
 
@@ -150,7 +150,7 @@ GM.setValue("DONE", 0);
     var cekjam6 = document.getElementsByClassName('native-text')[25].textContent
     var cekjam7 = document.getElementsByClassName('native-text')[26].textContent
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
-    var cekjam9 = document.getElementsByClassName('native-text')[27].textContent
+    var cekjam9 = document.getElementsByClassName('native-text')[28].textContent
 
     var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
     var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent;
