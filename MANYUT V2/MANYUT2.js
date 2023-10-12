@@ -95,7 +95,7 @@ var Comment24 = '#OTUSLOT*MOSIOM19*515*911*694*BETTING';
 var namagroup25 = 'ODENGTOTO';
 var Comment25 = '#ODENGTOTO (MOLET25) = 553*310*143'; 
 
-var namagroup26 = 'LINGTOGEL77';
+var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*MOSIOM19*076*944*027'; 
 
 var namagroup27 = 'ALEXISTOGEL';
