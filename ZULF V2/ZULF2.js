@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF2
 // @namespace    http://tampermonkey.net/
-// @version      3.10
+// @version      3.11
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF2.js
@@ -60,8 +60,8 @@ var Comment13 = '#TA*ALBAKU13*70*49*19*';
 var namagroup14 = 'IDTOGEL';
 var Comment14 = '#IDTOGEL*KORBANSLOT11*40*51*78'; 
 
-var namagroup15 = '12312312';
-var Comment15 = ''; 
+var namagroup15 = 'DENTOTO';
+var Comment15 = '#DENTOTO 40*51*78 ( SUNDEL46 )'; 
 
 var namagroup16 = '1231231';
 var Comment16 = '';
@@ -151,7 +151,7 @@ GM.setValue("DONE", 0);
     var cekjam6 = document.getElementsByClassName('native-text')[25].textContent
     var cekjam7 = document.getElementsByClassName('native-text')[26].textContent
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
-    var cekjam9 = document.getElementsByClassName('native-text')[27].textContent
+    var cekjam9 = document.getElementsByClassName('native-text')[28].textContent
 
     var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
     var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent;
