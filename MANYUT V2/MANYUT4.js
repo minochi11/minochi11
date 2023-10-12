@@ -87,7 +87,7 @@ var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (TENGKLENG) = 364*054*600'; 
 
 var namagroup23 = 'ABUTOGEL';
-var Comment23 = '#ABUTOGEL*TUODANCOK*868*552*704'; 
+var Comment23 = '#ABUTOGEL*TUMPLEKAH*868*552*704'; 
 
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*TUKANGBATU*787*543*319*BETTING'; 
