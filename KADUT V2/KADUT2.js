@@ -96,7 +96,7 @@ var Comment24 = '#OTUSLOT*SRIWING6*790*584*956*BETTING';
 var namagroup25 = 'ODENGTOTO';
 var Comment25 = '#ODENGTOTO (SRILAKCU) = 658*675*041'; 
 
-var namagroup26 = 'LINGTOGEL77';
+var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*SRIWING67*949*984*887'; 
 
 var namagroup27 = 'ALEXISTOGEL';
