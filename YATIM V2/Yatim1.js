@@ -383,7 +383,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup11.toLowerCase()) == true||ceknamagroup1.includes(namagroup11.toLowerCase()) == true||ceknamagroup2.includes(namagroup11.toLowerCase()) == true||ceknamagroup3.includes(namagroup11.toLowerCase()) == true||ceknamagroup4.includes(namagroup11.toLowerCase()') == true) {
+            if (ceknamagroup.includes(namagroup11.toLowerCase()) == true||ceknamagroup1.includes(namagroup11.toLowerCase()) == true||ceknamagroup2.includes(namagroup11.toLowerCase()) == true||ceknamagroup3.includes(namagroup11.toLowerCase()) == true||ceknamagroup4.includes(namagroup11.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment11;
                 clicksend();
