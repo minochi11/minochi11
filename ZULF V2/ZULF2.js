@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF2
 // @namespace    http://tampermonkey.net/
-// @version      3.11
+// @version      3.12
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF2.js
@@ -350,7 +350,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup9) == true||ceknamagroup1.includes(namagroup9) == true||ceknamagroup2.includes(namagroup9||ceknamagroup3.includes(namagroup9) == true||ceknamagroup4.includes(namagroup9) == true) == true) {
+            if (ceknamagroup.includes(namagroup9) == true||ceknamagroup1.includes(namagroup9) == true||ceknamagroup2.includes(namagroup9) == true||ceknamagroup3.includes(namagroup9) == true||ceknamagroup4.includes(namagroup9) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment9;
                 clicksend();
