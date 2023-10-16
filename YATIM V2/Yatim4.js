@@ -70,11 +70,13 @@ var Comment16 = '#DENTOTO 06*12*92 ( ACOK02 )';
 
 
 
+
 /*Keyword*/
 var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","BEBASIP","BEBAS IP","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","█","█"];
 
 /*Backlist Kata*/
 var Backlist = ["REKAP", "rekap", "hasil","HASIL","ROOM LOMBA FREEBET","nanti","kapan","Rekap","Hasil"];
+
 
 
 
@@ -209,6 +211,7 @@ GM.setValue("DONE", 0);
             }
 
         }
+
         /*Komentar*/
         if(valid == true) {
 
@@ -348,7 +351,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup9.toLowerCase()) == true||ceknamagroup1.includes(namagroup9.toLowerCase()) == true||ceknamagroup2.includes(namagroup9.toLowerCase()) == true||ceknamagroup3.includes(namagroup9.toLowerCase()) == true||ceknamagroup4.includes(namagroup9.toLowerCase()) == true) {
+             if (ceknamagroup.includes(namagroup9.toLowerCase()) == true||ceknamagroup1.includes(namagroup9.toLowerCase()) == true||ceknamagroup2.includes(namagroup9.toLowerCase()) == true||ceknamagroup3.includes(namagroup9.toLowerCase()) == true||ceknamagroup4.includes(namagroup9.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment9;
                 clicksend();
@@ -499,3 +502,50 @@ GM.setValue("DONE", 0);
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function cekjam(target, pattern){
+    var value = 0;
+    var ven = target.slice(0, 7);
+
+    pattern.forEach(function(word){
+        value = value + ven.includes(word);
+
+    });
+    return (value === 1)
+}
+
+
+
+
+
+
+
+
+
+function clicksend() {
+    /*Tampilkan TOMBOL SEND*/
+    document.getElementsByClassName("textbox-submit-button")[0].style.display=""
+    /*Tekan TOMBOL SEND*/
+    var clicksendcoment = document.getElementsByClassName("textbox-submit-button")[0];
+    var clickEvent = document.createEvent ('MouseEvents');
+    clickEvent.initEvent ("mousedown", true, true);
+    clicksendcoment.dispatchEvent (clickEvent);
+    /*Tekan TOMBOL SEND*/
+    GM.setValue("CLICKCOMMENT", 1);
+}
