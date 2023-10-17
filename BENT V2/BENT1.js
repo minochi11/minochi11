@@ -95,8 +95,8 @@ var Comment23 = '#ABUTOGEL*DOPLOSU1*730*146*072';
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*ASIMATJUMBO*031*231*507*BETTING'; 
 
-var namagroup25 = 'LOMBA WT';
-var Comment25 = '#WAKTOGEL*DAWET121*597*762*443'; 
+var namagroup25 = 'BUSURGROUP';
+var Comment25 = commentpasar('#KAPAK4D*DAWET121*597*762*443'); 
 
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*ASTADINA12*176*491*336'; 
