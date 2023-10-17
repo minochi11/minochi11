@@ -147,13 +147,14 @@ var jam9 = "8 menit"
 
 var jam = [jam1,jam2,jam3,jam4,jam5,jam6,jam7,jam8,jam9];
 
-setInterval(function(){
-
-
 var pasaran1 = "SYDNEY"
 var pasaran2 = "SINGAPORE"
 var pasaran3 = "HONGKONG"
 var commentpasaran = ""
+setInterval(function(){
+
+
+
 var today = new Date().getHours();
 if (today >= 7 && today <= 11) {
    commentpasaran = pasaran1
