@@ -847,3 +847,27 @@ function clicksend() {
     GM.setValue("CLICKCOMMENT", 1);
     /*Tekan TOMBOL SEND*/
 }
+
+
+
+function commentpasar(commenan){
+    var hasil = "";
+
+var pasaran1 = "#SYDNEY"
+var pasaran2 = "#SINGAPORE"
+var pasaran3 = "#HONGKONG"
+var commentpasaran = ""
+var today = new Date().getHours();
+if (today >= 7 && today <= 11) {
+   commentpasaran = pasaran1
+}
+if (today >= 12 && today <= 16) {
+   commentpasaran = pasaran2
+}
+if (today >= 17 && today <= 21) {
+   commentpasaran = pasaran3
+}
+
+
+    return (commenan+commentpasaran)
+}
