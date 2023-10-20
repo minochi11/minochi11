@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW CURUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.12
+// @version      3.13
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
@@ -79,6 +79,7 @@ var Backlist = ["REKAP", "rekap", "hasil","HASIL","ROOM LOMBA FREEBET","nanti","
 
 
 
+
 /*Waktu*/
 var jam1 = "Baru saja"
 var jam2 = "1 menit"
@@ -102,11 +103,11 @@ GM.setValue("BACKLIST", 0);
 GM.setValue("CLICKCOMMENT", 0);
 GM.setValue("DONE", 0);
 
-    var ceknamagroup = document.getElementsByClassName('native-text')[4].textContent;
-    var ceknamagroup1 = document.getElementsByClassName('native-text')[5].textContent;
-    var ceknamagroup2 = document.getElementsByClassName('native-text')[6].textContent;
-    var ceknamagroup3 = document.getElementsByClassName('native-text')[7].textContent;
-    var ceknamagroup4 = document.getElementsByClassName('native-text')[8].textContent;
+    var ceknamagroup = document.getElementsByClassName('native-text')[4].textContent.toLowerCase();
+    var ceknamagroup1 = document.getElementsByClassName('native-text')[5].textContent.toLowerCase();
+    var ceknamagroup2 = document.getElementsByClassName('native-text')[6].textContent.toLowerCase();
+    var ceknamagroup3 = document.getElementsByClassName('native-text')[7].textContent.toLowerCase();
+    var ceknamagroup4 = document.getElementsByClassName('native-text')[8].textContent.toLowerCase();
     var urutkan = document.querySelectorAll("[data-mcomponent='ServerTextArea']");
     var urutkan2 = document.querySelectorAll("[data-mcomponent='TextArea']");
     var waktupost = document.querySelectorAll("[class='native-text']");
@@ -214,7 +215,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup1) == true||ceknamagroup1.includes(namagroup1) == true||ceknamagroup2.includes(namagroup1) == true||ceknamagroup3.includes(namagroup1) == true||ceknamagroup4.includes(namagroup1) == true) {
+            if (ceknamagroup.includes(namagroup1.toLowerCase()) == true||ceknamagroup1.includes(namagroup1.toLowerCase()) == true||ceknamagroup2.includes(namagroup1.toLowerCase()) == true||ceknamagroup3.includes(namagroup1.toLowerCase()) == true||ceknamagroup4.includes(namagroup1.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment1;
                 clicksend();
@@ -231,7 +232,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup2) == true||ceknamagroup1.includes(namagroup2) == true||ceknamagroup2.includes(namagroup2) == true||ceknamagroup3.includes(namagroup2) == true||ceknamagroup4.includes(namagroup2) == true) {
+            if (ceknamagroup.includes(namagroup2.toLowerCase()) == true||ceknamagroup1.includes(namagroup2.toLowerCase()) == true||ceknamagroup2.includes(namagroup2.toLowerCase()) == true||ceknamagroup3.includes(namagroup2.toLowerCase()) == true||ceknamagroup4.includes(namagroup2.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment2;
                 clicksend();
@@ -248,7 +249,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup3) == true||ceknamagroup1.includes(namagroup3) == true||ceknamagroup2.includes(namagroup3) == true||ceknamagroup3.includes(namagroup3) == true||ceknamagroup4.includes(namagroup3) == true) {
+            if (ceknamagroup.includes(namagroup3.toLowerCase()) == true||ceknamagroup1.includes(namagroup3.toLowerCase()) == true||ceknamagroup2.includes(namagroup3.toLowerCase()) == true||ceknamagroup3.includes(namagroup3.toLowerCase()) == true||ceknamagroup4.includes(namagroup3.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment3;
                 clicksend();
@@ -265,7 +266,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup4) == true||ceknamagroup1.includes(namagroup4) == true||ceknamagroup2.includes(namagroup4) == true||ceknamagroup3.includes(namagroup4) == true||ceknamagroup4.includes(namagroup4) == true) {
+            if (ceknamagroup.includes(namagroup4.toLowerCase()) == true||ceknamagroup1.includes(namagroup4.toLowerCase()) == true||ceknamagroup2.includes(namagroup4.toLowerCase()) == true||ceknamagroup3.includes(namagroup4.toLowerCase()) == true||ceknamagroup4.includes(namagroup4.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment4;
                 clicksend();
@@ -282,7 +283,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup5) == true||ceknamagroup1.includes(namagroup5) == true||ceknamagroup2.includes(namagroup5) == true||ceknamagroup3.includes(namagroup5) == true||ceknamagroup4.includes(namagroup5) == true) {
+            if (ceknamagroup.includes(namagroup5.toLowerCase()) == true||ceknamagroup1.includes(namagroup5.toLowerCase()) == true||ceknamagroup2.includes(namagroup5.toLowerCase()) == true||ceknamagroup3.includes(namagroup5.toLowerCase()) == true||ceknamagroup4.includes(namagroup5.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment5;
                 clicksend();
@@ -299,7 +300,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup6) == true||ceknamagroup1.includes(namagroup6) == true||ceknamagroup2.includes(namagroup6) == true||ceknamagroup3.includes(namagroup6) == true||ceknamagroup4.includes(namagroup6) == true) {
+            if (ceknamagroup.includes(namagroup6.toLowerCase()) == true||ceknamagroup1.includes(namagroup6.toLowerCase()) == true||ceknamagroup2.includes(namagroup6.toLowerCase()) == true||ceknamagroup3.includes(namagroup6.toLowerCase()) == true||ceknamagroup4.includes(namagroup6.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment6;
                 clicksend();
@@ -316,7 +317,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup7) == true||ceknamagroup1.includes(namagroup7) == true||ceknamagroup2.includes(namagroup7) == true||ceknamagroup3.includes(namagroup7) == true||ceknamagroup4.includes(namagroup7) == true) {
+            if (ceknamagroup.includes(namagroup7.toLowerCase()) == true||ceknamagroup1.includes(namagroup7.toLowerCase()) == true||ceknamagroup2.includes(namagroup7.toLowerCase()) == true||ceknamagroup3.includes(namagroup7.toLowerCase()) == true||ceknamagroup4.includes(namagroup7.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment7;
                 clicksend();
@@ -333,7 +334,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup8) == true||ceknamagroup1.includes(namagroup8) == true||ceknamagroup2.includes(namagroup8) == true||ceknamagroup3.includes(namagroup8) == true||ceknamagroup4.includes(namagroup8) == true) {
+            if (ceknamagroup.includes(namagroup8.toLowerCase()) == true||ceknamagroup1.includes(namagroup8.toLowerCase()) == true||ceknamagroup2.includes(namagroup8.toLowerCase()) == true||ceknamagroup3.includes(namagroup8.toLowerCase()) == true||ceknamagroup4.includes(namagroup8.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment8;
                 clicksend();
@@ -350,7 +351,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup9) == true||ceknamagroup1.includes(namagroup9) == true||ceknamagroup2.includes(namagroup9) == true||ceknamagroup3.includes(namagroup9) == true||ceknamagroup4.includes(namagroup9) == true) {
+             if (ceknamagroup.includes(namagroup9.toLowerCase()) == true||ceknamagroup1.includes(namagroup9.toLowerCase()) == true||ceknamagroup2.includes(namagroup9.toLowerCase()) == true||ceknamagroup3.includes(namagroup9.toLowerCase()) == true||ceknamagroup4.includes(namagroup9.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment9;
                 clicksend();
@@ -367,7 +368,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup10) == true||ceknamagroup1.includes(namagroup10) == true||ceknamagroup2.includes(namagroup10) == true||ceknamagroup3.includes(namagroup10) == true||ceknamagroup4.includes(namagroup10) == true) {
+            if (ceknamagroup.includes(namagroup10.toLowerCase()) == true||ceknamagroup1.includes(namagroup10.toLowerCase()) == true||ceknamagroup2.includes(namagroup10.toLowerCase()) == true||ceknamagroup3.includes(namagroup10.toLowerCase()) == true||ceknamagroup4.includes(namagroup10.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment10;
                 clicksend();
@@ -384,7 +385,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup11) == true||ceknamagroup1.includes(namagroup11) == true||ceknamagroup2.includes(namagroup11) == true||ceknamagroup3.includes(namagroup11) == true||ceknamagroup4.includes(namagroup11) == true) {
+            if (ceknamagroup.includes(namagroup11.toLowerCase()) == true||ceknamagroup1.includes(namagroup11.toLowerCase()) == true||ceknamagroup2.includes(namagroup11.toLowerCase()) == true||ceknamagroup3.includes(namagroup11.toLowerCase()) == true||ceknamagroup4.includes(namagroup11.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment11;
                 clicksend();
@@ -401,7 +402,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup12) == true||ceknamagroup1.includes(namagroup12) == true||ceknamagroup2.includes(namagroup12) == true||ceknamagroup3.includes(namagroup12) == true||ceknamagroup4.includes(namagroup12) == true) {
+            if (ceknamagroup.includes(namagroup12.toLowerCase()) == true||ceknamagroup1.includes(namagroup12.toLowerCase()) == true||ceknamagroup2.includes(namagroup12.toLowerCase()) == true||ceknamagroup3.includes(namagroup12.toLowerCase()) == true||ceknamagroup4.includes(namagroup12.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment12;
                 clicksend();
@@ -418,7 +419,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup13) == true||ceknamagroup1.includes(namagroup13) == true||ceknamagroup2.includes(namagroup13) == true||ceknamagroup3.includes(namagroup13) == true||ceknamagroup4.includes(namagroup13) == true) {
+            if (ceknamagroup.includes(namagroup13.toLowerCase()) == true||ceknamagroup1.includes(namagroup13.toLowerCase()) == true||ceknamagroup2.includes(namagroup13.toLowerCase()) == true||ceknamagroup3.includes(namagroup13.toLowerCase()) == true||ceknamagroup4.includes(namagroup13.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment13;
                 clicksend();
@@ -435,7 +436,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup14) == true||ceknamagroup1.includes(namagroup14) == true||ceknamagroup2.includes(namagroup14) == true||ceknamagroup3.includes(namagroup14) == true||ceknamagroup4.includes(namagroup14) == true) {
+            if (ceknamagroup.includes(namagroup14.toLowerCase()) == true||ceknamagroup1.includes(namagroup14.toLowerCase()) == true||ceknamagroup2.includes(namagroup14.toLowerCase()) == true||ceknamagroup3.includes(namagroup14.toLowerCase()) == true||ceknamagroup4.includes(namagroup14.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment14;
                 clicksend();
@@ -452,7 +453,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup15) == true||ceknamagroup1.includes(namagroup15) == true||ceknamagroup2.includes(namagroup15) == true||ceknamagroup3.includes(namagroup15) == true||ceknamagroup4.includes(namagroup15) == true) {
+            if (ceknamagroup.includes(namagroup15.toLowerCase()) == true||ceknamagroup1.includes(namagroup15.toLowerCase()) == true||ceknamagroup2.includes(namagroup15.toLowerCase()) == true||ceknamagroup3.includes(namagroup15.toLowerCase()) == true||ceknamagroup4.includes(namagroup15.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment15;
                 clicksend();
@@ -469,7 +470,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-            if (ceknamagroup.includes(namagroup16) == true||ceknamagroup1.includes(namagroup16) == true||ceknamagroup2.includes(namagroup16) == true||ceknamagroup3.includes(namagroup16) == true||ceknamagroup4.includes(namagroup16) == true) {
+            if (ceknamagroup.includes(namagroup16.toLowerCase()) == true||ceknamagroup1.includes(namagroup16.toLowerCase()) == true||ceknamagroup2.includes(namagroup16.toLowerCase()) == true||ceknamagroup3.includes(namagroup16.toLowerCase()) == true||ceknamagroup4.includes(namagroup16.toLowerCase()) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment16;
                 clicksend();
@@ -548,4 +549,3 @@ function clicksend() {
     /*Tekan TOMBOL SEND*/
     GM.setValue("CLICKCOMMENT", 1);
 }
-
