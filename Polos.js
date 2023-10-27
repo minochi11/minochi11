@@ -18,7 +18,53 @@ var refresh = 90;
 
 
 
+var namagroup1 = 'SHIOKELINCI4D';
+var Comment1 = '#shiokelinci4d*SOFASOFI*27*51';
 
+var namagroup2 = 'VELBET4D';
+var Comment2 = '{SOMPLAK123} = #VELBET4D = 15*25*67';
+
+var namagroup3 = 'TiktakTogel';
+var Comment3 = '#Tiktaktogel / SOLOYO12 / 48 , 94 , 53';
+
+var namagroup4 = 'GAIB4D';
+var Comment4 = 'GAIB4D=SOKOR90=95*75*58';
+
+var namagroup5 = 'KEITOGEL';
+var Comment5 = '#keitogel = SOLOMO38 = 15*25*67';
+
+var namagroup6 = 'KiosToto';
+var Comment6 = 'KIOSTOTO=SOLALI14=54*42*82';
+
+var namagroup7 = 'KHUSUS MACAU';
+var Comment7 = '#ASEPTOGEL SOLONTO12 54*42*82';
+
+var namagroup8 = 'ANGKER';
+var Comment8 = 'ANGKER4D=SONDOL78=72*52*12';
+
+var namagroup9 = 'GILA4D';
+var Comment9 = 'GILA4D=SOMEROT2=72*52*12';
+
+var namagroup10 = 'JNETOTO';
+var Comment10 = '#JNETOTO(SOLOLO88)*17*11*22';
+
+var namagroup11 = 'TOTOAKURAT';
+var Comment11 = '#TA*SOLETI72*72*52*12*';
+
+var namagroup12 = 'BOCORAN PREDIKSI SDY';
+var Comment12 = '#TOGELKUY SOLANAS36 17*11*22';
+
+var namagroup13 = 'TOYIBSLOT';
+var Comment13 = '#TOYIBSLOT ( SOLLOL87 ) : 48*94*53';
+
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 95*75*58 ( SOLES78 )';
+
+var namagroup15 = 'SNIPER';
+var Comment15 = '#VESPATOGEL (SOLES78)  26*85*35';
+
+var namagroup16 = '123213213';
+var Comment16 = '123123';
 
 
 
