@@ -134,6 +134,7 @@ var Backlist = ["REKAP", "rekap", "hasil","HASIL","ROOM LOMBA FREEBET","nanti","
 
 
 
+
 /*Waktu*/
 var jam1 = "Baru saja"
 var jam2 = "1 menit"
@@ -147,12 +148,7 @@ var jam9 = "8 menit"
 
 var jam = [jam1,jam2,jam3,jam4,jam5,jam6,jam7,jam8,jam9];
 
-
 setInterval(function(){
-
-
-
-
 GM.setValue("JAM", 0);
 GM.setValue("KEYWORD", 0);
 GM.setValue("BACKLIST", 0);
@@ -856,9 +852,6 @@ function clicksend() {
     GM.setValue("CLICKCOMMENT", 1);
     /*Tekan TOMBOL SEND*/
 }
-
-
-
 
 
 
