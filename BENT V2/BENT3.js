@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT3
 // @namespace    http://tampermonkey.net/
-// @version      3.17
+// @version      3.18
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
@@ -124,11 +124,15 @@ var Comment32 = '#PUCUK4D (SRITING**) = 189*414*986';
 
 
 
+
+
+
 /*Keyword*/
 var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","BEBASIP","BEBAS IP","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","█","█"];
 
 /*Backlist Kata*/
 var Backlist = ["REKAP", "rekap", "hasil","HASIL","ROOM LOMBA FREEBET","nanti","kapan","Rekap","Hasil"];
+
 
 
 
@@ -210,7 +214,7 @@ GM.setValue("DONE", 0);
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
     var cekjam9 = document.getElementsByClassName('native-text')[28].textContent
 
-     var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
+    var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
     var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent;
     var cekcomment3 = document.getElementsByClassName('native-text')[22].textContent;
     var cekcomment4 = document.getElementsByClassName('native-text')[23].textContent;
@@ -399,7 +403,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-           if (ceknamagroup.includes(namagroup9) == true||ceknamagroup1.includes(namagroup9) == true||ceknamagroup2.includes(namagroup9) == true||ceknamagroup3.includes(namagroup9) == true||ceknamagroup4.includes(namagroup9) == true) {
+            if (ceknamagroup.includes(namagroup9) == true||ceknamagroup1.includes(namagroup9) == true||ceknamagroup2.includes(namagroup9) == true||ceknamagroup3.includes(namagroup9) == true||ceknamagroup4.includes(namagroup9) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment9;
                 clicksend();
@@ -849,6 +853,7 @@ function clicksend() {
     GM.setValue("CLICKCOMMENT", 1);
     /*Tekan TOMBOL SEND*/
 }
+
 
 
 function commentpasar(commenan){
