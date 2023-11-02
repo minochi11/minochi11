@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT2
 // @namespace    http://tampermonkey.net/
-// @version      3.17
+// @version      3.18
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT2.js
@@ -123,11 +123,16 @@ var Comment32 = '#PUCUK4D (POLIT**) = 821*733*080';
 
 
 
+
+
+
 /*Keyword*/
 var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","BEBASIP","BEBAS IP","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","█","█"];
 
 /*Backlist Kata*/
 var Backlist = ["REKAP", "rekap", "hasil","HASIL","ROOM LOMBA FREEBET","nanti","kapan","Rekap","Hasil"];
+
+
 
 
 /*Waktu*/
@@ -144,10 +149,6 @@ var jam9 = "8 menit"
 var jam = [jam1,jam2,jam3,jam4,jam5,jam6,jam7,jam8,jam9];
 
 setInterval(function(){
-
-
-
-
 GM.setValue("JAM", 0);
 GM.setValue("KEYWORD", 0);
 GM.setValue("BACKLIST", 0);
@@ -212,7 +213,7 @@ GM.setValue("DONE", 0);
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
     var cekjam9 = document.getElementsByClassName('native-text')[28].textContent
 
-     var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
+    var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
     var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent;
     var cekcomment3 = document.getElementsByClassName('native-text')[22].textContent;
     var cekcomment4 = document.getElementsByClassName('native-text')[23].textContent;
@@ -851,6 +852,7 @@ function clicksend() {
     GM.setValue("CLICKCOMMENT", 1);
     /*Tekan TOMBOL SEND*/
 }
+
 
 
 function commentpasar(commenan){
