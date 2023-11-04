@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.17
+// @version      3.18
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
@@ -101,7 +101,7 @@ var Comment26 = '#LINGTOGEL77*MOSIOM19*076*944*027';
 var namagroup27 = 'ALEXISTOGEL';
 var Comment27 = '#ALEXISTOGEL(MODAR17) 3D = 593 , 670 , 575'; 
 
-var namagroup28 = 'AMANAH';
+var namagroup28 = 'LOMBA AMANAH';
 var Comment28 = '#GTATOGEL {MORAK16} = 311*695*851'; 
 
 var namagroup29 = 'CAPTOGEL';
