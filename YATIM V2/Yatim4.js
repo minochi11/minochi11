@@ -52,7 +52,7 @@ var namagroup11 = 'TOTOAKURAT';
 var Comment11 = '#TA*ACOK02*37*85*45*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY COKAHU 06*12*92'; 
+var Comment12 = '#TOGELKUY COKAHU 89*24*46'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( ACOK02 ) : 29*28*86'; 
