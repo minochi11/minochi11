@@ -52,7 +52,7 @@ var namagroup11 = 'TOTOAKURAT';
 var Comment11 = '#TA*ZOKUTU72*51*17*14*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY ZOWEKNI82 30*45*36'; 
+var Comment12 = '#TOGELKUY ZOWEKNI82 22*83*81';
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( ZOWINDO ) : 65*32*61'; 
