@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.18
+// @version      3.19
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
@@ -107,8 +107,8 @@ var Comment28 = '#GTATOGEL {QANAS52} = 969*738*315';
 var namagroup29 = 'CAPTOGEL';
 var Comment29 = '#CAPTOGEL (QOECK62)=*195*894*669'; 
 
-var namagroup30 = 'OLBTOTO';
-var Comment30 = '#OLBTOTO(QOECK62)*001*510*216'; 
+var namagroup30 = 'TRIBUN';
+var Comment30 = '#TRIBUNTOGEL = (QOMAR27) = 001*510*216'; 
 
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'QUMUR19 # 205/168/920 #YOGAPRO'; 
