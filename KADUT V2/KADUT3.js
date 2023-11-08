@@ -111,7 +111,7 @@ var namagroup29 = 'CAPTOGEL';
 var Comment29 = '#CAPTOGEL (JONGONO)=*477*234*758'; 
 
 var namagroup30 = 'TRIBUN';
-var Comment30 = '#TRIBUNTOGEL = (JOKILAN11) = 803*415*365'; 
+var Comment30 = '#TRIBUNTOGEL = (JOJONBETAWI) = 803*415*365'; 
 
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'JOROKLUH # 091/075/781 #YOGAPRO'; 
