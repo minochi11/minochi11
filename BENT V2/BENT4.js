@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT4
 // @namespace    http://tampermonkey.net/
-// @version      3.20
+// @version      3.21
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
@@ -117,6 +117,8 @@ var Comment31 = 'BOLER19 # 977/291/211 #YOGAPRO';
 
 var namagroup32 = 'PUCUK4D';
 var Comment32 = '#PUCUK4D (BONES**) = 371*004*460';
+
+
 
 
 
