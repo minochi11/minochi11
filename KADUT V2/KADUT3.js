@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT3
 // @namespace    http://tampermonkey.net/
-// @version      3.19
+// @version      3.20
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT3.js
@@ -124,12 +124,13 @@ var Comment32 = '#PUCUK4D (JOKILAN**) = 301*684*884';
 
 
 
+
+
 /*Keyword*/
 var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","BEBASIP","BEBAS IP","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","█","█"];
 
 /*Backlist Kata*/
 var Backlist = ["REKAP", "rekap", "hasil","HASIL","ROOM LOMBA FREEBET","nanti","kapan","Rekap","Hasil"];
-
 
 
 
@@ -225,7 +226,7 @@ GM.setValue("DONE", 0);
     var cekcomment11= document.getElementsByClassName('native-text')[30].textContent;
     var cekcomment12= document.getElementsByClassName('native-text')[31].textContent;
 
-   var validcom = false;
+    var validcom = false;
     var valid = false;
     var minimumtxt = 30;
 
