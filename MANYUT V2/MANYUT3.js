@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT3
 // @namespace    http://tampermonkey.net/
-// @version      3.19
+// @version      3.20
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT3.js
@@ -115,6 +115,8 @@ var Comment31 = 'ALAHMBUH # 785/772/583 #YOGAPRO';
 
 var namagroup32 = 'PUCUK4D';
 var Comment32 = '#PUCUK4D (ALTIMB**) = 132*138*846';
+
+
 
 
 
@@ -396,7 +398,7 @@ GM.setValue("DONE", 0);
         /*Komentar*/
         if(valid == true) {
 
-           if (ceknamagroup.includes(namagroup9) == true||ceknamagroup1.includes(namagroup9) == true||ceknamagroup2.includes(namagroup9) == true||ceknamagroup3.includes(namagroup9) == true||ceknamagroup4.includes(namagroup9) == true) {
+            if (ceknamagroup.includes(namagroup9) == true||ceknamagroup1.includes(namagroup9) == true||ceknamagroup2.includes(namagroup9) == true||ceknamagroup3.includes(namagroup9) == true||ceknamagroup4.includes(namagroup9) == true) {
                 /*cek nama group dan tulis commntar*/
                 document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment9;
                 clicksend();
