@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.19
+// @version      3.20
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
@@ -122,7 +122,6 @@ var Comment32 = '#PUCUK4D (SAKEMP**) = 347*717*349';
 
 
 
-
 /*Keyword*/
 var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","BEBASIP","BEBAS IP","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","█","█"];
 
@@ -210,7 +209,7 @@ GM.setValue("DONE", 0);
     var cekjam8 = document.getElementsByClassName('native-text')[27].textContent
     var cekjam9 = document.getElementsByClassName('native-text')[28].textContent
 
-   var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
+    var cekcomment1 = document.getElementsByClassName('native-text')[20].textContent;
     var cekcomment2 = document.getElementsByClassName('native-text')[21].textContent;
     var cekcomment3 = document.getElementsByClassName('native-text')[22].textContent;
     var cekcomment4 = document.getElementsByClassName('native-text')[23].textContent;
