@@ -37,7 +37,7 @@ var Comment5 = '#TOYIBSLOT ( CINTAKU43 ) : 99*82*69';
 var namagroup6 = 'TiktakTogel';
 var Comment6 = '#Tiktaktogel / CUKAPASAR56 / 99 , 82 , 69'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL CUCUBUAYA65 89*58*71'; 
 
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
@@ -50,7 +50,7 @@ var namagroup10 = 'GILA4D';
 var Comment10 = 'GILA4D=CUALINSENG41=93*75*12'; 
 
 var namagroup11 = 'KEITOGEL';
-var Comment11 = '#keitogel = CUCUKU76 = 39*53*73'; 
+var Comment11 = '#keitogel = (CUCUKU76) = 39*53*73'; 
 
 var namagroup12 = 'KiosToto';
 var Comment12 = 'KIOSTOTO=CUCUBUAYA65=97*95*45'; 
@@ -58,15 +58,14 @@ var Comment12 = 'KIOSTOTO=CUCUBUAYA65=97*95*45';
 var namagroup13 = 'TOTOAKURAT';
 var Comment13 = '#TA*CIANGSUI54*07*32*18*'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*CINCANG65*97*95*45'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 97*95*45 ( CUCUKU76 )'; 
 
-var namagroup15 = 'DENTOTO';
-var Comment15 = '#DENTOTO 97*95*45 ( CUCUKU76 )'; 
+var namagroup15 = '12312312';
+var Comment15 = ''; 
 
 var namagroup16 = '12312312';
 var Comment16 = '';
-
 
 
 /*======================================================================3D===============================================================*/
@@ -103,7 +102,7 @@ var Comment26 = '#LINGTOGEL77*CUCUKU76*873*729*875';
 var namagroup27 = 'ALEXISTOGEL';
 var Comment27 = '#ALEXISTOGEL(CARICINTA54) 3D = 255 , 712 , 300'; 
 
-var namagroup28 = 'LOMBA AMANAH';
+var namagroup28 = 'GTA';
 var Comment28 = '#GTATOGEL {CACINGAN54} = 936*352*895'; 
 
 var namagroup29 = 'CAPTOGEL';
@@ -116,14 +115,7 @@ var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'SIMBOLU26 # 635/103/883 #YOGAPRO'; 
 
 var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (SRITING**) = 189*414*986';
-
-
-
-
-
-
-
+var Comment32 = '#PUCUK4D (SRITING81) = 189*414*986';
 
 
 
