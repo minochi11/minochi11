@@ -115,7 +115,7 @@ var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'SRILAKCU # 885/063/335 #YOGAPRO'; 
 
 var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (SRIDU268) = 283*860*341';
+var Comment32 = '#PUCUK4D (SRIDU**) = 283*860*341';
 
 
 
