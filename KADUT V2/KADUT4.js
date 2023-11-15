@@ -115,7 +115,7 @@ var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'SALAMANAE # 854/687/353 #YOGAPRO'; 
 
 var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (SAKEMPUL) = 347*717*349';
+var Comment32 = '#PUCUK4D (SAKEMP**) = 347*717*349';
 
 
 
