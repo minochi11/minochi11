@@ -117,7 +117,7 @@ var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'DONOKU1 # 737/386/614 #YOGAPRO'; 
 
 var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (DONAL13) = 121*290*397';
+var Comment32 = '#PUCUK4D (DONAL**) = 121*290*397';
 
 
 
