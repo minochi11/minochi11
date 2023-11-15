@@ -116,7 +116,7 @@ var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'BUNDERLER # 567/140/487 #YOGAPRO'; 
 
 var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (BOLEN19) = 512*348*940';
+var Comment32 = '#PUCUK4D (BOLEN**) = 512*348*940';
 
 
 
