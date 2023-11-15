@@ -116,7 +116,7 @@ var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'BERANAK76 # 303/127/917 #YOGAPRO'; 
 
 var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (POLITAS) = 821*733*080';
+var Comment32 = '#PUCUK4D (POLIT**) = 821*733*080';
 
 
 
