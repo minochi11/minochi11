@@ -114,7 +114,7 @@ var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'ALAHMBUH # 785/772/583 #YOGAPRO'; 
 
 var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (ALTIMBUL) = 132*138*846';
+var Comment32 = '#PUCUK4D (ALTIMB**) = 132*138*846';
 
 
 
