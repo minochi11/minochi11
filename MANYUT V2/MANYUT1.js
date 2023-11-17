@@ -68,7 +68,7 @@ var namagroup16 = 'DENTOTO';
 var Comment16 = '#DENTOTO 60*80*79 ( HOCIANG12 )';
 
 /*======================================================================3D===============================================================*/
-"var namagroup17 = 'BORTOTO';
+var namagroup17 = 'BORTOTO';
 var Comment17 = 'BORTOTO (QUMURTU17) *422*611*577'; 
 
 var namagroup18 = 'CIKA';
