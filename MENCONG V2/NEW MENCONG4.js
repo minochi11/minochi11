@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MENCONG4
 // @namespace    http://tampermonkey.net/
-// @version      3.15
+// @version      3.16
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG4.js
@@ -127,7 +127,7 @@ var Comment32 = 'TESTBENTO';
 
 
 /*Keyword*/
-var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","BEBASIP","BEBAS IP","𝐋𝐎𝐌𝐁𝐀","ROOM_LOMBA","█","█"];
+var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀"];
 
 /*Backlist Kata*/
 var Backlist1 = "rekap";
@@ -217,25 +217,27 @@ setInterval(function(){
 
 
 
-    for (let ntv = 10; ntv < 400; ntv++) {
+    for (let ntv = 10; ntv < 60; ntv++) {
 
         if(cekjam[ntv]) {
             if(cekjam[ntv].textContent){
                 for (var u in jam){
-                    if(cekjam[ntv].textContent.slice(0,7).includes(jam[u]) || cekjam[ntv].textContent.slice(0,5).includes(jam[u])){
-                        for (let ntc = ntv; ntc < 400; ntc++) {
+
+                    if(cekjam[ntv].textContent.slice(0,7).includes(jam[u])){
+                        for (let ntc = ntv; ntc < ntv+5; ntc++) {
                             if(cekcomment[ntc]){
                                 if(cekcomment[ntc].textContent.includes(Backlist1)||cekcomment[ntc].textContent.includes(Backlist2)||cekcomment[ntc].textContent.includes(Backlist3)||cekcomment[ntc].textContent.includes(Backlist4)||cekcomment[ntc].textContent.includes(Backlist5)||cekcomment[ntc].textContent.includes(Backlist6)){
                                     break;
                                 }
+
                                 if(cekcomment[ntc].textContent){
 
                                     for (var j in keyword){
 
                                         if (cekcomment[ntc].textContent.includes(keyword[j])){
                                             /*Jika Keyword Di TEMUKAN */
-                                            GM.setValue("KEYWORD", 1);
-                                            for (var krd = ntc; krd < 400; krd++){
+
+                                            for (var krd = ntc; krd < ntc+5; krd++){
                                                 if(waktupost[krd]){
                                                     if(waktupost[krd].textContent.includes("Tulis komentar")) {
                                                         /*buka koment box */
@@ -249,7 +251,9 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                            GM.setValue(namagroup1, keyword[j] + " " + jam[u] );
                                                             return;
+
                                                         }
 
 
@@ -265,6 +269,7 @@ setInterval(function(){
                                                             GM.setValue("DONE", 1);
 
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup2, keyword[j] + " " + jam[u] );
                                                             return;
                                                         }
 
@@ -281,6 +286,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup3, keyword[j] + " " + jam[u] );
                                                             return;
                                                         }
 
@@ -297,6 +303,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup4, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -314,6 +321,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup5, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -331,6 +339,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup6, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -348,6 +357,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup7, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -365,6 +375,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup8, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -382,6 +393,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup9, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -399,6 +411,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup10, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -416,6 +429,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup11, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -433,6 +447,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup12, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -450,6 +465,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup13, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -467,6 +483,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup14, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -484,6 +501,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup15, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -501,6 +519,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup16, keyword[j] + " " + jam[u] );
                                                             return;
 
                                                         }
@@ -521,6 +540,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup17, keyword[j]);
                                                             return;
 
                                                         }
@@ -538,6 +558,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup18, keyword[j]);
                                                             return;
 
                                                         }
@@ -555,6 +576,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup19, keyword[j]);
                                                             return;
 
                                                         }
@@ -572,6 +594,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup20, keyword[j]);
                                                             return;
 
                                                         }
@@ -589,6 +612,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup21, keyword[j]);
                                                             return;
 
                                                         }
@@ -606,6 +630,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup22, keyword[j]);
                                                             return;
 
                                                         }
@@ -623,6 +648,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup23, keyword[j]);
                                                             return;
 
                                                         }
@@ -640,6 +666,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup24, keyword[j]);
                                                             return;
 
                                                         }
@@ -657,6 +684,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup25, keyword[j]);
                                                             return;
 
                                                         }
@@ -674,6 +702,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup26, keyword[j]);
                                                             return;
 
                                                         }
@@ -691,6 +720,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup27, keyword[j]);
                                                             return;
 
                                                         }
@@ -708,6 +738,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup28, keyword[j]);
                                                             return;
 
                                                         }
@@ -725,6 +756,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup29, keyword[j]);
                                                             return;
 
                                                         }
@@ -742,6 +774,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup30, keyword[j]);
                                                             return;
 
                                                         }
@@ -759,6 +792,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup31, keyword[j]);
                                                             return;
 
                                                         }
@@ -776,6 +810,7 @@ setInterval(function(){
 
                                                             GM.setValue("DONE", 1);
                                                             location.href = "about:blank"
+                                                             GM.setValue(namagroup32, keyword[j]);
                                                             return;
 
                                                         }
@@ -794,6 +829,7 @@ setInterval(function(){
 
                         }
                     }
+
                 }
             }
         }
