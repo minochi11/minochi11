@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT2
 // @namespace    http://tampermonkey.net/
-// @version      3.26
+// @version      3.27
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT2.js
@@ -127,7 +127,7 @@ var Comment32 = '#PUCUK4D (POLIT**) = 821*733*080';
 var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀"];
 
 /*Backlist Kata*/
-var Backlist1 = "rekap";
+var Backlist1 = "GOJEK";
 var Backlist2 = "REKAP";
 var Backlist3 = "HASIL";
 var Backlist4 = "ROOM LOMBA FREEBET";
