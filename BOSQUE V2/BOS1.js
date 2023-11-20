@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BOS1
 // @namespace    http://tampermonkey.net/
-// @version      3.16
+// @version      3.17
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS1.js
@@ -21,8 +21,8 @@ var refresh = 90;
 var namagroup1 = 'SHIOKELINCI4D';
 var Comment1 = '#shiokelinci4d*XERBIA13*06*80'; 
 
-var namagroup2 = 'VELBET4D';
-var Comment2 = '{XENON88} = #VELBET4D = 26*73*41'; 
+var namagroup2 = 'PREDIKSI SYAIR';
+var Comment2 = '#IYATOTO XENON88 26*73*41'; 
 
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / XELINA56 / 48 , 87 , 88'; 
