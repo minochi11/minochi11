@@ -72,8 +72,7 @@ var Comment16 = '#IYATOTO ASTRI29 70*90*23';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'MEME';
-var Comment17 = '<DONAL13> = 742*396*837 #MEME4D 
-#AGENTOGELTERPERCAYA'; 
+var Comment17 = '<DONAL13> = 742*396*837 #MEME4D #AGENTOGELTERPERCAYA'; 
 
 var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*DOLENG28*829*182*563'; 
