@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT4
 // @namespace    http://tampermonkey.net/
-// @version      3.29
+// @version      3.30
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
@@ -70,8 +70,8 @@ var Comment16 = '#IYATOTO DUINIATOTO23 91*27*59';
 
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'MEME';
-var Comment17 = '<BONES17> = 763*531*486 #MEME4D #AGENTOGELTERPERCAYA'; 
+var namagroup17 = 'MUGIWARASLOT';
+var Comment17 = '#MUGIWARASLOT ( BONES17 ) 763*531*486'; 
 
 var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*BLOOMTO92*481*847*210'; 
