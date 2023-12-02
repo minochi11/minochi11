@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT4
 // @namespace    http://tampermonkey.net/
-// @version      3.30
+// @version      3.31
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
@@ -109,14 +109,14 @@ var Comment28 = '#GTATOGEL {DUDUKGO81} = 786*275*599';
 var namagroup29 = 'PBOTOTO';
 var Comment29 = 'PBOTOTO 526*479*215 ( BOKIKAN )'; 
 
-var namagroup30 = 'GOJO4D';
+var namagroup30 = 'NAKAMA';
 var Comment30 = 'GOJO4D ( BLOOMTO92 ) : 265*067*130'; 
 
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'BOLER19 # 977/291/211 #YOGAPRO'; 
 
-var namagroup32 = 'PUCUK4D';
-var Comment32 = '#PUCUK4D (BONES**) = 371*004*460';
+var namagroup32 = 'KITAB4D';
+var Comment32 = '{BONES17} = 371*004*460 #AGENTOGELKITAB4D #DAFTARTOGELKITAB4D';
 
 
 
