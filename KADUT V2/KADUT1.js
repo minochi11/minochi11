@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.32
+// @version      3.33
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
@@ -92,7 +92,7 @@ var namagroup23 = 'ABUTOGEL';
 var Comment23 = '#ABUTOGEL*BOREO19*683*320*079'; 
 
 var namagroup24 = 'OTU SLOT';
-var Comment24 = '#OTUSLOT*BUDEGSU*324*383*943*BETTING'; 
+var Comment24 = '#OTUSLOT*BUDEGSU*324*383*BETTING'; 
 
 var namagroup25 = 'BUSURGROUP';
 var Comment25 = commentpasar('#KAPAK4D*BUNDERLER*716*995*123'); 
