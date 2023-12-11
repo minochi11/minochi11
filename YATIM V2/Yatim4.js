@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yatim4
 // @namespace    http://tampermonkey.net/
-// @version      3.16
+// @version      3.17
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim4.js
@@ -19,52 +19,52 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI4D';
-var Comment1 = '#shiokelinci4d*CADIHP*97*87'; 
+var Comment1 = '#shiokelinci4d*YATIMART*97*87'; 
 
 var namagroup2 = 'PREDIKSI SYAIR';
-var Comment2 = '#IYATOTO ACOK02 37*85*45'; 
+var Comment2 = '#IYATOTO YAKUZA16 37*85*45'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / TELRING / 20 , 58 , 42'; 
+var Comment3 = '#Tiktaktogel / YAKULT98 / 20 , 58 , 42'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=JAGENN=89*24*46'; 
+var Comment4 = 'GAIB4D=YAPIYEYA=89*24*46'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = ACOK02 = 97*87*27'; 
+var Comment5 = '#keitogel = (YAAJAH19) = 97*87*27'; 
 
 var namagroup6 = 'KiosToto';
-var Comment6 = 'KIOSTOTO=KANTAI=06*12*92'; 
+var Comment6 = 'KIOSTOTO=YANIRI03=06*12*92'; 
 
 var namagroup7 = 'KHUSUS';
-var Comment7 = '#ASEPTOGEL ACOK02 48*44*74'; 
+var Comment7 = '#ASEPTOGEL YANNCOK84 48*44*74'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=SOTEEL=48*44*74'; 
+var Comment8 = 'ANGKER4D=YADIANI77=48*44*74'; 
 
 var namagroup9 = 'GILA4D';
-var Comment9 = 'GILA4D=SEGOTOT=20*58*84'; 
+var Comment9 = 'GILA4D=YASALAM64=20*58*84'; 
 
 var namagroup10 = 'JNETOTO';
-var Comment10 = '#JNETOTO(ACOK02)*11*82*51'; 
+var Comment10 = '#JNETOTO(YAHWEH00)*11*82*51'; 
 
 var namagroup11 = 'TOTOAKURAT';
-var Comment11 = '#TA*ACOK02*37*85*45*'; 
+var Comment11 = '#TA*YANURIO47*37*85*45*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY COKAHU 89*24*46'; 
+var Comment12 = '#TOGELKUY YANCOKSU 89*24*46'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( ACOK02 ) : 29*28*86'; 
+var Comment13 = '#TOYIBSLOT ( YAMIENAPI ) : 29*28*86'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*ACOK02*06*12*92'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 06*12*92 ( YARUWET )'; 
 
-var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (ACOK02) 29*28*86'; 
+var namagroup15 = 'SNIPER NUSANTARA';
+var Comment15 = '#VESPATOGEL (YAELAH82)  29*28*86'; 
 
-var namagroup16 = 'DENTOTO';
-var Comment16 = '#DENTOTO 06*12*92 ( ACOK02 )';
+var namagroup16 = 'hdnqkwg7';
+var Comment16 = '';
 
 
 
