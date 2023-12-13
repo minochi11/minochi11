@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.33
+// @version      3.34
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT2.js
@@ -69,8 +69,8 @@ var Comment16 = '#DENTOTO 93*81*45 ( SRILAKCU )';
 
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'DASARTOTO';
-var Comment17 = '#DASARTOTO*438*916*424*SRIMBELEWEL'; 
+var namagroup17 = 'Pecah77';
+var Comment17 = '#PECAH77 (SRIDU2**) = 902*982*835'; 
 
 var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*SRISUWING*370*830*159'; 
@@ -91,7 +91,7 @@ var namagroup23 = 'ABUTOGEL';
 var Comment23 = '#ABUTOGEL*SRIMBELEWEL*522*862*928'; 
 
 var namagroup24 = 'OTU SLOT';
-var Comment24 = '#OTUSLOT*SRIWING6*790*584*BETTING'; 
+var Comment24 = '#OTUSLOT*SRIWING6*790*584*956*BETTING'; 
 
 var namagroup25 = 'BUSURGROUP';
 var Comment25 = commentpasar('#KAPAK4D*SRILAKCU*658*675*041'); 
@@ -105,11 +105,11 @@ var Comment27 = '#ALEXISTOGEL(SRIMIT64) 3D = 649 , 798 , 924';
 var namagroup28 = 'LOMBA AMANAH';
 var Comment28 = '#GTATOGEL {SRISUWING} = 616*200*677'; 
 
-var namagroup29 = 'PBOTOTO';
-var Comment29 = 'PBOTOTO 438*916*424 ( SRIMBELEWEL )'; 
+var namagroup29 = 'DASARTOTO';
+var Comment29 = '#DASARTOTO*SRIMBELEWEL*438*916*424'; 
 
-var namagroup30 = 'NAKAMA';
-var Comment30 = 'GOJO4D ( SRISUWING ) : 789*163*560'; 
+var namagroup30 = 'PORTOGEL';
+var Comment30 = '#PORTOGEL (SRIMBELEWEL) = 789*163*560'; 
 
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'SRILAKCU # 885/063/335 #YOGAPRO'; 
