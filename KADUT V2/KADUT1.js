@@ -71,7 +71,7 @@ var Comment16 = '#DENTOTO 88*50*90 ( BOTAP27 )';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'Pecah77';
-var Comment17 = '#PECAH77 (BOLEN19) = 561*133*242'; 
+var Comment17 = '#PECAH77 (BOLEN**) = 561*133*242'; 
 
 var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*BUNCIT17*629*282*409'; 
