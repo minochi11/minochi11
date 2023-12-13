@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.33
+// @version      3.34
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
@@ -68,8 +68,8 @@ var namagroup16 = 'DENTOTO';
 var Comment16 = '#DENTOTO 60*80*79 ( HOCIANG12 )';
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'DASARTOTO';
-var Comment17 = '#DASARTOTO*195*894*669*QOECK62'; 
+var namagroup17 = 'Pecah77';
+var Comment17 = '#PECAH77 (QUMURTU**) = 422*611*577'; 
 
 var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*QOMAR27*792*823*692'; 
@@ -90,7 +90,7 @@ var namagroup23 = 'ABUTOGEL';
 var Comment23 = '#ABUTOGEL*QOECK62*900*295*402'; 
 
 var namagroup24 = 'OTU SLOT';
-var Comment24 = '#OTUSLOT*QOMARUT14*129*740*BETTING'; 
+var Comment24 = '#OTUSLOT*QOMARUT14*129*740*410*BETTING'; 
 
 var namagroup25 = 'BUSURGROUP';
 var Comment25 = commentpasar('#KAPAK4D*QOMA123*638*440*186'); 
@@ -104,11 +104,11 @@ var Comment27 = '#ALEXISTOGEL(QOMAR28) 3D = 723 , 463 , 663';
 var namagroup28 = 'LOMBA AMANAH';
 var Comment28 = '#GTATOGEL {QANAS52} = 969*738*315'; 
 
-var namagroup29 = 'PBOTOTO';
-var Comment29 = 'PBOTOTO 195*894*669 ( QOECK62 )'; 
+var namagroup29 = 'DASARTOTO';
+var Comment29 = '#DASARTOTO*QOECK62*195*894*669'; 
 
-var namagroup30 = 'NAKAMA';
-var Comment30 = 'GOJO4D ( QOMAR27 ) : 001*510*216'; 
+var namagroup30 = 'PORTOGEL';
+var Comment30 = '#PORTOGEL (QOECK62) = 001*510*216'; 
 
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'QUMUR19 # 205/168/920 #YOGAPRO'; 
