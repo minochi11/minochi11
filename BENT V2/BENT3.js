@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT3
 // @namespace    http://tampermonkey.net/
-// @version      3.33
+// @version      3.34
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
@@ -69,8 +69,8 @@ var Comment16 = '';
 
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'DASARTOTO';
-var Comment17 = '#DASARTOTO*768*092*870*SINTADIA18'; 
+var namagroup17 = 'Pecah77';
+var Comment17 = '#PECAH77 (SRITING81) = 591*241*297'; 
 
 var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*SIALANKU13*036*213*953'; 
@@ -91,7 +91,7 @@ var namagroup23 = 'ABUTOGEL';
 var Comment23 = '#ABUTOGEL*SINTADIA18*841*700*974'; 
 
 var namagroup24 = 'OTU SLOT';
-var Comment24 = '#OTUSLOT*CIANGSUI54*897*326*BETTING'; 
+var Comment24 = '#OTUSLOT*CIANGSUI54*897*326*051*BETTING'; 
 
 var namagroup25 = 'BUSURGROUP';
 var Comment25 = commentpasar('#KAPAK4D*SUWING11*312*992*587'); 
@@ -105,11 +105,11 @@ var Comment27 = '#ALEXISTOGEL(CARICINTA54) 3D = 255 , 712 , 300';
 var namagroup28 = 'LOMBA AMANAH';
 var Comment28 = '#GTATOGEL {CACINGAN54} = 936*352*895'; 
 
-var namagroup29 = 'PBOTOTO';
-var Comment29 = 'PBOTOTO 768*092*870 ( SINTADIA18 )'; 
+var namagroup29 = 'DASARTOTO';
+var Comment29 = '#DASARTOTO*SINTADIA18*768*092*870'; 
 
-var namagroup30 = 'NAKAMA'
-var Comment30 = 'GOJO4D ( SIALANKU13 ) : 926*217*961'; 
+var namagroup30 = 'PORTOGEL';
+var Comment30 = '#PORTOGEL (CACINGAN54) = 926*217*961'; 
 
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'SIMBOLU26 # 635/103/883 #YOGAPRO'; 
