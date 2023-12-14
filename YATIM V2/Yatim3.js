@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yatim3
 // @namespace    http://tampermonkey.net/
-// @version      3.16
+// @version      3.17
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim3.js
@@ -31,7 +31,7 @@ var namagroup4 = 'GAIB4D';
 var Comment4 = 'GAIB4D=SILUWET=21*96*00'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = SIMPAK17 = 69*57*34'; 
+var Comment5 = '#keitogel = (SIMPAK17) = 69*57*34'; 
 
 var namagroup6 = 'KiosToto';
 var Comment6 = 'KIOSTOTO=SINDOLI39=14*65*30'; 
