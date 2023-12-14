@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT4
 // @namespace    http://tampermonkey.net/
-// @version      3.34
+// @version      3.35
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
@@ -50,7 +50,7 @@ var namagroup10 = 'GILA4D';
 var Comment10 = 'GILA4D=DINIMARTIN13=05*46*38'; 
 
 var namagroup11 = 'KEITOGEL';
-var Comment11 = '#keitogel = DUDUKGO81 = 91*27*59'; 
+var Comment11 = '#keitogel = (DUDUKGO81) = 91*27*59'; 
 
 var namagroup12 = 'KiosToto';
 var Comment12 = 'KIOSTOTO=DIANUMAMI12=81*98*55'; 
