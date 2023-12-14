@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW CURUT3
 // @namespace    http://tampermonkey.net/
-// @version      3.17
+// @version      3.18
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT3.js
@@ -31,7 +31,7 @@ var namagroup4 = 'GAIB4D';
 var Comment4 = 'GAIB4D=ALFATAH16=28*21*15'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = ALIMN26 = 42*16*50'; 
+var Comment5 = '#keitogel = (ALIMN26) = 42*16*50'; 
 
 var namagroup6 = 'KiosToto';
 var Comment6 = 'KIOSTOTO=ALKODAR13=52*65*12'; 
