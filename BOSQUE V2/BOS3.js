@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BOS3
 // @namespace    http://tampermonkey.net/
-// @version      3.17
+// @version      3.18
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS3.js
@@ -31,7 +31,7 @@ var namagroup4 = 'GAIB4D';
 var Comment4 = 'GAIB4D=YONOBO74=77*66*79'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = YONOBO74 = 98*63*12'; 
+var Comment5 = '#keitogel = (YONOBO74) = 98*63*12'; 
 
 var namagroup6 = 'KiosToto';
 var Comment6 = 'KIOSTOTO=YONOBO74=04*50*24'; 
