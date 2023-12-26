@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.38
+// @version      3.39
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
@@ -68,8 +68,8 @@ var namagroup16 = 'DENTOTO';
 var Comment16 = '#DENTOTO 60*80*79 ( HOCIANG12 )';
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'Pecah77';
-var Comment17 = '#PECAH77 (QUMURTU**) = 422*611*577'; 
+var namagroup17 = 'TESLATOTO';
+var Comment17 = '#TESLATOTO/QUMURTU17/422*611*577'; 
 
 var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*QOMAR27*792*823*692'; 
