@@ -71,7 +71,7 @@ var Comment16 = '#IYATOTO DUINIATOTO23 91*27*59';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESLATOTO';
-var Comment17 = '#TESLATOTO/DUDUKGO81/763*531*4866'; 
+var Comment17 = '#TESLATOTO/DUDUKGO81/763*531*486'; 
 
 var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*BLOOMTO92*481*847*210'; 
