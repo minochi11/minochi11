@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.42
+// @version      3.43
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT2.js
@@ -105,8 +105,8 @@ var Comment27 = '#ALEXISTOGEL(SRIMIT64) 3D = 649*798*924';
 var namagroup28 = 'LOMBA AMANAH';
 var Comment28 = '#GTATOGEL(SRISUWING)*616*200*677'; 
 
-var namagroup29 = 'DASARTOTO';
-var Comment29 = '#DASARTOTO*SRIMBELEWEL*438*916*424'; 
+var namagroup29 = 'BBNI4D';
+var Comment29 = '#(BBNI4D) = (SRIMBELEWEL) 438*916*424'; 
 
 var namagroup30 = 'PORTOGEL';
 var Comment30 = '#PORTOGEL (SRIMBELEWEL) = 789*163*560'; 
