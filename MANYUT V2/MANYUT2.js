@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.42
+// @version      3.43
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
@@ -80,8 +80,8 @@ var Comment19 = '#DETIKTOTO*MOLET25*511*975*878';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (MOCHOK36) = 892*411*180'; 
 
-var namagroup21 = 'OBI';
-var Comment21 = '#OBI9*MONTIR36*028*570*322*'; 
+var namagroup21 = 'SILATOGEL';
+var Comment21 = '#SILATOGELBETTING (MONTIR36) = 028*570*322'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (MORATUL19) = 433*014*551'; 
@@ -90,7 +90,7 @@ var namagroup23 = 'ABUTOGEL';
 var Comment23 = '#ABUTOGEL*MOKONG71*590*523*137'; 
 
 var namagroup24 = 'OTU SLOT';
-var Comment24 = '#OTUSLOT*MOSIOM19*515*694*BETTING'; 
+var Comment24 = '#OTUSLOT*MOSIOM19*515*911*694*BETTING'; 
 
 var namagroup25 = 'BUSURGROUP';
 var Comment25 = commentpasar('#KAPAK4D*MOLET25*553*310*143'); 
@@ -113,9 +113,8 @@ var Comment30 = '#PORTOGEL (MOKONG71) = 454*316*996';
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'MOCHO19 # 161/676/394 #YOGAPRO'; 
 
-var namagroup32 = 'SRIGALATOTO';
-var Comment32 = 'SRIGALATOTO*MOCHKUR19*908*373*151*BETTING';
-
+var namagroup32 = 'MEGAPRO90';
+var Comment32 = '#MEGAPRO90 ( MOCHKUR19 ) = 908*373*151 BETTING';
 
 /*Keyword*/
 var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀"];
