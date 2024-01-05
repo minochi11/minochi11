@@ -71,7 +71,7 @@ var Comment16 = '#IYATOTO ASTRI29 70*90*23';
 
 
 /*======================================================================3D===============================================================*/
-"var namagroup17 = 'TESLATOTO';
+var namagroup17 = 'TESLATOTO';
 var Comment17 = '#TESLATOTO/ASABKUBUR12/742*396*837'; 
 
 var namagroup18 = 'CIKA';
@@ -117,7 +117,7 @@ var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'DONOKU1 # 737/386/614 #YOGAPRO'; 
 
 var namagroup32 = 'MEGAPRO90';
-var Comment32 = '#MEGAPRO90 ( DONAL13 ) = 121*290*397 BETTING';"
+var Comment32 = '#MEGAPRO90 ( DONAL13 ) = 121*290*397 BETTING';
 
 
 
