@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT3
 // @namespace    http://tampermonkey.net/
-// @version      3.42
+// @version      3.43
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
@@ -81,8 +81,8 @@ var Comment19 = '#DETIKTOTO*SUWING11*592*539*586';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (CACINGAN54) = 948*766*607'; 
 
-var namagroup21 = 'OBI';
-var Comment21 = '#OBI9*SULET1*442*582*812*'; 
+var namagroup21 = 'SILATOGEL';
+var Comment21 = '#SILATOGELBETTING (SULET1) = 442*582*812'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (CIANGSUI54) = 685*033*147'; 
@@ -91,7 +91,7 @@ var namagroup23 = 'ABUTOGEL';
 var Comment23 = '#ABUTOGEL*SINTADIA18*841*700*974'; 
 
 var namagroup24 = 'OTU SLOT';
-var Comment24 = '#OTUSLOT*CIANGSUI54*897*326*BETTING'; 
+var Comment24 = '#OTUSLOT*CIANGSUI54*897*326*051*BETTING'; 
 
 var namagroup25 = 'BUSURGROUP';
 var Comment25 = commentpasar('#KAPAK4D*SUWING11*312*992*587'); 
@@ -114,8 +114,8 @@ var Comment30 = '#PORTOGEL (CACINGAN54) = 926*217*961';
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'SIMBOLU26 # 635/103/883 #YOGAPRO'; 
 
-var namagroup32 = 'SRIGALATOTO';
-var Comment32 = 'SRIGALATOTO*SRITING81*189*414*986*BETTING';
+var namagroup32 = 'MEGAPRO90';
+var Comment32 = '#MEGAPRO90 ( SRITING81 ) = 189*414*986 BETTING';
 
 
 
