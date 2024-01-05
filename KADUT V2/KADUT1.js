@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.42
+// @version      3.43
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
@@ -71,7 +71,7 @@ var Comment16 = '#DENTOTO 88*50*90 ( BOTAP27 )';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESLATOTO';
-var Comment17 = '#TESLATOTO/BOLEN19/561*133*242';
+var Comment17 = '#TESLATOTO/BOLEN19/561*133*242'; 
 
 var namagroup18 = 'CIKA';
 var Comment18 = '#CIKA4D*BUNCIT17*629*282*409'; 
@@ -82,8 +82,8 @@ var Comment19 = '#DETIKTOTO*BUNDERLER*313*395*568';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (BUDEGKOWE) = 381*576*090'; 
 
-var namagroup21 = 'OBI';
-var Comment21 = '#OBI9*BONDER28*734*573*439*'; 
+var namagroup21 = 'SILATOGEL';
+var Comment21 = '#SILATOGELBETTING (BONDER28) = 734*573*439'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (BUNTOTASU) = 115*450*518'; 
@@ -92,7 +92,7 @@ var namagroup23 = 'ABUTOGEL';
 var Comment23 = '#ABUTOGEL*BOREO19*683*320*079'; 
 
 var namagroup24 = 'OTU SLOT';
-var Comment24 = '#OTUSLOT*BUDEGSU*324*383*BETTING'; 
+var Comment24 = '#OTUSLOT*BUDEGSU*324*383*943*BETTING'; 
 
 var namagroup25 = 'BUSURGROUP';
 var Comment25 = commentpasar('#KAPAK4D*BUNDERLER*716*995*123'); 
@@ -115,8 +115,8 @@ var Comment30 = '#PORTOGEL (BUANGKABEH) = 126*323*251';
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'BUNDERLER # 567/140/487 #YOGAPRO'; 
 
-var namagroup32 = 'SRIGALATOTI';
-var Comment32 = 'SRIGALATOTO*BOLEN19*512*348*940*BETTING';
+var namagroup32 = 'MEGAPRO90';
+var Comment32 = '#MEGAPRO90 ( BOLEN19 ) = 512*348*940 BETTING';
 
 
 
