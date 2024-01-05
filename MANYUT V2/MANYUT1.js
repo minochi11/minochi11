@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.42
+// @version      3.43
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
@@ -80,8 +80,8 @@ var Comment19 = '#DETIKTOTO*QOMA123*436*671*659';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (QOMAR29) = 432*490*149'; 
 
-var namagroup21 = 'OBI';
-var Comment21 = '#OBI9*QOMAR26*866*905*034*'; 
+var namagroup21 = 'SILATOGEL';
+var Comment21 = '#SILATOGELBETTING (QOMAR26) = 866*905*034'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (QOMINTO15) = 088*362*261'; 
@@ -90,7 +90,7 @@ var namagroup23 = 'ABUTOGEL';
 var Comment23 = '#ABUTOGEL*QOECK62*900*295*402'; 
 
 var namagroup24 = 'OTU SLOT';
-var Comment24 = '#OTUSLOT*QOMARUT14*129*740*BETTING'; 
+var Comment24 = '#OTUSLOT*QOMARUT14*129*740*410*BETTING'; 
 
 var namagroup25 = 'BUSURGROUP';
 var Comment25 = commentpasar('#KAPAK4D*QOMA123*638*440*186'); 
@@ -113,8 +113,8 @@ var Comment30 = '#PORTOGEL (QOECK62) = 001*510*216';
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'QUMUR19 # 205/168/920 #YOGAPRO'; 
 
-var namagroup32 = 'SRIGALATOTO';
-var Comment32 = 'SRIGALATOTO*QUMURTU17*277*218*646*BETTING';
+var namagroup32 = 'MEGAPRO90';
+var Comment32 = '#MEGAPRO90 ( QUMURTU17 ) = 277*218*646 BETTING';
 
 
 
