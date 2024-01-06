@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.43
+// @version      3.44
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
@@ -92,8 +92,8 @@ var Comment23 = '#ABUTOGEL*MOKONG71*590*523*137';
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*MOSIOM19*515*911*694*BETTING'; 
 
-var namagroup25 = 'BUSURGROUP';
-var Comment25 = commentpasar('#KAPAK4D*MOLET25*553*310*143'); 
+var namagroup25 = 'SILATOGEL';
+var Comment25 = '#SILATOGELBETTING (MOLET25) = 553*310*143'; 
 
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*MOSIOM19*076*944*027'; 
@@ -113,8 +113,8 @@ var Comment30 = '#PORTOGEL (MOKONG71) = 454*316*996';
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'MOCHO19 # 161/676/394 #YOGAPRO'; 
 
-var namagroup32 = 'MEGAPRO90';
-var Comment32 = '#MEGAPRO90 ( MOCHKUR19 ) = 908*373*151 BETTING';
+var namagroup32 = 'CRYSTAL';
+var Comment32 = '#CRYSTALTOTO*MOCHKUR19*908*373*151';
 
 /*Keyword*/
 var keyword = ["ROOM", "𝗥𝗢𝗢𝗠", "LOMBA","𝗟𝗢𝗠𝗕𝗔","𝐋𝐎𝐌𝐁𝐀"];
