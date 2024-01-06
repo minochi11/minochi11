@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.43
+// @version      3.44
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
@@ -93,8 +93,8 @@ var Comment23 = '#ABUTOGEL*SAWERSEK*769*514*765';
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*SAKAUAN*256*606*678*BETTING'; 
 
-var namagroup25 = 'BUSURGROUP';
-var Comment25 = commentpasar('#KAPAK4D*SALAMANAE*207*942*741'); 
+var namagroup25 = 'SILATOGEL';
+var Comment25 = '#SILATOGELBETTING (SALAMANAE) = 207*942*741'; 
 
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*SAIKIPIYE*919*816*380'; 
@@ -114,9 +114,8 @@ var Comment30 = '#PORTOGEL (SAWERSEK) = 802*938*832';
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'SALAMANAE # 854/687/353 #YOGAPRO'; 
 
-var namagroup32 = 'MEGAPRO90';
-var Comment32 = '#MEGAPRO90 ( SAKEMPUL ) = 347*717*349 BETTING';
-
+var namagroup32 = 'CRYSTAL';
+var Comment32 = '#CRYSTALTOTO*SAKEMPUL*347*717*349';
 
 
 
