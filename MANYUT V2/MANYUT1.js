@@ -93,7 +93,7 @@ var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*QOMARUT14*129*740*410*BETTING'; 
 
 var namagroup25 = 'Axiata4D';
-var Comment25 = '#AXIATA4D*QOMA123*638*440*186*'; 
+var Comment25 = '#AXIATA4D*QOQOM52*638*440*186*'; 
 
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*QOMARUT14*493*329*571'; 
