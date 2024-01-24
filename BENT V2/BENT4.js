@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT4
 // @namespace    http://tampermonkey.net/
-// @version      3.47
+// @version      3.48
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
@@ -43,7 +43,7 @@ var Comment7 = '#ASEPTOGEL DIANUMAMI12 09*14*77';
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
 var Comment8 = '#TOGELKUY DINDAMANIS13 85*64*47'; 
 
-var namagroup9 = 'SHIOKELINCI4D';
+var namagroup9 = 'ShioKelinci';
 var Comment9 = '#shiokelinci4d*DIANCOK13*09*14'; 
 
 var namagroup10 = 'GILA4D';
