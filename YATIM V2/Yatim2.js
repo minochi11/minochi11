@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yatim2
 // @namespace    http://tampermonkey.net/
-// @version      3.17
+// @version      3.18
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim2.js
@@ -18,7 +18,7 @@
 var refresh = 90;
 
 
-var namagroup1 = 'SHIOKELINCI4D';
+var namagroup1 = 'ShioKelinci';
 var Comment1 = '#shiokelinci4d*FERTULE*43*75'; 
 
 var namagroup2 = 'PREDIKSI SYAIR';
