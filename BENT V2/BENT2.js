@@ -43,7 +43,7 @@ var Comment7 = '#ASEPTOGEL BAMIN12 04*10*41';
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
 var Comment8 = '#TOGELKUY BERIKLAH65 02*21*17'; 
 
-var namagroup9 = 'SHIOKELINCI4D';
+var namagroup9 = 'ShioKelinci';
 var Comment9 = '#shiokelinci4d*BENTOEL12*04*10'; 
 
 var namagroup10 = 'GILA4D';
