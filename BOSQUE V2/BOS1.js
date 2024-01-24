@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BOS1
 // @namespace    http://tampermonkey.net/
-// @version      3.18
+// @version      3.19
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V2/BOS1.js
@@ -18,7 +18,7 @@
 var refresh = 90;
 
 
-var namagroup1 = 'SHIOKELINCI4D';
+var namagroup1 = 'ShioKelinci';
 var Comment1 = '#shiokelinci4d*XERBIA13*06*80'; 
 
 var namagroup2 = 'PREDIKSI SYAIR';
