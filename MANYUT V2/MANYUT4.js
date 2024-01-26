@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.48
+// @version      3.49
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
@@ -92,8 +92,8 @@ var Comment23 = '#ABUTOGEL*TUMPLEKAH*868*552*704';
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*TUKANGBATU*787*543*BETTING'; 
 
-var namagroup25 = 'Axiata4D';
-var Comment25 = '#AXIATA4D*TUKUEMPEK10*701*461*643*'; 
+var namagroup25 = 'POOLSTOTO';
+var Comment25 = '#(POOLSTOTO) = (TUKUEMPEK10) 701*461*643'; 
 
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*TUKANGBATU*158*225*504'; 
@@ -104,8 +104,8 @@ var Comment27 = '#ALEXISTOGEL(TURUSU71) 3D = 874*361*612';
 var namagroup28 = 'GTATOGEL';
 var Comment28 = '#GTATOGEL(TULELOT11)*420*008*274'; 
 
-var namagroup29 = 'BBNI4D';
-var Comment29 = '#(BBNI4D) = (TUODANCOK) 520*154*070'; 
+var namagroup29 = 'COLATOGEL';
+var Comment29 = '(TUODANCOK) = 520*154*070 #tebakangkacola'; 
 
 var namagroup30 = 'PORTOGEL';
 var Comment30 = '#PORTOGEL (TUODANCOK) = 174*799*617'; 
@@ -113,8 +113,8 @@ var Comment30 = '#PORTOGEL (TUODANCOK) = 174*799*617';
 var namagroup31 = 'PREDIKSI TOTO';
 var Comment31 = 'TUKULENG12 # 134/192/359 #YOGAPRO'; 
 
-var namagroup32 = 'CRYSTAL';
-var Comment32 = '#CRYSTALTOTO*TUMPURUNG*060*040*391';
+var namagroup32 = 'SINAGA4D';
+var Comment32 = 'SINAGA4D (TUMPURUNG) 060*040*391';
 
 
 
