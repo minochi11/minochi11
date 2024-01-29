@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT1
 // @namespace    http://tampermonkey.net/
-// @version      3.49
+// @version      3.50
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT1.js
@@ -19,8 +19,8 @@ var refresh = 90;
 
 
 
-var namagroup1 = 'VELBET4D';
-var Comment1 = '{ASTRI29} = #VELBET4D = 70*90*23'; 
+var namagroup1 = 'PREDIKSI SYAIR';
+var Comment1 = '#IYATOTO ASTRI29 70*90*23'; 
 
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=ASRIN32=29*96*56'; 
@@ -37,13 +37,13 @@ var Comment5 = '#TOYIBSLOT ( ASEKASEK12 ) : 31*19*06';
 var namagroup6 = 'TiktakTogel';
 var Comment6 = '#Tiktaktogel / AZKALAN / 31 , 19 , 06'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL ASIZAN33 86*01*94'; 
 
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
 var Comment8 = '#TOGELKUY ASKALIMAN 33*22*67'; 
 
-var namagroup9 = 'ShioKelinci';
+var namagroup9 = 'ShioKelinci4d';
 var Comment9 = '#shiokelinci4d*ASLISUPER12*86*01'; 
 
 var namagroup10 = 'GILA4D';
@@ -58,16 +58,14 @@ var Comment12 = 'KIOSTOTO=ASIZAN33=79*16*08';
 var namagroup13 = 'TOTOAKURAT';
 var Comment13 = '#TA*ASIMATJUMBO*50*03*92*'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*ASBHUN*79*16*08'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 79*16*08 ( ASTADINA12 )'; 
 
-var namagroup15 = 'DENTOTO';
-var Comment15 = '#DENTOTO 79*16*08 ( ASTADINA12 )'; 
+var namagroup15 = '123123123';
+var Comment15 = ''; 
 
-var namagroup16 = 'PREDIKSI SYAIR';
-var Comment16 = '#IYATOTO ASTRI29 70*90*23';
-
-
+var namagroup16 = '123213213';
+var Comment16 = '123123';
 
 
 /*======================================================================3D===============================================================*/
@@ -96,7 +94,7 @@ var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*ASIMATJUMBO*031*231*BETTING'; 
 
 var namagroup25 = 'POOLSTOTO';
-var Comment25 = '#(POOLSTOTO) = (DAWET121) 597*762*443'; 
+var Comment25 = '#(POOLSTOTO) = (DAWET21) 597*762*443'; 
 
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*ASTADINA12*176*491*336'; 
@@ -118,6 +116,9 @@ var Comment31 = 'DONOKU1 # 737/386/614 #YOGAPRO';
 
 var namagroup32 = 'SINAGA4D';
 var Comment32 = 'SINAGA4D (DONAL13) 121*290*397';
+
+
+
 
 
 /*Keyword*/
