@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         NEW MENCONG1
 // @namespace    http://tampermonkey.net/
-// @version      3.18
+// @version      3.20
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim2.js
-// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim2.js
+// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG1.js
+// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG1.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
