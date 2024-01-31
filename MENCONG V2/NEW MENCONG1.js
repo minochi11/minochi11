@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         NEW MENCONG1
 // @namespace    http://tampermonkey.net/
-// @version      3.19
+// @version      3.18
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG1.js
-// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG1.js
+// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim2.js
+// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim2.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
@@ -18,7 +18,8 @@
 var refresh = 90;
 
 
-var namagroup1 = 'ShioKelinci';
+
+var namagroup1 = 'ShioKelinci4d';
 var Comment1 = '#shiokelinci4d*METALIKA41*39*03'; 
 
 var namagroup2 = 'PREDIKSI SYAIR';
@@ -36,7 +37,7 @@ var Comment5 = '#keitogel = (MAKIMUNG31) = 31*90*85';
 var namagroup6 = 'KiosToto';
 var Comment6 = 'KIOSTOTO=MATIO50=08*69*36'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL MAKDUNGDUNG 08*69*36'; 
 
 var namagroup8 = 'ANGKER';
@@ -57,14 +58,16 @@ var Comment12 = '#TOGELKUY MAKTUNG52 38*22*57';
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( MADUL45 ) : 62*15*95'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*MASAK741*62*15*95'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 62*15*95 ( MERAHKU75 )'; 
 
-var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (MERAHKU75) 94*66*86'; 
+var namagroup15 = 'SNIPER NUSANTARA';
+var Comment15 = '#VESPATOGEL (MERAHKU75)  94*66*86'; 
 
-var namagroup16 = 'DENTOTO';
-var Comment16 = '#DENTOTO 62*15*95 ( MERAHKU75 )';
+var namagroup16 = '51625';
+var Comment16 = '';
+
+
 
 
 /*======================================================================3D===============================================================*/
@@ -115,6 +118,11 @@ var Comment31 = 'TESTBENTO';
 
 var namagroup32 = 'TESTBENTO';
 var Comment32 = 'TESTBENTO';
+
+
+
+
+
 
 
 
