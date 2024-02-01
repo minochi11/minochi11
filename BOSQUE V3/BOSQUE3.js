@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         NEW BOSQUE1
+// @name         NEW BOSQUE3
 // @namespace    http://tampermonkey.net/
 // @version      3.1
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE2.js
-// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE2.js
+// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE3.js
+// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE3.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
