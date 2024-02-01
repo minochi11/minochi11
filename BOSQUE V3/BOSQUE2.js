@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         NEW BOSQUE1
+// @name         NEW BOSQUE2
 // @namespace    http://tampermonkey.net/
 // @version      3.1
 // @description  try to take over the world!
