@@ -66,53 +66,53 @@ var Comment16 = '';
 
 
 /*======================================================================3D===============================================================*/
-var namagroup17 = 'TESLATOTO';
-var Comment17 = '#TESLATOTO/ASABKUBUR12/742*396*837';
+var namagroup17 = 'TESTBENTO';
+var Comment17 = 'TESTBENTO';
 
-var namagroup18 = 'CIKA';
-var Comment18 = '#CIKA4D*DOLENG28*829*182*563';
+var namagroup18 = 'TESTBENTO';
+var Comment18 = 'TESTBENTO';
 
-var namagroup19 = 'DETIKGROUP';
-var Comment19 = '#DETIKTOTO*DAWET121*212*913*566';
+var namagroup19 = 'TESTBENTO';
+var Comment19 = 'TESTBENTO';
 
-var namagroup20 = 'PAO4D';
-var Comment20 = '#PAO4D (ASABKUBUR12) = 578*382*447';
+var namagroup20 = 'TESTBENTO';
+var Comment20 = 'TESTBENTO';
 
-var namagroup21 = 'SILATOGEL';
-var Comment21 = '#SILATOGELBETTING (DOPLO19) = 248*366*052';
+var namagroup21 = 'TESTBENTO';
+var Comment21 = 'TESTBENTO';
 
-var namagroup22 = 'TOGEL838';
-var Comment22 = '#TOGEL838 (ASIMATJUMBO) = 845*615*333';
+var namagroup22 = 'TESTBENTO';
+var Comment22 = 'TESTBENTO';
 
-var namagroup23 = 'ABUTOGEL';
-var Comment23 = '#ABUTOGEL*DOPLOSU1*730*146*072';
+var namagroup23 = 'TESTBENTO';
+var Comment23 = 'TESTBENTO';
 
-var namagroup24 = 'OTU SLOT';
-var Comment24 = '#OTUSLOT*ASIMATJUMBO*031*231*BETTING';
+var namagroup24 = 'TESTBENTO';
+var Comment24 = 'TESTBENTO';
 
-var namagroup25 = 'POOLSTOTO';
-var Comment25 = '#(POOLSTOTO) = (DAWET21) 597*762*443';
+var namagroup25 = 'TESTBENTO';
+var Comment25 = 'TESTBENTO';
 
-var namagroup26 = 'LING77';
-var Comment26 = '#LINGTOGEL77*ASTADINA12*176*491*336';
+var namagroup26 = 'TESTBENTO';
+var Comment26 = 'TESTBENTO';
 
-var namagroup27 = 'ALEXISTOGEL';
-var Comment27 = '#ALEXISTOGEL(ASKUTENG12) 3D = 363*128*018';
+var namagroup27 = 'TESTBENTO';
+var Comment27 = 'TESTBENTO';
 
-var namagroup28 = 'GTATOGEL';
-var Comment28 = '#GTATOGEL(ASABKUBUR12)*609*230*657';
+var namagroup28 = 'TESTBENTO';
+var Comment28 = 'TESTBENTO';
 
-var namagroup29 = 'COLATOGEL';
-var Comment29 = '(DOPLOSU1) = 235*220*872 #tebakangkacola';
+var namagroup29 = 'TESTBENTO';
+var Comment29 = 'TESTBENTO';
 
-var namagroup30 = 'PORTOGEL';
-var Comment30 = '#PORTOGEL (ASEKASEK12) = 343*850*808';
+var namagroup30 = 'TESTBENTO';
+var Comment30 = 'TESTBENTO';
 
-var namagroup31 = 'PREDIKSI TOTO';
-var Comment31 = 'DONOKU1 # 737/386/614 #YOGAPRO';
+var namagroup31 = 'TESTBENTO';
+var Comment31 = 'TESTBENTO';
 
-var namagroup32 = 'SINAGA4D';
-var Comment32 = 'SINAGA4D (DONAL13) 121*290*397';
+var namagroup32 = 'TESTBENTO';
+var Comment32 = 'TESTBENTO';
 
 var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit","1 mnt","2 mnt","3 mnt","4 mnt","5 mnt","6 mnt","7 mnt","8 mnt"];
 
