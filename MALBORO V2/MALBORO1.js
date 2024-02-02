@@ -16,7 +16,7 @@
 var refresh = 90;
 
 
-"var namagroup1 = 'ShioKelinci4d';
+var namagroup1 = 'ShioKelinci4d';
 var Comment1 = '#shiokelinci4d*ANANDA122*03*38'; 
 
 var namagroup2 = 'PREDIKSI SYAIR';
@@ -62,7 +62,7 @@ var namagroup15 = 'SNIPER NUSANTARA';
 var Comment15 = '#VESPATOGEL (AMITAMIT4)  10*17*97'; 
 
 var namagroup16 = 'WQEWQ';
-var Comment16 = '';"
+var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
