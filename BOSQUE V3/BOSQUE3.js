@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BOSQUE3
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE3.js
@@ -209,8 +209,8 @@ var myInterval = setInterval(function(){
                                 console.log("Keyword Ditemukan ");
 
 
-                                for (let ntvb = ntva + 1; ntvb < ntva + 3; ntvb++) {
-                                    if(document.querySelectorAll("[class='native-text']")[ntvb].textContent.includes("Tulis komentar")) {
+                                for (let ntvb = ntva ; ntvb < ntva + 4; ntvb++) {
+                                    if(document.querySelectorAll("[class='native-text']")[ntvb].textContent.includes("Tulis")) {
                                         console.log("Mulai Tulis Komentar");
                                         document.querySelectorAll("[class='native-text']")[ntvb].click()
 
@@ -222,7 +222,7 @@ var myInterval = setInterval(function(){
 
 
                                             GM.setValue("DONE", 1);
-                                            
+
                                             GM.setValue(namagroup1, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -241,7 +241,7 @@ var myInterval = setInterval(function(){
 
                                             GM.setValue("DONE", 1);
 
-                                         
+
                                             GM.setValue(namagroup2, keyword[j] + " " + jam[u] );
                                             return;
                                         }
@@ -258,7 +258,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-                                            
+
                                             GM.setValue(namagroup3, keyword[j] + " " + jam[u] );
                                             return;
                                         }
