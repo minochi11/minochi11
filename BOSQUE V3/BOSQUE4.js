@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BOSQUE4
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE4.js
@@ -222,7 +222,7 @@ var myInterval = setInterval(function(){
 
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup1, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -238,7 +238,7 @@ var myInterval = setInterval(function(){
                                             document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment2;
                                             clicksend();
                                             clearInterval(myInterval);
-
+                                            location.href = "about:blank"
                                             GM.setValue("DONE", 1);
 
 
@@ -258,7 +258,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup3, keyword[j] + " " + jam[u] );
                                             return;
                                         }
@@ -275,7 +275,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup4, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -293,7 +293,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup5, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -311,7 +311,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup6, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -329,7 +329,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup7, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -347,7 +347,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup8, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -365,7 +365,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup9, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -383,7 +383,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup10, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -401,7 +401,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup11, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -419,7 +419,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup12, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -437,7 +437,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup13, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -455,7 +455,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup14, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -470,10 +470,10 @@ var myInterval = setInterval(function(){
                                             /*cek nama group dan tulis commntar*/
                                             document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment15;
                                             clicksend();
-                                           clearInterval(myInterval);
+                                            clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup15, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -488,10 +488,10 @@ var myInterval = setInterval(function(){
                                             /*cek nama group dan tulis commntar*/
                                             document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment16;
                                             clicksend();
-                                           clearInterval(myInterval);
+                                            clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup16, keyword[j] + " " + jam[u] );
                                             return;
 
@@ -512,7 +512,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup17, keyword[j]);
                                             return;
 
@@ -527,10 +527,10 @@ var myInterval = setInterval(function(){
                                             /*cek nama group dan tulis commntar*/
                                             document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment18;
                                             clicksend();
-                                           clearInterval(myInterval);
+                                            clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup18, keyword[j]);
                                             return;
 
@@ -545,10 +545,10 @@ var myInterval = setInterval(function(){
                                             /*cek nama group dan tulis commntar*/
                                             document.getElementsByClassName("multi-line-floating-textbox")[0].value = Comment19;
                                             clicksend();
-                                             clearInterval(myInterval);
+                                            clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup19, keyword[j]);
                                             return;
 
@@ -566,7 +566,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup20, keyword[j]);
                                             return;
 
@@ -584,7 +584,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup21, keyword[j]);
                                             return;
 
@@ -602,7 +602,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup22, keyword[j]);
                                             return;
 
@@ -620,7 +620,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup23, keyword[j]);
                                             return;
 
@@ -638,7 +638,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup24, keyword[j]);
                                             return;
 
@@ -656,7 +656,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup25, keyword[j]);
                                             return;
 
@@ -674,7 +674,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup26, keyword[j]);
                                             return;
 
@@ -692,7 +692,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup27, keyword[j]);
                                             return;
 
@@ -710,7 +710,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup28, keyword[j]);
                                             return;
 
@@ -728,7 +728,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup29, keyword[j]);
                                             return;
 
@@ -746,7 +746,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup30, keyword[j]);
                                             return;
 
@@ -764,7 +764,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup31, keyword[j]);
                                             return;
 
@@ -782,7 +782,7 @@ var myInterval = setInterval(function(){
                                             clearInterval(myInterval);
 
                                             GM.setValue("DONE", 1);
-
+                                            location.href = "about:blank"
                                             GM.setValue(namagroup32, keyword[j]);
                                             return;
 
@@ -810,7 +810,7 @@ var myInterval = setInterval(function(){
                         }
 
                     }
-                     continue;
+                    continue;
                 }
             }
         }
