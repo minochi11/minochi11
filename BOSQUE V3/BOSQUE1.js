@@ -209,7 +209,7 @@ var myInterval = setInterval(function(){
                                 console.log("Keyword Ditemukan ");
 
 
-                                for (let ntvb = ntva ; ntvb < ntva + 4; ntvb++) {
+                                for (let ntvb = ntva ; ntvb < ntva + 6; ntvb++) {
                                     if(document.querySelectorAll("[class='native-text']")[ntvb].textContent.includes("Tulis")) {
                                         console.log("Mulai Tulis Komentar");
                                         document.querySelectorAll("[class='native-text']")[ntvb].click()
