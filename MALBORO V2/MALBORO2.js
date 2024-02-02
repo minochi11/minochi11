@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         MALBORO 1
+// @name         MALBORO 2
 // @namespace    http://tampermonkey.net/
 // @version      3.51
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO1.js
-// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO1.js
+// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO2.js
+// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO2.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
