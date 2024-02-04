@@ -81,8 +81,8 @@ var Comment19 = '#DETIKTOTO*DAWET121*212*913*566';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (ASABKUBUR12) = 578*382*447'; 
 
-var namagroup21 = 'SILATOGEL';
-var Comment21 = '#SILATOGELBETTING (DOPLO19) = 248*366*052'; 
+var namagroup21 = 'YOLO4D';
+var Comment21 = '#YOLO4D ( DOPLO19 ) : 248*366*052'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (ASIMATJUMBO) = 845*615*333'; 
