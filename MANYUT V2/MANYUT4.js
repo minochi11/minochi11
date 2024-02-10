@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.55
+// @version      3.57
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
@@ -68,6 +68,7 @@ var namagroup16 = 'DENTOTO';
 var Comment16 = '#DENTOTO 50*23*94 ( CANCAN54 )';
 
 /*======================================================================3D===============================================================*/
+
 var namagroup17 = 'TESLATOTO';
 var Comment17 = '#TESLATOTO/TUMPURUNG/456*408*318'; 
 
@@ -80,8 +81,8 @@ var Comment19 = '#DETIKTOTO*TUKUEMPEK10*035*468*152';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (TEMPURUK) = 042*445*980'; 
 
-var namagroup21 = 'YOLO4D';
-var Comment21 = '#YOLO4D ( TELELENG ) : 549*167*927'; 
+var namagroup21 = 'LJGROUP';
+var Comment21 = '#JALURTOGEL*TELELENG*549*167*927'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (TENGKLENG) = 364*054*600'; 
@@ -92,8 +93,8 @@ var Comment23 = '#ABUTOGEL*TUMPLEKAH*868*552*704';
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*TUKANGBATU*787*543*BETTING'; 
 
-var namagroup25 = 'POOLSTOTO';
-var Comment25 = '#(POOLSTOTO) = (TUKUEMPEK10) 701*461*643'; 
+var namagroup25 = 'JOGJATOTO';
+var Comment25 = '#(JOGJATOTO)=TUKUEMPEK10*701*461*643'; 
 
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*TUKANGBATU*158*225*504'; 
