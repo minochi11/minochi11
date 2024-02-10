@@ -43,7 +43,7 @@ var Comment7 = '#ASEPTOGEL CUCUBUAYA65 89*58*71';
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
 var Comment8 = '#TOGELKUY CNDAKARTA76 20*74*28'; 
 
-var namagroup9 = 'ShioKelinci';
+var namagroup9 = 'SHIOKELINCI';
 var Comment9 = '#shiokelinci4d*CACING65*89*58'; 
 
 var namagroup10 = 'GILA4D';
