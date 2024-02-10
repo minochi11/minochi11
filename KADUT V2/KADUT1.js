@@ -19,7 +19,7 @@ var refresh = 90;
 
 
 
-var namagroup1 = 'ShioKelinci';
+var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*BUNDER0*34*94'; 
 
 var namagroup2 = 'ELITE';
