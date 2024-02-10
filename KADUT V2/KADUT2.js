@@ -70,53 +70,52 @@ var Comment16 = '#DENTOTO 93*81*45 ( SRILAKCU )';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESLATOTO';
-var Comment17 = '#TESLATOTO/JOKILAN11/305*467*595'; 
+var Comment17 = '#TESLATOTO/SRIDU268/902*982*835'; 
 
 var namagroup18 = 'CIKA';
-var Comment18 = '#CIKA4D*JOKILAN11*258*929*693'; 
+var Comment18 = '#CIKA4D*SRISUWING*370*830*159'; 
 
 var namagroup19 = 'DETIKGROUP';
-var Comment19 = '#DETIKTOTO*JOROKLUH*753*068*881'; 
+var Comment19 = '#DETIKTOTO*SRILAKCU*653*844*131'; 
 
 var namagroup20 = 'PAO4D';
-var Comment20 = '#PAO4D (JOSUWISUWI) = 441*281*104'; 
+var Comment20 = '#PAO4D (SRIANU36) = 144*191*344'; 
 
 var namagroup21 = 'LJGROUP';
-var Comment21 = '#JALURTOGEL*JOSUWISUWI*858*745*540'; 
+var Comment21 = '#JALURTOGEL*SRIANU36*049*446*417'; 
 
 var namagroup22 = 'TOGEL838';
-var Comment22 = '#TOGEL838 (JONTOR64) = 102*457*631'; 
+var Comment22 = '#TOGEL838 (SRIANU36) = 608*958*160'; 
 
 var namagroup23 = 'ABUTOGEL';
-var Comment23 = '#ABUTOGEL*JONGONO*045*201*707'; 
+var Comment23 = '#ABUTOGEL*SRIMBELEWEL*522*862*928'; 
 
 var namagroup24 = 'OTU SLOT';
-var Comment24 = '#OTUSLOT*JOKONDO7*057*020*BETTING'; 
+var Comment24 = '#OTUSLOT*SRIWING6*790*584*BETTING'; 
 
 var namagroup25 = 'JOGJATOTO';
-var Comment25 = '#(JOGJATOTO)=JOROKLUH*006*206*369'; 
+var Comment25 = '#(JOGJATOTO)=SRILAKCU*658*675*041'; 
 
 var namagroup26 = 'LING77';
-var Comment26 = '#LINGTOGEL77*JOMNDUL73*624*530*196'; 
+var Comment26 = '#LINGTOGEL77*SRIWING67*949*984*887'; 
 
 var namagroup27 = 'ALEXISTOTO';
-var Comment27 = '#ALEXISTOGEL(JONTOR6) 3D = 199*026*264'; 
+var Comment27 = '#ALEXISTOGEL(SRIMIT64) 3D = 649*798*924'; 
 
 var namagroup28 = 'GTATOGEL';
-var Comment28 = '#GTATOGEL(JOJONBETAWI)*644*403*565'; 
+var Comment28 = '#GTATOGEL(SRISUWING)*616*200*677'; 
 
 var namagroup29 = 'COLATOGEL';
-var Comment29 = '(JONGONO) = 477*234*758 #tebakangkacola'; 
+var Comment29 = '(SRIMBELEWEL) = 438*916*424 #tebakangkacola'; 
 
 var namagroup30 = 'PORTOGEL';
-var Comment30 = '#PORTOGEL (JONGONO) = 803*415*365'; 
+var Comment30 = '#PORTOGEL (SRIMBELEWEL) = 789*163*560'; 
 
 var namagroup31 = 'PREDIKSI TOTO';
-var Comment31 = 'JOROKLUH # 091/075/781 #YOGAPRO'; 
+var Comment31 = 'SRILAKCU # 885/063/335 #YOGAPRO'; 
 
 var namagroup32 = 'SINAGA4D';
-var Comment32 = 'SINAGA4D (JOKILAN11) 301*684*884';
-
+var Comment32 = 'SINAGA4D (SRIDU268) 283*860*341';
 
 
 var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit","1 mnt","2 mnt","3 mnt","4 mnt","5 mnt","6 mnt","7 mnt","8 mnt"];
