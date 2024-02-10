@@ -19,8 +19,8 @@ var refresh = 90;
 
 
 
-var namagroup1 = 'ShioKelinci';
-var Comment1 = '#shiokelinci4d*EROSA23*30*71'; 
+var namagroup1 = 'SHIOKELINCI';
+var Comment1 = '#SHIOKELINCI4D*EROSA23*30*71'; 
 
 var namagroup2 = 'ELITE';
 var Comment2 = '#IYATOTO EROSI52 43*48*31'; 
