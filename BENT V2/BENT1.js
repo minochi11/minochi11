@@ -43,7 +43,7 @@ var Comment7 = '#ASEPTOGEL ASIZAN33 86*01*94';
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
 var Comment8 = '#TOGELKUY ASKALIMAN 33*22*67'; 
 
-var namagroup9 = 'ShioKelinci4d';
+var namagroup9 = 'SHIOKELINCI';
 var Comment9 = '#shiokelinci4d*ASLISUPER12*86*01'; 
 
 var namagroup10 = 'GILA4D';
