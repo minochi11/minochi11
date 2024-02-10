@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.55
+// @version      3.56
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
@@ -80,8 +80,8 @@ var Comment19 = '#DETIKTOTO*MOLET25*511*975*878';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (MOCHOK36) = 892*411*180'; 
 
-var namagroup21 = 'YOLO4D';
-var Comment21 = '#YOLO4D ( MONTIR36 ) : 028*570*322'; 
+var namagroup21 = 'LJGROUP';
+var Comment21 = '#JALURTOGEL*MONTIR36*028*570*322'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (MORATUL19) = 433*014*551'; 
@@ -92,8 +92,8 @@ var Comment23 = '#ABUTOGEL*MOKONG71*590*523*137';
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*MOSIOM19*515*911*BETTING'; 
 
-var namagroup25 = 'POOLSTOTO';
-var Comment25 = '#(POOLSTOTO) = (MOLET25) 553*310*143'; 
+var namagroup25 = 'JOGJATOTO';
+var Comment25 = '#(JOGJATOTO)=MOLET25*553*310*143'; 
 
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*MOSIOM19*076*944*027'; 
@@ -115,6 +115,9 @@ var Comment31 = 'MOCHO19 # 161/676/394 #YOGAPRO';
 
 var namagroup32 = 'SINAGA4D';
 var Comment32 = 'SINAGA4D (MOCHKUR19) 908*373*151';
+
+
+
 var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit","1 mnt","2 mnt","3 mnt","4 mnt","5 mnt","6 mnt","7 mnt","8 mnt"];
 
 
