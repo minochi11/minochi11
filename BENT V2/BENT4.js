@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT4
 // @namespace    http://tampermonkey.net/
-// @version      3.55
+// @version      3.57
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
@@ -70,6 +70,7 @@ var Comment16 = '#IYATOTO DUINIATOTO23 91*27*59';
 
 
 /*======================================================================3D===============================================================*/
+
 var namagroup17 = 'TESLATOTO';
 var Comment17 = '#TESLATOTO/DUDUKGO81/763*531*486'; 
 
@@ -82,8 +83,8 @@ var Comment19 = '#DETIKTOTO*BORLITA19*110*470*269';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (DUDUKGO81) = 500*239*204'; 
 
-var namagroup21 = 'YOLO4D';
-var Comment21 = '#YOLO4D ( BALUNGAN1 ) : 368*010*945'; 
+var namagroup21 = 'LJGROUP';
+var Comment21 = '#JALURTOGEL*BALUNGAN1*368*010*945'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (DJASKAL12) = 482*898*861'; 
@@ -94,8 +95,8 @@ var Comment23 = '#ABUTOGEL*BOKIKAN*171*715*622';
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*DJASKAL12*187*795*BETTING'; 
 
-var namagroup25 = 'POOLSTOTO';
-var Comment25 = '#(POOLSTOTO) = (BORLITA19) 208*406*431'; 
+var namagroup25 = 'JOGJATOTO';
+var Comment25 = '#(JOGJATOTO)=BORLITA19*208*406*431'; 
 
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*DINDAKUCING*538*736*619'; 
