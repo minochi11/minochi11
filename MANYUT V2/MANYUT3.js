@@ -80,8 +80,8 @@ var Comment19 = '#DETIKTOTO*ALKON26*681*696*252';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (ALFATAH16) = 185*501*156'; 
 
-var namagroup21 = 'YOLO4D';
-var Comment21 = '#YOLO4D ( ALIMN26 ) : 556*989*959'; 
+var namagroup21 = 'LJGROUP';
+var Comment21 = '#JALURTOGEL*ALIMN26*556*989*959'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (ALAHAKBAR) = 542*038*284'; 
@@ -92,8 +92,8 @@ var Comment23 = '#ABUTOGEL*ALUMNI212*947*385*378';
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*ALKUDIR19*286*139*BETTING'; 
 
-var namagroup25 = 'POOLSTOTO';
-var Comment25 = '#(POOLSTOTO) = (ALKON26) 840*932*012'; 
+var namagroup25 = 'JOGJATOTO';
+var Comment25 = '#(JOGJATOTO)=ALKON26*840*932*012'; 
 
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*ALKUDIR19*516*376*257'; 
