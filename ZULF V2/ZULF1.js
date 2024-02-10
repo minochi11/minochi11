@@ -42,7 +42,7 @@ var Comment7 = '#ASEPTOGEL ZULFCANTIK 72*24*92';
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
 var Comment8 = '#TOGELKUY ZULAFRNA002 31*83*45'; 
 
-var namagroup9 = 'ShioKelinci';
+var namagroup9 = 'SHIOKELINCI';
 var Comment9 = '#shiokelinci4d*ZULFANI12*28*25'; 
 
 var namagroup10 = 'GILA4D';
