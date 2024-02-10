@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT2
 // @namespace    http://tampermonkey.net/
-// @version      3.55
+// @version      3.57
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT2.js
@@ -82,8 +82,8 @@ var Comment19 = '#DETIKTOTO*PANDAL93*078*981*317';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (BINAKARMA54) = 400*332*842'; 
 
-var namagroup21 = 'YOLO4D';
-var Comment21 = '#YOLO4D ( PALAKU63 ) : 095*761*686'; 
+var namagroup21 = 'LJGROUP';
+var Comment21 = '#JALURTOGEL*PALAKU63*095*761*686'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (BERANAK76) = 421*236*865'; 
@@ -94,8 +94,8 @@ var Comment23 = '#ABUTOGEL*POGO19*183*747*979';
 var namagroup24 = 'OTU SLOT';
 var Comment24 = '#OTUSLOT*BERANAK76*321*022*BETTING'; 
 
-var namagroup25 = 'POOLSTOTO';
-var Comment25 = '#(POOLSTOTO) = (PANDAL93) 991*087*697'; 
+var namagroup25 = 'JOGJATOTO';
+var Comment25 = '#(JOGJATOTO)=PANDAL93*991*087*697'; 
 
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*BIKANG12*073*596*003'; 
@@ -117,7 +117,6 @@ var Comment31 = 'BERANAK76 # 303/127/917 #YOGAPRO';
 
 var namagroup32 = 'SINAGA4D';
 var Comment32 = 'SINAGA4D (POLITAS) 821*733*080';
-
 
 
 
