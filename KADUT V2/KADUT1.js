@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.57
+// @version      3.58
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
@@ -112,7 +112,7 @@ var Comment29 = '(BOREO19) = 254*930*419 #tebakangkacola';
 var namagroup30 = 'PORTOGEL';
 var Comment30 = '#PORTOGEL (BUANGKABEH) = 126*323*251'; 
 
-var namagroup31 = 'PREDIKSI TOTO';
+var namagroup31 = 'YOGA';
 var Comment31 = 'BUNDERLER # 567/140/487 #YOGAPRO'; 
 
 var namagroup32 = 'SINAGA4D';
