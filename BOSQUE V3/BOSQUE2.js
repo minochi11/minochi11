@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BOSQUE2
 // @namespace    http://tampermonkey.net/
-// @version      3.7
+// @version      3.8
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE2.js
@@ -43,7 +43,7 @@ var Comment8 = 'ANGKER4D=BOSTER73=37*99*84';
 var namagroup9 = 'GILA4D';
 var Comment9 = 'GILA4D=BOSREN64=57*08*16'; 
 
-var namagroup10 = 'JNETOTO';
+var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(BOSLON89)*35*75*78'; 
 
 var namagroup11 = 'TOTOAKURAT';
