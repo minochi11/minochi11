@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.58
+// @version      3.59
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
@@ -46,7 +46,7 @@ var Comment8 = 'ANGKER4D=EKORKU42=77*91*68';
 var namagroup9 = 'GILA4D';
 var Comment9 = 'GILA4D=EKORENG51=58*84*62'; 
 
-var namagroup10 = 'JNETOTO';
+var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(EKOROK64)*55*95*59'; 
 
 var namagroup11 = 'TOTOAKURAT';
