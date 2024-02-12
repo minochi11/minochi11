@@ -25,7 +25,7 @@ var Comment1 = '#IYATOTO ASTRI29 70*90*23';
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=ASRIN32=29*96*56'; 
 
-var namagroup3 = 'JNETOTO';
+var namagroup3 = 'JNE';
 var Comment3 = '#JNETOTO(ASABKUBUR12)*50*03*92'; 
 
 var namagroup4 = 'GAIB4D';
