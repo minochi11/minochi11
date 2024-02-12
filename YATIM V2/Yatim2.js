@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yatim2
 // @namespace    http://tampermonkey.net/
-// @version      3.54
+// @version      3.55
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim2.js
@@ -45,7 +45,7 @@ var Comment8 = 'ANGKER4D=FERKERR=54*09*63';
 var namagroup9 = 'GILA4D';
 var Comment9 = 'GILA4D=FERGILL=59*35*25'; 
 
-var namagroup10 = 'JNETOTO';
+var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(FERJENS)*80*99*55'; 
 
 var namagroup11 = 'TOTOAKURAT';
