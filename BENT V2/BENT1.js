@@ -90,7 +90,7 @@ var Comment22 = '#TOGEL838 (ASIMATJUMBO) = 845*615*333';
 var namagroup23 = 'ABUTOGEL';
 var Comment23 = '#ABUTOGEL*DOPLOSU1*730*146*072'; 
 
-var namagroup24 = 'OTU SLOT';
+var namagroup24 = 'OTUSLOT';
 var Comment24 = '#OTUSLOT*ASIMATJUMBO*031*231*BETTING'; 
 
 var namagroup25 = 'JOGJATOTO';
