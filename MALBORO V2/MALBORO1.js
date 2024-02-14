@@ -56,7 +56,7 @@ var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( AMBOH45 ) : 56*30*11'; 
 
 var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 45*91*44 ( ARAKROH5 )'; 
+var Comment14 = '#DENTOTO 45*91*44 ( ARAKROH57 )'; 
 
 var namagroup15 = 'SNIPER NUSANTARA';
 var Comment15 = '#VESPATOGEL (AMITAMIT4)  10*17*97'; 
