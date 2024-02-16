@@ -59,7 +59,7 @@ var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 45*91*44 ( ARAKROH57 )'; 
 
 var namagroup15 = 'SNIPER NUSANTARA';
-var Comment15 = '#VESPATOGEL (AMITAMIT4)  10*17*97'; 
+var Comment15 = '#VESPATOGEL (AMITAMI4)  10*17*97'; 
 
 var namagroup16 = 'WQEWQ';
 var Comment16 = '';
