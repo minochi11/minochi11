@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW CURUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.56
+// @version      3.57
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
@@ -29,7 +29,7 @@ var Comment3 = '#Tiktaktogel / TELOLUNDRO / 33 , 89 , 01';
 var namagroup4 = 'GAIB4D';
 var Comment4 = 'GAIB4D=TEMPURUK=56*69*51'; 
 
-var namagroup5 = '2D OFFICIAL';
+var namagroup5 = 'KEITOGEL';
 var Comment5 = '#keitogel = (TELELENG) = 32*14*57'; 
 
 var namagroup6 = 'KiosToto';
