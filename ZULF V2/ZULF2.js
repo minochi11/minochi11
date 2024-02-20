@@ -24,7 +24,7 @@ var Comment1 = '{KAKEKZEUS0077} = #VELBET4D = 70*49*19';
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=KORBANSLOT11=18*12*98'; 
 
-var namagroup3 = 'JNE
+var namagroup3 = 'JNE'
 var Comment3 = '#JNETOTO(RAJANYAJP12)*43*63*54'; 
 
 var namagroup4 = 'GAIB4D';
