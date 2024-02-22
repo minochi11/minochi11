@@ -55,7 +55,7 @@ var Comment11 = '#keitogel = (DUDUKGO81) = 91*27*59';
 var namagroup12 = 'KiosToto';
 var Comment12 = 'KIOSTOTO=DIANUMAMI12=81*98*55'; 
 
-var namagroup13 = 'TOTOAKURAT';
+var namagroup13 = 'A_K_U_R_A_T';
 var Comment13 = '#TA*DJASKAL12*78*34*49*'; 
 
 var namagroup14 = 'IDTOGEL';
