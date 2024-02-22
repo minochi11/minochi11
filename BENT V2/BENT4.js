@@ -113,7 +113,7 @@ var Comment29 = '(BOKIKAN) = 526*479*215 #tebakangkacola';
 var namagroup30 = 'PORTOGEL';
 var Comment30 = '#PORTOGEL (DINDAMANIS12) = 265*067*130'; 
 
-var namagroup31 = 'KUMPULAN
+var namagroup31 = 'KUMPULAN';
 var Comment31 = 'BOLER19 # 977/291/211 #YOGAPRO'; 
 
 var namagroup32 = 'SINAGA4D';
