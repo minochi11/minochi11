@@ -112,7 +112,7 @@ var Comment29 = '(POGO19) = 946*044*288 #tebakangkacola';
 var namagroup30 = 'PORTOGEL';
 var Comment30 = '#PORTOGEL (BABIBU76) = 517*226*970'; 
 
-var namagroup31 = 'YOGA';
+var namagroup31 = 'KUMPULAN';
 var Comment31 = 'BERANAK76 # 303/127/917 #YOGAPRO'; 
 
 var namagroup32 = 'SINAGA4D';
