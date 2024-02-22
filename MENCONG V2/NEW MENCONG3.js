@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MENCONG3
 // @namespace    http://tampermonkey.net/
-// @version      3.58
+// @version      3.60
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG3.js
@@ -49,7 +49,7 @@ var Comment9 = 'GILA4D=NOVINANU83=73*83*40';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(NOVIKARMA11)*63*25*56'; 
 
-var namagroup11 = 'TOTOAKURAT';
+var namagroup11 = 'A_K_U_R_A_T';
 var Comment11 = '#TA*NOVINDOL*73*83*40*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
