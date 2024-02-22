@@ -111,7 +111,7 @@ var Comment29 = '(DOPLOSU1) = 235*220*872 #tebakangkacola';
 var namagroup30 = 'PORTOGEL';
 var Comment30 = '#PORTOGEL (ASEKASEK12) = 343*850*808'; 
 
-var namagroup31 = 'YOGA';
+var namagroup31 = 'KUMPULAN';
 var Comment31 = 'DONOKU1 # 737/386/614 #YOGAPRO'; 
 
 var namagroup32 = 'SINAGA4D';
