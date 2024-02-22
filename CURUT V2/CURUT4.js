@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW CURUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.58
+// @version      3.59
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
@@ -47,7 +47,7 @@ var Comment9 = 'GILA4D=TUKUEMPEK10=56*69*51';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(TUKANGBATU)*32*14*57'; 
 
-var namagroup11 = 'TOTOAKURAT';
+var namagroup11 = 'A_K_U_R_A_T';
 var Comment11 = '#TA*TURUSU71*33*89*01*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
