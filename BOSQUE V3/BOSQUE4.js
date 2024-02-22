@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BOSQUE4
 // @namespace    http://tampermonkey.net/
-// @version      3.11
+// @version      3.12
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE4.js
@@ -46,7 +46,7 @@ var Comment9 = 'GILA4D=ZOWOK26=42*21*18';
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(ZOKET72)*22*83*81'; 
 
-var namagroup11 = 'TOTOAKURAT';
+var namagroup11 = 'A_K_U_R_A_T';
 var Comment11 = '#TA*ZOKUTU72*51*17*14*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
