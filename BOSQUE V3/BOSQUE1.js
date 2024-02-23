@@ -19,7 +19,7 @@ var refresh = 90;
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*XERBIA13*06*80'; 
 
-var namagroup2 = 'ELITE';
+var namagroup2 = 'PREDIKTOR';
 var Comment2 = '#IYATOTO XENON88 26*73*41'; 
 
 var namagroup3 = 'TiktakTogel';
