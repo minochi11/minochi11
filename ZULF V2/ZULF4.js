@@ -63,7 +63,7 @@ var Comment14 = '#IDTOGEL*FAISMU*65*16*06';
 var namagroup15 = 'DENTOTO';
 var Comment15 = '#DENTOTO 65*16*06 ( FASAKAL11 )'; 
 
-var namagroup16 = 'ELITE';
+var namagroup16 = 'PREDIKTOR';
 var Comment16 = '#IYATOTO SUNANFAIS 46*86*39';
 
 
