@@ -63,7 +63,7 @@ var Comment14 = '#IDTOGEL*ZULAFRNA002*89*03*41';
 var namagroup15 = 'DENTOTO';
 var Comment15 = '#DENTOTO 89*03*41 ( ZUZU34 )'; 
 
-var namagroup16 = 'ELITE';
+var namagroup16 = 'PREDIKTOR';
 var Comment16 = '#IYATOTO SUSUANTIK 26*27*29';
 
 
