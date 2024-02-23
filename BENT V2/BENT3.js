@@ -61,7 +61,7 @@ var Comment13 = '#TA*CIANGSUI54*07*32*18*';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 97*95*45 ( CUCUKU76 )'; 
 
-var namagroup15 = 'ELITE';
+var namagroup15 = 'PREDIKTOR';
 var Comment15 = '#IYATOTO CINOIRENG12 39*53*73'; 
 
 var namagroup16 = '12312312';
