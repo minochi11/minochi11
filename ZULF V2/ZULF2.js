@@ -63,7 +63,7 @@ var Comment14 = '#IDTOGEL*KORBANSLOT11*40*51*78';
 var namagroup15 = 'DENTOTO';
 var Comment15 = '#DENTOTO 40*51*78 ( SUNDEL46 )'; 
 
-var namagroup16 = 'ELITE';
+var namagroup16 = 'PREDIKTOR';
 var Comment16 = '#IYATOTO KAKEKZEUS0077 70*49*19';
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
