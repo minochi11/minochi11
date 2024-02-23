@@ -63,7 +63,7 @@ var Comment14 = '#IDTOGEL*TRIWITUA*56*44*76';
 var namagroup15 = 'DENTOTO';
 var Comment15 = '#DENTOTO 56*44*76 ( TRIWID91 )'; 
 
-var namagroup16 = 'ELITE';
+var namagroup16 = 'PREDIKTOR';
 var Comment16 = '#IYATOTO TIGAPASTI 93*23*80';
 
 /*======================================================================3D===============================================================*/
