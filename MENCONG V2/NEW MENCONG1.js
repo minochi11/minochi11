@@ -22,7 +22,7 @@ var refresh = 90;
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*METALIKA41*39*03'; 
 
-var namagroup2 = 'ELITE';
+var namagroup2 = 'PREDIKTOR';
 var Comment2 = '#IYATOTO MENTARI17 31*90*85'; 
 
 var namagroup3 = 'TiktakTogel';
