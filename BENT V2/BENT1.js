@@ -19,7 +19,7 @@ var refresh = 90;
 
 
 
-var namagroup1 = 'ELITE';
+var namagroup1 = 'PREDIKTOR';
 var Comment1 = '#IYATOTO ASTRI29 70*90*23'; 
 
 var namagroup2 = 'ANGKER';
