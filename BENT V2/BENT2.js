@@ -64,7 +64,7 @@ var Comment14 = '#IDTOGEL*BINAKARMA54*63*76*37';
 var namagroup15 = 'DENTOTO';
 var Comment15 = '#DENTOTO 63*76*37 ( BIKANG12 )'; 
 
-var namagroup16 = 'ELITE';
+var namagroup16 = 'PREDIKTOR';
 var Comment16 = '#IYATOTO BIMBO91 36*25*26';
 
 
