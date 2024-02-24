@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT3
 // @namespace    http://tampermonkey.net/
-// @version      3.67
+// @version      3.68
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT3.js
@@ -83,7 +83,7 @@ var Comment19 = '#DETIKTOTO*JOROKLUH*753*068*881';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (JOSUWISUWI) = 441*281*104'; 
 
-var namagroup21 = 'LJGROUP';
+var namagroup21 = 'LJ GROUP';
 var Comment21 = '#JALURTOGEL*JOSUWISUWI*858*745*540'; 
 
 var namagroup22 = 'TOGEL838';
@@ -113,7 +113,7 @@ var Comment29 = '(JONGONO) = 477*234*758 #tebakangkacola';
 var namagroup30 = 'PORTOGEL';
 var Comment30 = '#PORTOGEL (JONGONO) = 803*415*365'; 
 
-var namagroup31 = 'KUMPULAN';
+var namagroup31 = 'YOGA';
 var Comment31 = 'JOROKLUH # 091/075/781 #YOGAPRO'; 
 
 var namagroup32 = 'SINAGA4D';
