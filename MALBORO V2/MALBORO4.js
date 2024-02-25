@@ -61,7 +61,7 @@ var Comment14 = '#DENTOTO 24*66*80 ( NAMIA31 )';
 var namagroup15 = 'SNIPER NUSANTARA';
 var Comment15 = '#VESPATOGEL (NARITA74)  40*48*58'; 
 
-var namagroup16 = '2112';
+var namagroup16 = '2shaj112';
 var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
