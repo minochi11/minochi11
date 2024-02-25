@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.68
+// @version      3.69
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT2.js
@@ -114,8 +114,8 @@ var Comment30 = '#PORTOGEL (SRIMBELEWEL) = 789*163*560';
 var namagroup31 = 'YOGA';
 var Comment31 = 'SRILAKCU # 885/063/335 #YOGAPRO'; 
 
-var namagroup32 = 'SINAGA4D';
-var Comment32 = 'SINAGA4D (SRIDU268) 283*860*341';
+var namagroup32 = 'BBFSTOTO';
+var Comment32 = '#BBFSTOTO = (SRIDU268) = 283*860*341';
 
 
 var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit","1 mnt","2 mnt","3 mnt","4 mnt","5 mnt","6 mnt","7 mnt","8 mnt"];
