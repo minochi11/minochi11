@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.68
+// @version      3.69
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
@@ -114,8 +114,8 @@ var Comment30 = '#PORTOGEL (SAWERSEK) = 802*938*832';
 var namagroup31 = 'YOGA';
 var Comment31 = 'SALAMANAE # 854/687/353 #YOGAPRO'; 
 
-var namagroup32 = 'SINAGA4D';
-var Comment32 = 'SINAGA4D (SAKEMPUL) 347*717*349';
+var namagroup32 = 'BBFSTOTO';
+var Comment32 = '#BBFSTOTO = (SAKEMPUL) = 347*717*349';
 
 
 
