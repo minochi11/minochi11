@@ -115,7 +115,7 @@ var namagroup31 = 'YOGA';
 var Comment31 = 'DONOKU1 # 737/386/614 #YOGAPRO'; 
 
 var namagroup32 = 'BBFSTOTO';
-var Comment32 = '#BBFSTOTO = (DONAL13) = 121*290*397';
+var Comment32 = '#BBFSTOTO = (DOPLO19) = 121*290*397';
 
 
 
