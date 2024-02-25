@@ -82,7 +82,7 @@ var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (SRIANU36) = 144*191*344'; 
 
 var namagroup21 = 'LJ GROUP';
-var Comment21 = '#JALURTOGEL*SRIANU36*049*446*417'; 
+var Comment21 = '#JALUR*SRIANU36*049*446*417'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (SRIANU36) = 608*958*160'; 
