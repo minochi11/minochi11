@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT3
 // @namespace    http://tampermonkey.net/
-// @version      3.68
+// @version      3.69
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT3.js
@@ -113,8 +113,8 @@ var Comment30 = '#PORTOGEL (ALUMNI212) = 594*725*119';
 var namagroup31 = 'YOGA';
 var Comment31 = 'ALAHMBUH # 785/772/583 #YOGAPRO'; 
 
-var namagroup32 = 'SINAGA4D';
-var Comment32 = 'SINAGA4D (ALTIMBUL) 132*138*846';
+var namagroup32 = 'BBFSTOTO';
+var Comment32 = '#BBFSTOTO = (ALTIMBUL) = 132*138*846';
 
 
 var jam = ["Baru sa","1 menit","2 menit","3 menit","4 menit","5 menit","6 menit","7 menit","8 menit","1 mnt","2 mnt","3 mnt","4 mnt","5 mnt","6 mnt","7 mnt","8 mnt"];
