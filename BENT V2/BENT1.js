@@ -82,7 +82,7 @@ var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (ASABKUBUR12) = 578*382*447'; 
 
 var namagroup21 = 'LJ GROUP';
-var Comment21 = '#JALURTOGEL*DOPLO19*248*366*052'; 
+var Comment21 = '#JALUR*DOPLO19*248*366*052'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (ASIMATJUMBO) = 845*615*333'; 
