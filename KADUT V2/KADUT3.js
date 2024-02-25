@@ -84,7 +84,7 @@ var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (JOSUWISUWI) = 441*281*104'; 
 
 var namagroup21 = 'LJ GROUP';
-var Comment21 = '#JALURTOGEL*JOSUWISUWI*858*745*540'; 
+var Comment21 = '#JALUR*JOSUWISUWI*858*745*540'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (JONTOR64) = 102*457*631'; 
