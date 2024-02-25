@@ -83,7 +83,7 @@ var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (BUDEGKOWE) = 381*576*090'; 
 
 var namagroup21 = 'LJ GROUP';
-var Comment21 = '#JALURTOGEL*BONDER28*734*573*439'; 
+var Comment21 = '#JALUR*BONDER28*734*573*439'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (BUNTOTASU) = 115*450*518'; 
