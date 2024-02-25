@@ -84,7 +84,7 @@ var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (DUDUKGO81) = 500*239*204'; 
 
 var namagroup21 = 'LJ GROUP';
-var Comment21 = '#JALURTOGEL*BALUNGAN1*368*010*945'; 
+var Comment21 = '#JALUR*BALUNGAN1*368*010*945'; 
 
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (DJASKAL12) = 482*898*861'; 
