@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.68
+// @version      3.69
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
@@ -114,8 +114,8 @@ var Comment30 = '#PORTOGEL (TUODANCOK) = 174*799*617';
 var namagroup31 = 'YOGA';
 var Comment31 = 'TUKULENG12 # 134/192/359 #YOGAPRO'; 
 
-var namagroup32 = 'SINAGA4D';
-var Comment32 = 'SINAGA4D (TUMPURUNG) 060*040*391';
+var namagroup32 = 'BBFSTOTO';
+var Comment32 = '#BBFSTOTO = (TUMPURUNG) = 060*040*391';
 
 
 
