@@ -17,51 +17,51 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*NANA19*28*46'; 
+var Comment1 = '#shiokelinci4d*DADAKU32*54*88'; 
 
 var namagroup2 = 'PREDIKTOR';
-var Comment2 = '#IYATOTO NAINDRA18 65*33*21'; 
+var Comment2 = '#IYATOTO DENGKULMU41 13*02*94'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / NARINA90 / 68 , 14 , 81'; 
+var Comment3 = '#Tiktaktogel / DUBURMU24 / 65 , 31 , 33'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=NAMIA30=47*45*00'; 
+var Comment4 = 'GAIB4D=DUANCOKMU3=83*27*86'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (NARINA10) = 65*33*21'; 
+var Comment5 = '#keitogel = (DUKUCABUL23) = 13*02*94'; 
 
 var namagroup6 = 'KIOSTOTO';
-var Comment6 = 'KIOSTOTO=NASITA19=11*78*56'; 
+var Comment6 = 'KIOSTOTO=DANDANG34=54*88*68'; 
 
 var namagroup7 = 'KHUSUS';
-var Comment7 = '#ASEPTOGEL NAMIRA10 11*78*56'; 
+var Comment7 = '#ASEPTOGEL DEDEKLESMONO 12*25*41'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=NAMBIA30=23*59*12'; 
+var Comment8 = 'ANGKER4D=DORAEMON34=65*31*53'; 
 
 var namagroup9 = 'GILA4D';
-var Comment9 = 'GILA4D=NANDURI19=23*59*12'; 
+var Comment9 = 'GILA4D=DAMIAN12=12*25*41'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(NAMIYA19)*68*14*81'; 
+var Comment10 = '#JNETOTO(DUGALTOK)*71*22*58'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
-var Comment11 = '#TA*NARINA28*23*59*12*'; 
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
+var Comment11 = '#TA*DANIELXL*75*46*57*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY NASTINA19 47*45*00'; 
+var Comment12 = '#TOGELKUY DEBORA21 71*22*58'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( NABARU21 ) : 24*66*80'; 
+var Comment13 = '#TOYIBSLOT ( DIEMPLOK ) : 61*20*99'; 
 
 var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 24*66*80 ( NAMIA31 )'; 
+var Comment14 = '#DENTOTO 75*46*57 ( DICIUMU12 )'; 
 
 var namagroup15 = 'SNIPER NUSANTARA';
-var Comment15 = '#VESPATOGEL (NARITA74)  40*48*58'; 
+var Comment15 = '#VESPATOGEL (DONGKOLSEK)  61*20*99'; 
 
-var namagroup16 = '2shaj112';
+var namagroup16 = '';
 var Comment16 = '';
 
 
