@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT2
 // @namespace    http://tampermonkey.net/
-// @version      3.69
+// @version      3.70
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT2.js
@@ -88,7 +88,7 @@ var Comment21 = '#JALUR*PALAKU63*095*761*686';
 var namagroup22 = 'TOGEL838';
 var Comment22 = '#TOGEL838 (BERANAK76) = 421*236*865'; 
 
-var namagroup23 = 'ABUTOGEL';
+var namagroup23 = 'ABUT0G3L';
 var Comment23 = '#ABUTOGEL*POGO19*183*747*979'; 
 
 var namagroup24 = 'OTUSLOT';
