@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT3
 // @namespace    http://tampermonkey.net/
-// @version      3.71
+// @version      3.72
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
@@ -81,7 +81,7 @@ var Comment19 = '#DETIKTOTO*SUWING11*592*539*586';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (CACINGAN54) = 948*766*607'; 
 
-var namagroup21 = 'LJ GROUP';
+var namagroup21 = 'LJGROUP';
 var Comment21 = '#JALUR*SULET1*442*582*812'; 
 
 var namagroup22 = 'TOGEL838';
