@@ -109,7 +109,7 @@ var namagroup29 = 'COLATOGEL';
 var Comment29 = '(SINTADIA18) = 768*092*870 #tebakangkacola'; 
 
 var namagroup30 = 'PORTOGEL';
-var Comment30 = '#PORTOGEL (CACINGAN54) = 926*217*961'; 
+var Comment30 = '#PORTOGEL (CINTAKU43) = 926*217*961'; 
 
 var namagroup31 = 'YOGA';
 var Comment31 = 'SIMBOLU26 # 635/103/883 #YOGAPRO'; 
