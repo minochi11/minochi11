@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW CURUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.60
+// @version      3.61
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 
-var refresh = 90;
+var refresh = 50;
 
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*TELEKKLUWER*91*64'; 
