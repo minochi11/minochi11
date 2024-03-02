@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MALBORO 3
 // @namespace    http://tampermonkey.net/
-// @version      3.65
+// @version      3.66
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO3.js
@@ -13,7 +13,7 @@
 // @grant       GM.getValue
 // @grant       window.close
 // ==/UserScript==
-var refresh = 90;
+var refresh = 50;
 
 
 var namagroup1 = 'SHIOKELINCI';
