@@ -101,7 +101,7 @@ var Comment25 = '#(JOGJATOTO)=BORLITA19*208*406*431';
 var namagroup26 = 'LING77';
 var Comment26 = '#LINGTOGEL77*DINDAKUCING*538*736*619'; 
 
-var namagroup27 = 'ALEXISTOTO';
+var namagroup27 = 'AL3XISTOG3L';
 var Comment27 = '#ALEXISTOGEL(DJASKA13) 3D = 909*562*651'; 
 
 var namagroup28 = 'GTA';
