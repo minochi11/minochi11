@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.73
+// @version      3.74
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
@@ -81,7 +81,7 @@ var Comment19 = '#DETIKTOTO*SALAMANAE*452*548*988';
 var namagroup20 = 'PAO4D';
 var Comment20 = '#PAO4D (SANDALMABUR) = 148*804*912'; 
 
-var namagroup21 = 'LJGROUP';
+var namagroup21 = 'ALJT';
 var Comment21 = '#JALUR*SANDALMABUR*153*108*732'; 
 
 var namagroup22 = 'TOGEL838';
