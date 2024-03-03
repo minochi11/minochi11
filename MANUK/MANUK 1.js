@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         MALBORO 1
+// @name         MANUK 1
 // @namespace    http://tampermonkey.net/
 // @version      3.66
 // @description  try to take over the world!
-// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO1.js
-// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO1.js
+// @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%201.js
+// @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%201.js
 // @author       You
 // @match        http*://*/*
 // @run-at       document-end
@@ -16,56 +16,56 @@
 var refresh = 50;
 
 
+
+
+
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*ANANDA122*03*38'; 
+var Comment1 = '#shiokelinci4d*MANUKU12*42*26'; 
 
 var namagroup2 = 'PREDIKTOR';
-var Comment2 = '#IYATOTO ANAKCODA83 10*17*97'; 
+var Comment2 = '#IYATOTO MANUKU27 03*70*62'; 
 
 var namagroup3 = 'TiktakTogel';
-var Comment3 = '#Tiktaktogel / ASUKAU348 / 52 , 36 , 32'; 
+var Comment3 = '#Tiktaktogel / MANUKU478 / 89 , 40 , 07'; 
 
 var namagroup4 = 'GAIB4D';
-var Comment4 = 'GAIB4D=ANJANI48=47*06*04'; 
+var Comment4 = 'GAIB4D=MANUK123=99*40*07'; 
 
 var namagroup5 = 'KEITOGEL';
-var Comment5 = '#keitogel = (ANITI348) = 45*91*44'; 
+var Comment5 = '#keitogel = (MANANUK213) = 45*51*84'; 
 
 var namagroup6 = 'KIOSTOTO';
-var Comment6 = 'KIOSTOTO=ANDONG49=56*30*11'; 
+var Comment6 = 'KIOSTOTO=MANUKGENI12=13*11*91'; 
 
 var namagroup7 = 'KHUSUS';
-var Comment7 = '#ASEPTOGEL ANJLOK549 09*73*80'; 
+var Comment7 = '#ASEPTOGEL MANUKX12 03*70*62'; 
 
 var namagroup8 = 'ANGKER';
-var Comment8 = 'ANGKER4D=ANUNTU284=52*36*77'; 
+var Comment8 = 'ANGKER4D=MAUKUR287=97*95*73'; 
 
 var namagroup9 = 'GILA4D';
-var Comment9 = 'GILA4D=ANALOH49=09*73*80'; 
+var Comment9 = 'GILA4D=MANUKAN11=97*95*73'; 
 
 var namagroup10 = 'JNE';
-var Comment10 = '#JNETOTO(ALORJI3)*87*48*49'; 
+var Comment10 = '#JNETOTO(MANUK123)*97*95*73'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
-var Comment11 = '#TA*AMPEK43*03*38*81*'; 
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
+var Comment11 = '#TA*MANANUK213*42*26*18*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY AMARE45 47*06*04'; 
+var Comment12 = '#TOGELKUY MANUKGENI12 44*58*27'; 
 
 var namagroup13 = 'TOYIBSLOT';
-var Comment13 = '#TOYIBSLOT ( AMBOH45 ) : 56*30*11'; 
+var Comment13 = '#TOYIBSLOT ( MANUKX12 ) : 45*51*84'; 
 
 var namagroup14 = 'DENTOTO';
-var Comment14 = '#DENTOTO 45*91*44 ( ARAKROH57 )'; 
+var Comment14 = '#DENTOTO 44*58*27 ( MAUKUR287 )'; 
 
 var namagroup15 = 'SNIPER NUSANTARA';
-var Comment15 = '#VESPATOGEL (AMITAMI4)  10*17*97'; 
+var Comment15 = '#VESPATOGEL (MANUKAN11)  56*83*68'; 
 
-var namagroup16 = 'WQEWQ';
+var namagroup16 = '123123';
 var Comment16 = '';
-
-
-
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
