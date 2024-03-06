@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT3
 // @namespace    http://tampermonkey.net/
-// @version      3.75
+// @version      3.76
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
@@ -105,8 +105,8 @@ var Comment27 = '#ALEXISTOGEL(CARICINTA54) 3D = 255*712*300';
 var namagroup28 = 'GTA';
 var Comment28 = '#GTATOGEL {CACINGAN54} = 936*352*895'; 
 
-var namagroup29 = 'COLATOGEL';
-var Comment29 = '(SINTADIA18) = 768*092*870 #tebakangkacola'; 
+var namagroup29 = 'AKIRA';
+var Comment29 = '#AKIRATOTO*SINTADIA18*768*092*870'; 
 
 var namagroup30 = 'PORTOGEL';
 var Comment30 = '#PORTOGEL (CINTAKU43) = 926*217*961'; 
