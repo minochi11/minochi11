@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF4
 // @namespace    http://tampermonkey.net/
-// @version      3.61
+// @version      3.62
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF4.js
@@ -18,8 +18,8 @@
 var refresh = 90;
 
 
-var namagroup1 = 'VELBET4D';
-var Comment1 = '{SUNANFAIS} = #VELBET4D = 46*86*39'; 
+var namagroup1 = 'PREDIKTOR';
+var Comment1 = '#IYATOTO SUNANFAIS 46*86*39'; 
 
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=FAISMU=71*33*15'; 
@@ -27,7 +27,7 @@ var Comment2 = 'ANGKER4D=FAISMU=71*33*15';
 var namagroup3 = 'JNE';
 var Comment3 = '#JNETOTO(FAZAMIR00)*96*14*13'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=FAIZAL00=87*47*10'; 
 
 var namagroup5 = 'TOYIBSLOT';
@@ -36,7 +36,7 @@ var Comment5 = '#TOYIBSLOT ( FAISAMIR36 ) : 01*74*53';
 var namagroup6 = 'TiktakTogel';
 var Comment6 = '#Tiktaktogel / FANAFILL / 30 , 60 , 77'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL FAISALAMIR12 71*33*15'; 
 
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
@@ -45,7 +45,7 @@ var Comment8 = '#TOGELKUY FAISMU 30*60*77';
 var namagroup9 = 'SHIOKELINCI';
 var Comment9 = '#shiokelinci4d*FASTBLUE1*01*74'; 
 
-var namagroup10 = 'GILA4D';
+var namagroup10 = 'GIL∆4D';
 var Comment10 = 'GILA4D=FASTON11=87*47*10'; 
 
 var namagroup11 = 'KEITOGEL';
@@ -54,17 +54,17 @@ var Comment11 = '#keitogel = (FASAKAL11) = 96*14*13';
 var namagroup12 = 'KIOSTOTO';
 var Comment12 = 'KIOSTOTO=FAISALAMIR12=04*17*62'; 
 
-var namagroup13 = 'A_K_U_R_A_T';
+var namagroup13 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment13 = '#TA*FAISALBA*46*86*39*'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*FAISMU*65*16*06'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 65*16*06 ( FASAKAL11 )'; 
 
-var namagroup15 = 'DENTOTO';
-var Comment15 = '#DENTOTO 65*16*06 ( FASAKAL11 )'; 
+var namagroup15 = '12312312';
+var Comment15 = ''; 
 
-var namagroup16 = 'PREDIKTOR';
-var Comment16 = '#IYATOTO SUNANFAIS 46*86*39';
+var namagroup16 = '12312312';
+var Comment16 = '';
 
 
 /*======================================================================3D===============================================================*/
