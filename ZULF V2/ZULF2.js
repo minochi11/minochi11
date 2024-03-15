@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF2
 // @namespace    http://tampermonkey.net/
-// @version      3.61
+// @version      3.62
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF2.js
@@ -18,16 +18,16 @@
 var refresh = 90;
 
 
-var namagroup1 = 'VELBET4D';
-var Comment1 = '{KAKEKZEUS0077} = #VELBET4D = 70*49*19'; 
+var namagroup1 = 'PREDIKTOR';
+var Comment1 = '#IYATOTO KAKEKZEUS0077 70*49*19'; 
 
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=KORBANSLOT11=18*12*98'; 
 
-var namagroup3 = 'JNE'
+var namagroup3 = 'JNE';
 var Comment3 = '#JNETOTO(RAJANYAJP12)*43*63*54'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=CUANTRUS11=35*57*82'; 
 
 var namagroup5 = 'TOYIBSLOT';
@@ -36,16 +36,16 @@ var Comment5 = '#TOYIBSLOT ( CUNTRUS ) : 75*55*52';
 var namagroup6 = 'TiktakTogel';
 var Comment6 = '#Tiktaktogel / MERTUA66 / 05 , 22 , 59'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL TERMINATO003 18*12*98'; 
 
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
 var Comment8 = '#TOGELKUY KORBANSLOT11 05*22*59'; 
 
 var namagroup9 = 'SHIOKELINCI';
-var Comment9 = '#shiokelinci4d*BELBIRU12*75*52'; 
+var Comment9 = '#shiokelinci4d*BELBIRU12*75*55'; 
 
-var namagroup10 = 'GILA4D';
+var namagroup10 = 'GIL∆4D';
 var Comment10 = 'GILA4D=SUKASUKA12=35*57*82'; 
 
 var namagroup11 = 'KEITOGEL';
@@ -54,17 +54,17 @@ var Comment11 = '#keitogel = (SUNDEL46) = 43*63*54';
 var namagroup12 = 'KIOSTOTO';
 var Comment12 = 'KIOSTOTO=TERMINATO003=73*66*58'; 
 
-var namagroup13 = 'A_K_U_R_A_T';
+var namagroup13 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment13 = '#TA*ALBAKU13*70*49*19*'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*KORBANSLOT11*40*51*78'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 40*51*78 ( SUNDEL46 )'; 
 
-var namagroup15 = 'DENTOTO';
-var Comment15 = '#DENTOTO 40*51*78 ( SUNDEL46 )'; 
+var namagroup15 = '12312312';
+var Comment15 = ''; 
 
-var namagroup16 = 'PREDIKTOR';
-var Comment16 = '#IYATOTO KAKEKZEUS0077 70*49*19';
+var namagroup16 = '1231231';
+var Comment16 = '';
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
 var Comment17 = 'TESTBENTO';
