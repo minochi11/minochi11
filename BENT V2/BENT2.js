@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT2
 // @namespace    http://tampermonkey.net/
-// @version      3.75
+// @version      3.76
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT2.js
@@ -19,8 +19,8 @@ var refresh = 90;
 
 
 
-var namagroup1 = 'VELBET4D';
-var Comment1 = '{BIMBO91} = #VELBET4D = 36*25*26'; 
+var namagroup1 = 'PREDIKTOR';
+var Comment1 = '#IYATOTO BIMBO91 36*25*26'; 
 
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=BINOMO77=40*66*43'; 
@@ -28,7 +28,7 @@ var Comment2 = 'ANGKER4D=BINOMO77=40*66*43';
 var namagroup3 = 'JNE';
 var Comment3 = '#JNETOTO(BINAKARMA54)*54*30*60'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=BISMON76=51*42*24'; 
 
 var namagroup5 = 'TOYIBSLOT';
@@ -37,7 +37,7 @@ var Comment5 = '#TOYIBSLOT ( BABIBU76 ) : 72*35*84';
 var namagroup6 = 'TiktakTogel';
 var Comment6 = '#Tiktaktogel / BOBOHO55 / 72 , 35 , 84'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL BAMIN12 04*10*41'; 
 
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
@@ -46,7 +46,7 @@ var Comment8 = '#TOGELKUY BERIKLAH65 02*21*17';
 var namagroup9 = 'SHIOKELINCI';
 var Comment9 = '#shiokelinci4d*BENTOEL12*04*10'; 
 
-var namagroup10 = 'GILA4D';
+var namagroup10 = 'GIL∆4D';
 var Comment10 = 'GILA4D=BEKOL12=51*42*24'; 
 
 var namagroup11 = 'KEITOGEL';
@@ -55,17 +55,17 @@ var Comment11 = '#keitogel = (BINAKARMA54) = 36*25*26';
 var namagroup12 = 'KIOSTOTO';
 var Comment12 = 'KIOSTOTO=BAMIN12=63*76*37'; 
 
-var namagroup13 = 'A_K_U_R_A_T';
+var namagroup13 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment13 = '#TA*BERANAK76*54*30*60*'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*BINAKARMA54*63*76*37'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 63*76*37 ( BIKANG12 )'; 
 
-var namagroup15 = 'DENTOTO';
-var Comment15 = '#DENTOTO 63*76*37 ( BIKANG12 )'; 
+var namagroup15 = '12312312';
+var Comment15 = ''; 
 
-var namagroup16 = 'PREDIKTOR';
-var Comment16 = '#IYATOTO BIMBO91 36*25*26';
+var namagroup16 = '1231231';
+var Comment16 = '';
 
 
 
