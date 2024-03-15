@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BOSQUE2
 // @namespace    http://tampermonkey.net/
-// @version      3.13
+// @version      3.14
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE2.js
@@ -25,7 +25,7 @@ var Comment2 = '#IYATOTO BOSEK64 49*67*64';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / BOHOSEY3 / 33 , 08 , 16'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=BOSEN68=82*53*31'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -40,13 +40,13 @@ var Comment7 = '#ASEPTOGEL BOSNOM63 43*11*89';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=BOSTER73=37*99*84'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=BOSREN64=57*08*16'; 
 
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(BOSLON89)*35*75*78'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*BOSBIG53*49*67*64*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
@@ -63,7 +63,6 @@ var Comment15 = '#VESPATOGEL (BOSBOS64)  91*27*52';
 
 var namagroup16 = '64926h';
 var Comment16 = '';
-
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
