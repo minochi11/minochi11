@@ -19,7 +19,6 @@ var refresh = 50;
 
 
 
-
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*QOMAR26*37*94'; 
 
@@ -29,7 +28,7 @@ var Comment2 = '#IYATOTO QOMAR27 30*31*98';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / QOMAR28 / 80 , 58 , 45'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=QOMAR29=02*47*78'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -38,19 +37,19 @@ var Comment5 = '#keitogel = (QOMAR26) = 48*74*27';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=QUMU17=76*59*38'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL QOMIR23 37*94*79'; 
 
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=QOMIR23=02*47*78'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=QOMA123=02*47*78'; 
 
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(QOMARUT14)*48*74*27'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*QOMINTO15*80*58*45*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
@@ -59,14 +58,14 @@ var Comment12 = '#TOGELKUY QANAS52 30*31*98';
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( QOECK62 ) : 60*49*73'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*QOQOM52*60*49*73'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 60*49*73 ( QOQOM52 )'; 
 
-var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (QUMUR19) 36*87*10'; 
+var namagroup15 = 'SNIPER NUSANTARA';
+var Comment15 = '#VESPATOGEL (QUMUR19)  36*87*10'; 
 
-var namagroup16 = 'DENTOTO';
-var Comment16 = '#DENTOTO 60*49*73 ( QOQOM52 )';
+var namagroup16 = '';
+var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
