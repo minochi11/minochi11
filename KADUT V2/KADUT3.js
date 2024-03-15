@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT3
 // @namespace    http://tampermonkey.net/
-// @version      3.75
+// @version      3.76
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT3.js
@@ -28,7 +28,7 @@ var Comment2 = '#IYATOTO JOMPLANG 56*26*54';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / JONTOR6 / 87 , 41 , 20'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=JOKOBODO=87*41*20'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -37,19 +37,19 @@ var Comment5 = '#keitogel = (JOSUWISUWI) = 92*82*13';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=JOSRAIMU=05*29*44'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL JOROKKWE 92*82*13'; 
 
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=JOROKKWE=46*72*49'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=JOMLANG63=46*72*49'; 
 
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(JOMNDUL73)*46*72*49'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*JONTOR64*05*29*44*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
@@ -58,14 +58,14 @@ var Comment12 = '#TOGELKUY JOJONBETAWI 70*31*86';
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( JONGONO ) : 56*26*54'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*JOVINDUL*70*31*86'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 70*31*86 ( JOROKLUH )'; 
 
-var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (JOROKLUH) 32*28*01'; 
+var namagroup15 = 'SNIPER NUSANTARA';
+var Comment15 = '#VESPATOGEL (JOROKLUH)  32*28*01'; 
 
-var namagroup16 = 'DENTOTO';
-var Comment16 = '#DENTOTO 70*31*86 ( JOROKLUH )';
+var namagroup16 = '12312312';
+var Comment16 = '';
 
 
 
