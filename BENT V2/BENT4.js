@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT4
 // @namespace    http://tampermonkey.net/
-// @version      3.77
+// @version      3.78
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
@@ -19,8 +19,8 @@ var refresh = 90;
 
 
 
-var namagroup1 = 'VELBET4D';
-var Comment1 = '{DUINIATOTO23} = #VELBET4D = 91*27*59'; 
+var namagroup1 = 'PREDIKTOR';
+var Comment1 = '#IYATOTO DUINIATOTO23 91*27*59'; 
 
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=DIANUMAMI12=87*80*62'; 
@@ -28,7 +28,7 @@ var Comment2 = 'ANGKER4D=DIANUMAMI12=87*80*62';
 var namagroup3 = 'JNE';
 var Comment3 = '#JNETOTO(DUDUKGO81)*78*34*49'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=DINDAMANIS12=05*46*38'; 
 
 var namagroup5 = 'TOYIBSLOT';
@@ -37,7 +37,7 @@ var Comment5 = '#TOYIBSLOT ( DANUDNI12 ) : 57*52*68';
 var namagroup6 = 'TiktakTogel';
 var Comment6 = '#Tiktaktogel / DICIAKKUCING / 57 , 52 , 68'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL DIANUMAMI12 09*14*77'; 
 
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
@@ -46,7 +46,7 @@ var Comment8 = '#TOGELKUY DINDAMANIS13 85*64*47';
 var namagroup9 = 'SHIOKELINCI';
 var Comment9 = '#shiokelinci4d*DIANCOK13*09*14'; 
 
-var namagroup10 = 'GILA4D';
+var namagroup10 = 'GIL∆4D';
 var Comment10 = 'GILA4D=DINIMARTIN13=05*46*38'; 
 
 var namagroup11 = 'KEITOGEL';
@@ -55,17 +55,17 @@ var Comment11 = '#keitogel = (DUDUKGO81) = 91*27*59';
 var namagroup12 = 'KIOSTOTO';
 var Comment12 = 'KIOSTOTO=DIANUMAMI12=81*98*55'; 
 
-var namagroup13 = 'A_K_U_R_A_T';
+var namagroup13 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment13 = '#TA*DJASKAL12*78*34*49*'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*DIKENTUKADAL*81*98*55';
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 81*98*55 ( DINDAKUCING )'; 
 
-var namagroup15 = 'DENTOTO';
-var Comment15 = '#DENTOTO 81*98*55 ( DINDAKUCING )'; 
+var namagroup15 = '12312312';
+var Comment15 = ''; 
 
-var namagroup16 = 'PREDIKTOR';
-var Comment16 = '#IYATOTO DUINIATOTO23 91*27*59';
+var namagroup16 = '12312312';
+var Comment16 = '';
 
 
 
