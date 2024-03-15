@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yatim4
 // @namespace    http://tampermonkey.net/
-// @version      3.61
+// @version      3.62
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim4.js
@@ -27,7 +27,7 @@ var Comment2 = '#IYATOTO YAKUZA16 37*85*45';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / YAKULT98 / 20 , 58 , 42'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=YAPIYEYA=89*24*46'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -42,13 +42,13 @@ var Comment7 = '#ASEPTOGEL YANNCOK84 48*44*74';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=YADIANI77=48*44*74'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=YASALAM64=20*58*84'; 
 
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(YAHWEH00)*11*82*51'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*YANURIO47*37*85*45*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
@@ -63,9 +63,8 @@ var Comment14 = '#DENTOTO 06*12*92 ( YARUWET )';
 var namagroup15 = 'SNIPER NUSANTARA';
 var Comment15 = '#VESPATOGEL (YAELAH82)  29*28*86'; 
 
-var namagroup16 = 'hdnqkwg7';
+var namagroup16 = 'awdawaw';
 var Comment16 = '';
-
 
 
 
