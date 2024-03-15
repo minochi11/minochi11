@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MENCONG4
 // @namespace    http://tampermonkey.net/
-// @version      3.62
+// @version      3.63
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG4.js
@@ -28,7 +28,7 @@ var Comment2 = '#IYATOTO TOMRAIDER13 35*92*32';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / TOMBOLPENTIL / 72 , 20 , 76'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=TOMBOLNUKLIR=93*77*07'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -37,19 +37,19 @@ var Comment5 = '#keitogel = (TOMBLOK32) = 35*92*32';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=TOMBOY23=12*65*52'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL TOMPAKAN23 12*65*52'; 
 
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=TOMBIBI24=18*48*51'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=TOMBENG34=18*48*51'; 
 
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(TOMSENG21)*72*20*76'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*TOMLAK12*18*48*51*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
@@ -58,14 +58,14 @@ var Comment12 = '#TOGELKUY TOMBIS34 93*77*07';
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( TOMBOL24 ) : 46*50*05'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*TOMBRENG34*46*50*05'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 46*50*05 ( TOMASKU34 )'; 
 
-var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (TOMASKU34) 30*97*61'; 
+var namagroup15 = 'SNIPER NUSANTARA';
+var Comment15 = '#VESPATOGEL (TOMASKU34)  30*97*61'; 
 
-var namagroup16 = 'DENTOTO';
-var Comment16 = '#DENTOTO 46*50*05 ( TOMASKU34 )';
+var namagroup16 = 'tyjgyj';
+var Comment16 = '';
 
 
 /*======================================================================3D===============================================================*/
