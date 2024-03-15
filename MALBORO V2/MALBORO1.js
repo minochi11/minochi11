@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MALBORO 1
 // @namespace    http://tampermonkey.net/
-// @version      3.66
+// @version      3.67
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO1.js
@@ -25,7 +25,7 @@ var Comment2 = '#IYATOTO ANAKCODA83 10*17*97';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / ASUKAU348 / 52 , 36 , 32'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=ANJANI48=47*06*04'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -40,13 +40,13 @@ var Comment7 = '#ASEPTOGEL ANJLOK549 09*73*80';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=ANUNTU284=52*36*77'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=ANALOH49=09*73*80'; 
 
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(ALORJI3)*87*48*49'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*AMPEK43*03*38*81*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
@@ -61,7 +61,7 @@ var Comment14 = '#DENTOTO 45*91*44 ( ARAKROH57 )';
 var namagroup15 = 'SNIPER NUSANTARA';
 var Comment15 = '#VESPATOGEL (AMITAMI4)  10*17*97'; 
 
-var namagroup16 = 'WQEWQ';
+var namagroup16 = '123';
 var Comment16 = '';
 
 
