@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF3
 // @namespace    http://tampermonkey.net/
-// @version      3.61
+// @version      3.62
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF3.js
@@ -18,8 +18,8 @@
 var refresh = 90;
 
 
-var namagroup1 = 'VELBET4D';
-var Comment1 = '{TIGAPASTI} = #VELBET4D = 93*23*80'; 
+var namagroup1 = 'PREDIKTOR';
+var Comment1 = '#IYATOTO TIGAPASTI 93*23*80'; 
 
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=TRIWITUA=20*69*64'; 
@@ -27,7 +27,7 @@ var Comment2 = 'ANGKER4D=TRIWITUA=20*69*64';
 var namagroup3 = 'JNE';
 var Comment3 = '#JNETOTO(SPVTRIWIDA91)*61*91*95'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=PAUSTRIWIDA =94*42*21'; 
 
 var namagroup5 = 'TOYIBSLOT';
@@ -36,7 +36,7 @@ var Comment5 = '#TOYIBSLOT ( TRIWIDA91 ) : 38*79*85';
 var namagroup6 = 'TiktakTogel';
 var Comment6 = '#Tiktaktogel / TRIGERING / 36 , 08 , 09'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL TIMTIM57 20*69*64'; 
 
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
@@ -45,7 +45,7 @@ var Comment8 = '#TOGELKUY TRIWITUA 36*08*09';
 var namagroup9 = 'SHIOKELINCI';
 var Comment9 = '#shiokelinci4d*TRIWIDA91*38*79'; 
 
-var namagroup10 = 'GILA4D';
+var namagroup10 = 'GIL∆4D';
 var Comment10 = 'GILA4D=TIRN18=94*42*21'; 
 
 var namagroup11 = 'KEITOGEL';
@@ -54,17 +54,17 @@ var Comment11 = '#keitogel = (TRIWID91) = 61*91*95';
 var namagroup12 = 'KIOSTOTO';
 var Comment12 = 'KIOSTOTO=TIMTIM57=32*02*67'; 
 
-var namagroup13 = 'A_K_U_R_A_T';
+var namagroup13 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment13 = '#TA*TRIWID91*93*23*80*'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*TRIWITUA*56*44*76'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 56*44*76 ( TRIWID91 )'; 
 
-var namagroup15 = 'DENTOTO';
-var Comment15 = '#DENTOTO 56*44*76 ( TRIWID91 )'; 
+var namagroup15 = '12312312';
+var Comment15 = ''; 
 
-var namagroup16 = 'PREDIKTOR';
-var Comment16 = '#IYATOTO TIGAPASTI 93*23*80';
+var namagroup16 = '12312312';
+var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
