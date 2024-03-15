@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MENCONG2
 // @namespace    http://tampermonkey.net/
-// @version      3.62
+// @version      3.63
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG2.js
@@ -18,7 +18,7 @@
 var refresh = 50;
 
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*KRISWATI89*09*79'; 
+var Comment1 = '#shiokelinci4d*KRISWATI89*09*99'; 
 
 var namagroup2 = 'PREDIKTOR';
 var Comment2 = '#IYATOTO KRISAKTI1 06*29*21'; 
@@ -26,7 +26,7 @@ var Comment2 = '#IYATOTO KRISAKTI1 06*29*21';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / KRISMANDA23 / 70 , 87 , 80'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=KRISEMPU51=02*71*74'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -35,19 +35,19 @@ var Comment5 = '#keitogel = (KRISAN41) = 06*29*21';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=KRISMANDA23=34*64*68'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL KRISMA56 34*64*68'; 
 
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=KRISTANTI34=84*44*19'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=KRISMALI2=84*44*19'; 
 
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(KRISANTI46)*70*87*80'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*KRISUNDEL5*84*44*19*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
@@ -56,14 +56,14 @@ var Comment12 = '#TOGELKUY KRISING47 02*71*74';
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( KRISAN24 ) : 37*49*16'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*KRIKAR23*37*49*16'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 37*49*16 ( KRISNA46 )'; 
 
-var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (KRISNA46) 55*59*78'; 
+var namagroup15 = 'SNIPER NUSANTARA';
+var Comment15 = '#VESPATOGEL (KRISNA46)  55*59*78'; 
 
-var namagroup16 = 'DENTOTO';
-var Comment16 = '#DENTOTO 37*49*16 ( KRISNA46 )';
+var namagroup16 = 'awdawd';
+var Comment16 = '';
 
 
 /*======================================================================3D===============================================================*/
