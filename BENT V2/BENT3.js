@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT3
 // @namespace    http://tampermonkey.net/
-// @version      3.76
+// @version      3.77
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT3.js
@@ -19,8 +19,8 @@ var refresh = 90;
 
 
 
-var namagroup1 = 'VELBET4D';
-var Comment1 = '{CINOIRENG12} = #VELBET4D = 39*53*73'; 
+var namagroup1 = 'PREDIKTOR';
+var Comment1 = '#IYATOTO CINOIRENG12 39*53*73'; 
 
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=CUILANSENG12=48*61*83'; 
@@ -28,7 +28,7 @@ var Comment2 = 'ANGKER4D=CUILANSENG12=48*61*83';
 var namagroup3 = 'JNE';
 var Comment3 = '#JNETOTO(CACINGAN54)*07*32*18'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=CACINGAN54=93*75*12'; 
 
 var namagroup5 = 'TOYIBSLOT';
@@ -46,7 +46,7 @@ var Comment8 = '#TOGELKUY CNDAKARTA76 20*74*28';
 var namagroup9 = 'SHIOKELINCI';
 var Comment9 = '#shiokelinci4d*CACING65*89*58'; 
 
-var namagroup10 = 'GILA4D';
+var namagroup10 = 'GIL∆4D';
 var Comment10 = 'GILA4D=CUALINSENG41=93*75*12'; 
 
 var namagroup11 = 'KEITOGEL';
@@ -55,14 +55,14 @@ var Comment11 = '#keitogel = (CUCUKU76) = 39*53*73';
 var namagroup12 = 'KIOSTOTO';
 var Comment12 = 'KIOSTOTO=CUCUBUAYA65=97*95*45'; 
 
-var namagroup13 = 'A_K_U_R_A_T';
+var namagroup13 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment13 = '#TA*CIANGSUI54*07*32*18*'; 
 
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 97*95*45 ( CUCUKU76 )'; 
 
-var namagroup15 = 'PREDIKTOR';
-var Comment15 = '#IYATOTO CINOIRENG12 39*53*73'; 
+var namagroup15 = '12312312';
+var Comment15 = ''; 
 
 var namagroup16 = '12312312';
 var Comment16 = '';
