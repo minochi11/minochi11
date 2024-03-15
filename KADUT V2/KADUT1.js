@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.75
+// @version      3.76
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
@@ -28,7 +28,7 @@ var Comment2 = '#IYATOTO BOLINA61 43*25*11';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / BUANG31 / 39 , 38 , 37'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=BUANA87=39*38*37'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -37,19 +37,19 @@ var Comment5 = '#keitogel = (BUDEGKOWE) = 80*59*12';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=BURUNG69=51*68*91'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL BOLINA61 80*59*12'; 
 
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=BUDELTUNG=69*85*97'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=BUANGKALI=69*85*97'; 
 
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(BUWOSOK12)*69*85*97'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*BUNTOTASU*51*68*91*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
@@ -58,15 +58,14 @@ var Comment12 = '#TOGELKUY BUSUNGMU62 88*50*90';
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( BUANGKABEH ) : 43*25*11'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*BUKABEH*88*50*90';
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 88*50*90 ( BOTAP27 )'; 
 
-var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (BOTAP27) 52*14*84'; 
+var namagroup15 = 'SNIPER NUSANTARA';
+var Comment15 = '#VESPATOGEL (BOTAP27)  52*14*84'; 
 
-var namagroup16 = 'DENTOTO';
-var Comment16 = '#DENTOTO 88*50*90 ( BOTAP27 )';
-
+var namagroup16 = '123123';
+var Comment16 = '';
 
 
 /*======================================================================3D===============================================================*/
