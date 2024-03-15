@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MALBORO 4
 // @namespace    http://tampermonkey.net/
-// @version      3.66
+// @version      3.67
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO4.js
@@ -25,7 +25,7 @@ var Comment2 = '#IYATOTO DENGKULMU41 13*02*94';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / DUBURMU24 / 65 , 31 , 33'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=DUANCOKMU3=83*27*86'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -40,7 +40,7 @@ var Comment7 = '#ASEPTOGEL DEDEKLESMONO 12*25*41';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=DORAEMON34=65*31*53'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=DAMIAN12=12*25*41'; 
 
 var namagroup10 = 'JNE';
@@ -61,7 +61,7 @@ var Comment14 = '#DENTOTO 75*46*57 ( DICIUMU12 )';
 var namagroup15 = 'SNIPER NUSANTARA';
 var Comment15 = '#VESPATOGEL (DONGKOLSEK)  61*20*99'; 
 
-var namagroup16 = '';
+var namagroup16 = 'wdawd';
 var Comment16 = '';
 
 
