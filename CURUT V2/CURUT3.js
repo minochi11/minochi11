@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW CURUT3
 // @namespace    http://tampermonkey.net/
-// @version      3.61
+// @version      3.62
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT3.js
@@ -27,7 +27,7 @@ var Comment2 = '#IYATOTO ALAKTRAS 61*67*22';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / ALASAN36 / 41 , 83 , 08'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=ALFATAH16=28*21*15'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -36,19 +36,19 @@ var Comment5 = '#keitogel = (ALIMN26) = 42*16*50';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=ALKODAR13=52*65*12'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL ALAKADUR14 04*46*75'; 
 
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=ALAKADUR14=28*21*15'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=ALKON26=28*21*15'; 
 
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(ALKUDIR19)*42*16*50'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*ALAHAKBAR*41*83*08*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
@@ -57,14 +57,14 @@ var Comment12 = '#TOGELKUY ALDRUN19 61*67*22';
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( ALUMNI212 ) : 99*97*95'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*ALMAR19*99*97*95'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 99*97*95 ( ALMAR19 )'; 
 
-var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (ALAHMBUH) 09*70*43'; 
+var namagroup15 = 'SNIPER NUSANTARA';
+var Comment15 = '#VESPATOGEL (ALAHMBUH)  09*70*43'; 
 
-var namagroup16 = 'DENTOTO';
-var Comment16 = '#DENTOTO 99*97*95 ( ALMAR19 )';
+var namagroup16 = '12312';
+var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESTBENTO';
