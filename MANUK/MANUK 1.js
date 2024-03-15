@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MANUK 1
 // @namespace    http://tampermonkey.net/
-// @version      3.66
+// @version      3.67
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%201.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%201.js
@@ -28,7 +28,7 @@ var Comment2 = '#IYATOTO MANUKU27 03*70*62';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / MANUKU478 / 89 , 40 , 07'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=MANUK123=99*40*07'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -43,7 +43,7 @@ var Comment7 = '#ASEPTOGEL MANUKX12 03*70*62';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=MAUKUR287=97*95*73'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=MANUKAN11=97*95*73'; 
 
 var namagroup10 = 'JNE';
