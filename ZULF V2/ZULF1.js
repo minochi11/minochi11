@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF1
 // @namespace    http://tampermonkey.net/
-// @version      3.61
+// @version      3.62
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF1.js
@@ -18,8 +18,8 @@
 var refresh = 90;
 
 
-var namagroup1 = 'VELBET4D';
-var Comment1 = '{SUSUANTIK} = #VELBET4D = 26*27*29'; 
+var namagroup1 = 'PREDIKTOR';
+var Comment1 = '#IYATOTO SUSUANTIK 26*27*29'; 
 
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=ZULAFRNA002=72*24*92'; 
@@ -27,7 +27,7 @@ var Comment2 = 'ANGKER4D=ZULAFRNA002=72*24*92';
 var namagroup3 = 'JNE';
 var Comment3 = '#JNETOTO(ZULFCANTIK)*97*90*81'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=CICIZULFA02=50*84*37'; 
 
 var namagroup5 = 'TOYIBSLOT';
@@ -36,16 +36,16 @@ var Comment5 = '#TOYIBSLOT ( ZULIKA00 ) : 28*34*25';
 var namagroup6 = 'TiktakTogel';
 var Comment6 = '#Tiktaktogel / ZULFGOLD / 31 , 83 , 45'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL ZULFCANTIK 72*24*92'; 
 
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
 var Comment8 = '#TOGELKUY ZULAFRNA002 31*83*45'; 
 
 var namagroup9 = 'SHIOKELINCI';
-var Comment9 = '#shiokelinci4d*ZULFANI12*28*25'; 
+var Comment9 = '#shiokelinci4d*ZULFANI12*28*34'; 
 
-var namagroup10 = 'GILA4D';
+var namagroup10 = 'GIL∆4D';
 var Comment10 = 'GILA4D=ZUHULU00=50*84*37'; 
 
 var namagroup11 = 'KEITOGEL';
@@ -54,17 +54,17 @@ var Comment11 = '#keitogel = (ZUZU34) = 97*90*81';
 var namagroup12 = 'KIOSTOTO';
 var Comment12 = 'KIOSTOTO=ZULFCANTIK=68*07*48'; 
 
-var namagroup13 = 'A_K_U_R_A_T';
+var namagroup13 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment13 = '#TA*ZULFANI*26*27*29*'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*ZULAFRNA002*89*03*41'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 89*03*41 ( ZUZU34 )'; 
 
-var namagroup15 = 'DENTOTO';
-var Comment15 = '#DENTOTO 89*03*41 ( ZUZU34 )'; 
+var namagroup15 = '123123123';
+var Comment15 = ''; 
 
-var namagroup16 = 'PREDIKTOR';
-var Comment16 = '#IYATOTO SUSUANTIK 26*27*29';
+var namagroup16 = '123213213';
+var Comment16 = '123123';
 
 
 
