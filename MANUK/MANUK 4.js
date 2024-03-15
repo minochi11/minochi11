@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MANUK 4
 // @namespace    http://tampermonkey.net/
-// @version      3.66
+// @version      3.67
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%204.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%204.js
@@ -26,7 +26,7 @@ var Comment2 = '#IYATOTO PLECIKAWAT 43*81*55';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / PLECIAMBON / 86 , 05 , 80'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=PLECICIAK=86*05*90'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -41,7 +41,7 @@ var Comment7 = '#ASEPTOGEL PLECICILAN 59*01*04';
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=PLECIKLUK=12*32*64'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=PLECUAN=12*32*64'; 
 
 var namagroup10 = 'JNE';
@@ -63,7 +63,7 @@ var namagroup15 = 'SNIPER NUSANTARA';
 var Comment15 = '#VESPATOGEL (PLECIKUS1)  46*33*02'; 
 
 var namagroup16 = '2131231';
-var Comment16 = ''; 
+var Comment16 = '';
  
 
 /*======================================================================3D===============================================================*/
