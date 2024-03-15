@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.75
+// @version      3.77
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
@@ -20,7 +20,7 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*EKODOK33*95*59'; 
+var Comment1 = '#shiokelinci4d*EKODOK33*55*95*59'; 
 
 var namagroup2 = 'PREDIKTOR';
 var Comment2 = '#IYATOTO EKORENG51 14*04*65'; 
@@ -28,7 +28,7 @@ var Comment2 = '#IYATOTO EKORENG51 14*04*65';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / EKOJIM46 / 58 , 84 , 62'; 
 
-var namagroup4 = 'GAIB4D';
+var namagroup4 = 'G∆IB4D';
 var Comment4 = 'GAIB4D=EKODAM375=72*57*76'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -37,19 +37,19 @@ var Comment5 = '#keitogel = (EKOROK64) = 14*04*65';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=EKONDANG12=58*84*62'; 
 
-var namagroup7 = 'KHUSUS MACAU';
+var namagroup7 = 'KHUSUS';
 var Comment7 = '#ASEPTOGEL EKOCOK75 88*90*34'; 
 
 var namagroup8 = 'ANGKER';
 var Comment8 = 'ANGKER4D=EKORKU42=77*91*68'; 
 
-var namagroup9 = 'GILA4D';
+var namagroup9 = 'GIL∆4D';
 var Comment9 = 'GILA4D=EKORENG51=58*84*62'; 
 
 var namagroup10 = 'JNE';
 var Comment10 = '#JNETOTO(EKOROK64)*55*95*59'; 
 
-var namagroup11 = 'A_K_U_R_A_T';
+var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*EKOCOK75*33*10*85*'; 
 
 var namagroup12 = 'BOCORAN PREDIKSI SDY';
@@ -58,14 +58,14 @@ var Comment12 = '#TOGELKUY EKOCONG41 77*91*68';
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( EKOROP47 ) : 33*10*85'; 
 
-var namagroup14 = 'IDTOGEL';
-var Comment14 = '#IDTOGEL*EKOJAY52*72*57*76'; 
+var namagroup14 = 'DENTOTO';
+var Comment14 = '#DENTOTO 72*57*76 ( EKOR665 )'; 
 
-var namagroup15 = 'SNIPER';
-var Comment15 = '#VESPATOGEL (EKOWIJAY1) 29*82*83'; 
+var namagroup15 = 'SNIPER NUSANTARA';
+var Comment15 = '#VESPATOGEL (EKOWIJAY1)  29*82*83'; 
 
-var namagroup16 = 'DENTOTO';
-var Comment16 = '#DENTOTO 72*57*76 ( EKOR665 )';
+var namagroup16 = '1231231';
+var Comment16 = '';
 
 /*======================================================================3D===============================================================*/
 var namagroup17 = 'TESLATOTO';
