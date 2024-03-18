@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MENCONG4
 // @namespace    http://tampermonkey.net/
-// @version      3.64
+// @version      3.65
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG4.js
@@ -37,7 +37,7 @@ var Comment5 = '#keitogel = (TOMBLOK32) = 35*92*32';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=TOMBOY23=12*65*52'; 
 
-var namagroup7 = 'KHUSUS';
+var namagroup7 = 'ASEP';
 var Comment7 = '#ASEPTOGEL TOMPAKAN23 12*65*52'; 
 
 var namagroup8 = 'ANGKER';
