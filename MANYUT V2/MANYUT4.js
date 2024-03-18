@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.78
+// @version      3.79
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT4.js
@@ -37,7 +37,7 @@ var Comment5 = '#keitogel = (CANTOLKAWAT) = 13*45*12';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=CARIK25=28*36*78'; 
 
-var namagroup7 = 'KHUSUS';
+var namagroup7 = 'ASEP';
 var Comment7 = '#ASEPTOGEL CANDRAWIJ 01*56*16'; 
 
 var namagroup8 = 'ANGKER';
