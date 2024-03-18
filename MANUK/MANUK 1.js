@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MANUK 1
 // @namespace    http://tampermonkey.net/
-// @version      3.68
+// @version      3.69
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%201.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%201.js
@@ -37,7 +37,7 @@ var Comment5 = '#keitogel = (MANANUK213) = 45*51*84';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=MANUKGENI12=13*11*91'; 
 
-var namagroup7 = 'KHUSUS';
+var namagroup7 = 'ASEP';
 var Comment7 = '#ASEPTOGEL MANUKX12 03*70*62'; 
 
 var namagroup8 = 'ANGKER';
