@@ -1,0 +1,18 @@
+install user agent switcher
+
+https://chromewebstore.google.com/detail/user-agent-switcher-for-g/oolobapiojdnnempcokpajdiedgdiecl
+
+install tampermonkey
+
+https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+Pasang Useragent
+
+Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+
+Pasang Tampermonkey Auto Join
+
+https://github.com/minochi11/minochi11/blob/main/AUTOJOIN%2FAUTOJOIN.js
+
+
+Pasang Script Tampermonkey 
