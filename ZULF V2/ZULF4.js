@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF4
 // @namespace    http://tampermonkey.net/
-// @version      3.63
+// @version      3.64
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF4.js
@@ -36,7 +36,7 @@ var Comment5 = '#TOYIBSLOT ( FAISAMIR36 ) : 01*74*53';
 var namagroup6 = 'TiktakTogel';
 var Comment6 = '#Tiktaktogel / FANAFILL / 30 , 60 , 77'; 
 
-var namagroup7 = 'KHUSUS';
+var namagroup7 = 'ASEP';
 var Comment7 = '#ASEPTOGEL FAISALAMIR12 71*33*15'; 
 
 var namagroup8 = 'BOCORAN PREDIKSI SDY';
