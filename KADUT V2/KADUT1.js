@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.77
+// @version      3.78
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT1.js
@@ -37,7 +37,7 @@ var Comment5 = '#keitogel = (BUDEGKOWE) = 80*59*12';
 var namagroup6 = 'KIOSTOTO';
 var Comment6 = 'KIOSTOTO=BURUNG69=51*68*91'; 
 
-var namagroup7 = 'KHUSUS';
+var namagroup7 = 'ASEP';
 var Comment7 = '#ASEPTOGEL BOLINA61 80*59*12'; 
 
 var namagroup8 = 'ANGKER';
