@@ -85,7 +85,7 @@ var namagroup21 = 'ALJT';
 var Comment21 = '#JALUR*SANDALMABUR*153*108*732'; 
 
 var namagroup22 = 'TOGEL838';
-var Comment22 = '#TOGEL838 (SANTAYBOSKU) = 233*859*976'; 
+var Comment22 = 'TOGEL838 (SANTAYBOSKU) = 233*859*976'; 
 
 var namagroup23 = 'ABUT0G3L';
 var Comment23 = '#ABUTOGEL*SAWERSEK*769*514*765'; 
