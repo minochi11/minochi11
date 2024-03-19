@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MALBORO 4
 // @namespace    http://tampermonkey.net/
-// @version      3.71
+// @version      3.72
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO4.js
@@ -58,7 +58,7 @@ var Comment13 = '#TOYIBSLOT ( DIEMPLOK ) : 61*20*99';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 75*46*57 ( DICIUMU12 )'; 
 
-var namagroup15 = 'SNIPER NUSANTARA';
+var namagroup15 = 'VESPA';
 var Comment15 = '#VESPATOGEL (DONGKOLSEK)  61*20*99'; 
 
 var namagroup16 = 'wdawd';
