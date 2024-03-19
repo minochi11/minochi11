@@ -87,7 +87,7 @@ var namagroup21 = 'ALJT';
 var Comment21 = '#JALUR*BALUNGAN1*368*010*945'; 
 
 var namagroup22 = 'TOGEL838';
-var Comment22 = '#TOGEL838 (DJASKAL12) = 482*898*861'; 
+var Comment22 = 'TOGEL838 (DJASKAL12) = 482*898*861'; 
 
 var namagroup23 = 'ABUT0G3L';
 var Comment23 = '#ABUTOGEL*BOKIKAN*171*715*622'; 
