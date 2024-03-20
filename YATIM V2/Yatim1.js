@@ -60,7 +60,7 @@ var Comment13 = '#TOYIBSLOT ( GUNGYIBS ) : 49*01*47';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 15*56*90 ( GUNGSIPP )'; 
 
-var namagroup15 = 'VESPA';
+var namagroup15 = 'DEWA';
 var Comment15 = '#VESPATOGEL (GUNGSNIPE)  49*01*47'; 
 
 var namagroup16 = '1231';
