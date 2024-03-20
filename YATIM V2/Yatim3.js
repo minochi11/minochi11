@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yatim3
 // @namespace    http://tampermonkey.net/
-// @version      3.67
+// @version      3.68
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim3.js
@@ -60,7 +60,7 @@ var Comment13 = '#TOYIBSLOT ( SIMPAL19 ) : 31*40*98';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 14*65*30 ( SIUDUK19 )'; 
 
-var namagroup15 = 'VESPA';
+var namagroup15 = 'DEWA';
 var Comment15 = '#VESPATOGEL (SIMUMET17)  31*40*98'; 
 
 var namagroup16 = 'awdev';
