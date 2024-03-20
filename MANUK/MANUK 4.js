@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MANUK 4
 // @namespace    http://tampermonkey.net/
-// @version      3.72
+// @version      3.74
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%204.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%204.js
@@ -59,7 +59,7 @@ var Comment13 = '#TOYIBSLOT ( PLECIKI21 ) : 43*81*55';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 38*57*77 ( PLECINDI23 )'; 
 
-var namagroup15 = 'VESPA';
+var namagroup15 = 'DEWA';
 var Comment15 = '#VESPATOGEL (PLECIKUS1)  46*33*02'; 
 
 var namagroup16 = '2131231';
