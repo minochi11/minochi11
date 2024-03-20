@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MANUK 1
 // @namespace    http://tampermonkey.net/
-// @version      3.73
+// @version      3.74
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%201.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%201.js
