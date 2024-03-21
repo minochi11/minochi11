@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BOSQUE1
 // @namespace    http://tampermonkey.net/
-// @version      3.20
+// @version      3.21
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE1.js
@@ -19,7 +19,7 @@ var refresh = 90;
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*XERBIA13*06*80'; 
 
-var namagroup2 = 'KEPALA';
+var namagroup2 = 'ANGKA JP';
 var Comment2 = '#IYATOTO XENON88 26*73*41'; 
 
 var namagroup3 = 'TiktakTogel';
