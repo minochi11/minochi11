@@ -20,7 +20,7 @@ var refresh = 90;
 
 
 var namagroup1 = 'SHIOKELINCI';
-var Comment1 = '#shiokelinci4d*HONO212*05*37*96'; 
+var Comment1 = '#shiokelinci4d*HONO212*05*37'; 
 
 var namagroup2 = 'ANGKA JP';
 var Comment2 = '#IYATOTO HONOS112 42*74*07'; 
