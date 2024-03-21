@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MANUK 2
 // @namespace    http://tampermonkey.net/
-// @version      3.74
+// @version      3.75
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%202.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%202.js
@@ -21,7 +21,7 @@ var refresh = 50;
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*ELANG181*10*76'; 
 
-var namagroup2 = 'KEPALA';
+var namagroup2 = 'ANGKA JP';
 var Comment2 = '#IYATOTO ELANG32 25*63*93'; 
 
 var namagroup3 = 'TiktakTogel';
