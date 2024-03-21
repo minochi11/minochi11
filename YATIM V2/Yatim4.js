@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yatim4
 // @namespace    http://tampermonkey.net/
-// @version      3.68
+// @version      3.69
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/YATIM%20V2/Yatim4.js
@@ -21,7 +21,7 @@ var refresh = 50;
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*YATIMART*97*87'; 
 
-var namagroup2 = 'KEPALA';
+var namagroup2 = 'ANGKA JP';
 var Comment2 = '#IYATOTO YAKUZA16 37*85*45'; 
 
 var namagroup3 = 'TiktakTogel';
