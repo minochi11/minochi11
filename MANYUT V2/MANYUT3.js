@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT3
 // @namespace    http://tampermonkey.net/
-// @version      3.85
+// @version      3.86
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT3.js
