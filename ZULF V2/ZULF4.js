@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF4
 // @namespace    http://tampermonkey.net/
-// @version      3.67
+// @version      3.68
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF4.js
@@ -18,7 +18,7 @@
 var refresh = 90;
 
 
-var namagroup1 = 'ANGKA JP';
+var namagroup1 = 'MARKAS';
 var Comment1 = '#IYATOTO SUNANFAIS 46*86*39'; 
 
 var namagroup2 = 'ANGKER';
