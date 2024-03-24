@@ -20,7 +20,7 @@ var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*XERBIA13*06*80'; 
 
 var namagroup2 = 'MARKAS';
-var Comment2 = '#IYATOTO XENON88 26*73*41'; 
+var Comment2 = 'IYATOTO XENON88 26*73*41'; 
 
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / XELINA56 / 48 , 87 , 88'; 
