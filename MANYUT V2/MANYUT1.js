@@ -101,8 +101,8 @@ var Comment26 = '#LINGTOGEL77*QOMARUT14*493*329*571';
 var namagroup27 = 'AL3XISTOG3L';
 var Comment27 = '#ALEXISTOGEL(QOMAR287) 3D = 723*463*663'; 
 
-var namagroup28 = 'KIUTOTO';
-var Comment28 = '#KIUTOTO (QANAS52) : 969*738*315'; 
+var namagroup28 = 'COLA';
+var Comment28 = '(QOECK62) = 969*738*315 #tebakangkacola'; 
 
 var namagroup29 = 'AKIRA';
 var Comment29 = '#AKIRATOTO*QOECK62*195*894*669'; 
