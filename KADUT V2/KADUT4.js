@@ -102,8 +102,8 @@ var Comment26 = '#LINGTOGEL77*SAIKIPIYE*919*816*380';
 var namagroup27 = 'AL3XISTOG3L';
 var Comment27 = '#ALEXISTOGEL(SANGEKABEH) 3D = 937*249*354'; 
 
-var namagroup28 = 'KIUTOTO';
-var Comment28 = '#KIUTOTO (SAWERBOSE0) : 537*574*097'; 
+var namagroup28 = 'COLA';
+var Comment28 = '(SAWERSEK) = 537*574*097 #tebakangkacola'; 
 
 var namagroup29 = 'AKIRA';
 var Comment29 = '#AKIRATOTO*SAWERSEK*287*074*184'; 
