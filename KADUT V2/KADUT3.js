@@ -104,8 +104,8 @@ var Comment26 = '#LINGTOGEL77*JOMNDUL73*624*530*196';
 var namagroup27 = 'AL3XISTOG3L';
 var Comment27 = '#ALEXISTOGEL(JONTOR6) 3D = 199*026*264'; 
 
-var namagroup28 = 'KIUTOTO';
-var Comment28 = '#KIUTOTO (JOJONBETAWI) : 644*403*565'; 
+var namagroup28 = 'COLA';
+var Comment28 = '(JONGONO) = 644*403*565 #tebakangkacola'; 
 
 var namagroup29 = 'AKIRA';
 var Comment29 = '#AKIRATOTO*JONGONO*477*234*758'; 
