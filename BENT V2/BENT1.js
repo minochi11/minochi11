@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT1
 // @namespace    http://tampermonkey.net/
-// @version      3.85
+// @version      3.86
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT1.js
@@ -20,7 +20,7 @@ var refresh = 90;
 
 
 var namagroup1 = 'MARKAS';
-var Comment1 = '#IYATOTO ASTRI29 70*90*23'; 
+var Comment1 = 'IYATOTO ASTRI29 70*90*23'; 
 
 var namagroup2 = 'ANGKER';
 var Comment2 = 'ANGKER4D=ASRIN32=29*96*56'; 
