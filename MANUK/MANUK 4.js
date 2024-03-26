@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MANUK 4
 // @namespace    http://tampermonkey.net/
-// @version      3.77
+// @version      3.78
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%204.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%204.js
@@ -26,7 +26,7 @@ var Comment2 = 'IYATOTO PLECIKAWAT 43*81*55';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / PLECIAMBON / 86 , 05 , 80'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=PLECICIAK=86*05*90'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -50,8 +50,8 @@ var Comment10 = '#JNETOTO(PLECIKAN)*12*32*64';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*PLECISAN*14*88*48*'; 
 
-var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY PLECIANS 38*57*77'; 
+var namagroup12 = 'MASTER KUY';
+var Comment12 = 'TOGELKUY PLECIANS 38*57*77'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( PLECIKI21 ) : 43*81*55'; 
@@ -59,8 +59,8 @@ var Comment13 = '#TOYIBSLOT ( PLECIKI21 ) : 43*81*55';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 38*57*77 ( PLECINDI23 )'; 
 
-var namagroup15 = 'DEWA';
-var Comment15 = '#VESPATOGEL (PLECIKUS1)  46*33*02'; 
+var namagroup15 = 'HATRICK';
+var Comment15 = 'VESPATOGEL (PLECIKUS1)  46*33*02'; 
 
 var namagroup16 = '2131231';
 var Comment16 = '';
