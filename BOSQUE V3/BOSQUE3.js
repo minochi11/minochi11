@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BOSQUE3
 // @namespace    http://tampermonkey.net/
-// @version      3.23
+// @version      3.24
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE3.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE3.js
@@ -25,7 +25,7 @@ var Comment2 = 'IYATOTO YONOBO74 60*56*34';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / YONOBO74 / 58 , 46 , 10'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=YONOBO74=77*66*79'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -49,8 +49,8 @@ var Comment10 = '#JNETOTO(YONEKWIK37)*70*47*09';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*YOYOKWIK3*92*62*03*'; 
 
-var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY YOKOJO3 70*47*09'; 
+var namagroup12 = 'MASTER KUY';
+var Comment12 = 'TOGELKUY YOKOJO3 70*47*09'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( YOKWIK47 ) : 60*56*34'; 
@@ -58,8 +58,8 @@ var Comment13 = '#TOYIBSLOT ( YOKWIK47 ) : 60*56*34';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 77*66*79 ( YOJUAH63 )'; 
 
-var namagroup15 = 'DEWA';
-var Comment15 = '#VESPATOGEL (YOREAN63)  98*63*12'; 
+var namagroup15 = 'HATRICK';
+var Comment15 = 'VESPATOGEL (YOREAN63)  98*63*12'; 
 
 var namagroup16 = 'u382ys';
 var Comment16 = '';
