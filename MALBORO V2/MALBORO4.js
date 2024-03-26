@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MALBORO 4
 // @namespace    http://tampermonkey.net/
-// @version      3.76
+// @version      3.78
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO4.js
@@ -25,7 +25,7 @@ var Comment2 = 'IYATOTO DENGKULMU41 13*02*94';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / DUBURMU24 / 65 , 31 , 33'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=DUANCOKMU3=83*27*86'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -49,8 +49,8 @@ var Comment10 = '#JNETOTO(DUGALTOK)*71*22*58';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*DANIELXL*75*46*57*'; 
 
-var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY DEBORA21 71*22*58'; 
+var namagroup12 = 'MASTER KUY';
+var Comment12 = 'TOGELKUY DEBORA21 71*22*58'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( DIEMPLOK ) : 61*20*99'; 
@@ -58,10 +58,10 @@ var Comment13 = '#TOYIBSLOT ( DIEMPLOK ) : 61*20*99';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 75*46*57 ( DICIUMU12 )'; 
 
-var namagroup15 = 'DEWA';
-var Comment15 = '#VESPATOGEL (DONGKOLSEK)  61*20*99'; 
+var namagroup15 = 'HATRICK';
+var Comment15 = 'VESPATOGEL (DONGKOLSEK)  61*20*99'; 
 
-var namagroup16 = 'wdawd';
+var namagroup16 = '';
 var Comment16 = '';
 
 
