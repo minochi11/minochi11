@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT1
 // @namespace    http://tampermonkey.net/
-// @version      3.90
+// @version      3.91
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT1.js
@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 
-var refresh = 90;
+var refresh = 50;
 
 
 
@@ -28,7 +28,7 @@ var Comment2 = 'IYATOTO HONOS112 42*74*07';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / HORESU14 / 27 , 26 , 47'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=HONDANG41=60*80*79'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -52,8 +52,8 @@ var Comment10 = '#JNETOTO(HOMOGEN12)*05*37*96';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*HORE713*17*87*18*'; 
 
-var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY HONANI41 39*02*75'; 
+var namagroup12 = 'MASTER KUY';
+var Comment12 = 'TOGELKUY HONANI41 39*02*75'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( HOJOL134 ) : 17*87*18'; 
@@ -61,8 +61,8 @@ var Comment13 = '#TOYIBSLOT ( HOJOL134 ) : 17*87*18';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 60*80*79 ( HOCIANG12 )'; 
 
-var namagroup15 = 'DEWA';
-var Comment15 = '#VESPATOGEL (HOKINANN)  69*89*35'; 
+var namagroup15 = 'HATRICK';
+var Comment15 = 'VESPATOGEL (HOKINANN)  69*89*35'; 
 
 var namagroup16 = '12312';
 var Comment16 = '';
