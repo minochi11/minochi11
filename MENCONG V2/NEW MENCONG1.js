@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MENCONG1
 // @namespace    http://tampermonkey.net/
-// @version      3.72
+// @version      3.73
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MENCONG%20V2/NEW%20MENCONG1.js
@@ -28,7 +28,7 @@ var Comment2 = 'IYATOTO MENTARI17 31*90*85';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / MERANTAU41 / 01 , 81 , 42'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=MERATIH14=38*22*57'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -52,8 +52,8 @@ var Comment10 = '#JNETOTO(MELAMUN44)*01*81*42';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*MAUEWEK5X*53*41*98*'; 
 
-var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY MAKTUNG52 38*22*57'; 
+var namagroup12 = 'MASTER KUY';
+var Comment12 = 'TOGELKUY MAKTUNG52 38*22*57'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( MADUL45 ) : 62*15*95'; 
@@ -61,10 +61,10 @@ var Comment13 = '#TOYIBSLOT ( MADUL45 ) : 62*15*95';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 62*15*95 ( MERAHKU75 )'; 
 
-var namagroup15 = 'DEWA';
-var Comment15 = '#VESPATOGEL (MERAHKU75)  94*66*86'; 
+var namagroup15 = 'HATRICK';
+var Comment15 = 'VESPATOGEL (MERAHKU75)  94*66*86'; 
 
-var namagroup16 = '2e12e';
+var namagroup16 = '';
 var Comment16 = '';
 
 
