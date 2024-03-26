@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW ZULF1
 // @namespace    http://tampermonkey.net/
-// @version      3.69
+// @version      3.70
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/ZULF%20V2/ZULF1.js
@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 
-var refresh = 90;
+var refresh = 50;
 
 
 var namagroup1 = 'MARKAS';
@@ -27,7 +27,7 @@ var Comment2 = 'ANGKER4D=ZULAFRNA002=72*24*92';
 var namagroup3 = 'JNE';
 var Comment3 = '#JNETOTO(ZULFCANTIK)*97*90*81'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=CICIZULFA02=50*84*37'; 
 
 var namagroup5 = 'TOYIBSLOT';
@@ -39,8 +39,8 @@ var Comment6 = '#Tiktaktogel / ZULFGOLD / 31 , 83 , 45';
 var namagroup7 = 'ASEP';
 var Comment7 = '#ASEPTOGEL ZULFCANTIK 72*24*92'; 
 
-var namagroup8 = 'BOCORAN PREDIKSI SDY';
-var Comment8 = '#TOGELKUY ZULAFRNA002 31*83*45'; 
+var namagroup8 = 'MASTER KUY';
+var Comment8 = 'TOGELKUY ZULAFRNA002 31*83*45'; 
 
 var namagroup9 = 'SHIOKELINCI';
 var Comment9 = '#shiokelinci4d*ZULFANI12*28*34'; 
@@ -65,7 +65,6 @@ var Comment15 = '';
 
 var namagroup16 = '123213213';
 var Comment16 = '123123';
-
 
 
 /*======================================================================3D===============================================================*/
