@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BENT4
 // @namespace    http://tampermonkey.net/
-// @version      3.88
+// @version      3.89
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BENT%20V2/BENT4.js
@@ -18,7 +18,6 @@
 var refresh = 90;
 
 
-
 var namagroup1 = 'MARKAS';
 var Comment1 = 'IYATOTO DUINIATOTO23 91*27*59'; 
 
@@ -28,7 +27,7 @@ var Comment2 = 'ANGKER4D=DIANUMAMI12=87*80*62';
 var namagroup3 = 'JNE';
 var Comment3 = '#JNETOTO(DUDUKGO81)*78*34*49'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=DINDAMANIS12=05*46*38'; 
 
 var namagroup5 = 'TOYIBSLOT';
@@ -40,8 +39,8 @@ var Comment6 = '#Tiktaktogel / DICIAKKUCING / 57 , 52 , 68';
 var namagroup7 = 'ASEP';
 var Comment7 = '#ASEPTOGEL DIANUMAMI12 09*14*77'; 
 
-var namagroup8 = 'BOCORAN PREDIKSI SDY';
-var Comment8 = '#TOGELKUY DINDAMANIS13 85*64*47'; 
+var namagroup8 = 'MASTER KUY';
+var Comment8 = 'TOGELKUY DINDAMANIS13 85*64*47'; 
 
 var namagroup9 = 'SHIOKELINCI';
 var Comment9 = '#shiokelinci4d*DIANCOK13*09*14'; 
