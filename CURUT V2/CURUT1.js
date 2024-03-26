@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         NEW CURUT2)1
+// @name         NEW CURUT1
 // @namespace    http://tampermonkey.net/
 // @version      3.75
 // @description  try to take over the world!
