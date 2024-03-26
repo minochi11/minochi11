@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MANUK 2
 // @namespace    http://tampermonkey.net/
-// @version      3.77
+// @version      3.78
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%202.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANUK/MANUK%202.js
@@ -27,7 +27,7 @@ var Comment2 = 'IYATOTO ELANG32 25*63*93';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / ELANG93 / 87 , 41 , 54'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=ELANG768=87*41*66'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -51,8 +51,8 @@ var Comment10 = '#JNETOTO(ELANG721)*69*67*15';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*ELANGY3*09*61*31*'; 
 
-var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY ELANGX38 60*34*00'; 
+var namagroup12 = 'MASTER KUY';
+var Comment12 = 'TOGELKUY ELANGX38 60*34*00'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( ELANGSH1 ) : 25*63*93'; 
@@ -60,8 +60,8 @@ var Comment13 = '#TOYIBSLOT ( ELANGSH1 ) : 25*63*93';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 60*34*00 ( ELANG47 )'; 
 
-var namagroup15 = 'DEWA';
-var Comment15 = '#VESPATOGEL (ELANG728)  92*17*21'; 
+var namagroup15 = 'HATRICK';
+var Comment15 = 'VESPATOGEL (ELANG728)  92*17*21'; 
 
 var namagroup16 = '123123123';
 var Comment16 = '';
