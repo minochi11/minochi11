@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW KADUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.88
+// @version      3.89
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/KADUT%20V2/KADUT4.js
@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 
-var refresh = 90;
+var refresh = 50;
 
 
 
@@ -28,7 +28,7 @@ var Comment2 = 'IYATOTO SAKUWIL 66*62*30';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / SANGEKABEH / 73 , 65 , 42'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=SAKAREPMU=73*65*42'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -52,8 +52,8 @@ var Comment10 = '#JNETOTO(SAIKIPIYE)*83*10*58';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*SANTAYBOSKU*60*08*09*'; 
 
-var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY SAWERBOSE0 21*71*02'; 
+var namagroup12 = 'MASTER KUY';
+var Comment12 = 'TOGELKUY SAWERBOSE0 21*71*02'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( SAWERSEK ) : 66*62*30'; 
@@ -61,8 +61,8 @@ var Comment13 = '#TOYIBSLOT ( SAWERSEK ) : 66*62*30';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 21*71*02 ( SALAMANAE )'; 
 
-var namagroup15 = 'DEWA';
-var Comment15 = '#VESPATOGEL (SALAMANAE)  63*47*89'; 
+var namagroup15 = 'HATRICK';
+var Comment15 = 'VESPATOGEL (SALAMANAE)  63*47*89'; 
 
 var namagroup16 = '2131231';
 var Comment16 = '';
