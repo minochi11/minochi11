@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW MANYUT2
 // @namespace    http://tampermonkey.net/
-// @version      3.90
+// @version      3.91
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MANYUT%20V2/MANYUT2.js
@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 
-var refresh = 90;
+var refresh = 50;
 
 
 
@@ -28,7 +28,7 @@ var Comment2 = 'IYATOTO EKORENG51 14*04*65';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / EKOJIM46 / 58 , 84 , 62'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=EKODAM375=72*57*76'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -52,8 +52,8 @@ var Comment10 = '#JNETOTO(EKOROK64)*55*95*59';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*EKOCOK75*33*10*85*'; 
 
-var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY EKOCONG41 77*91*68'; 
+var namagroup12 = 'MASTER KUY';
+var Comment12 = 'TOGELKUY EKOCONG41 77*91*68'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( EKOROP47 ) : 33*10*85'; 
@@ -61,8 +61,8 @@ var Comment13 = '#TOYIBSLOT ( EKOROP47 ) : 33*10*85';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 72*57*76 ( EKOR665 )'; 
 
-var namagroup15 = 'DEWA';
-var Comment15 = '#VESPATOGEL (EKOWIJAY1)  29*82*83'; 
+var namagroup15 = 'HATRICK';
+var Comment15 = 'VESPATOGEL (EKOWIJAY1)  29*82*83'; 
 
 var namagroup16 = '1231231';
 var Comment16 = '';
