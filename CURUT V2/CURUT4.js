@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW CURUT4
 // @namespace    http://tampermonkey.net/
-// @version      3.72
+// @version      3.75
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/CURUT%20V2/CURUT4.js
@@ -26,7 +26,7 @@ var Comment2 = 'IYATOTO TELEKEK 35*19*62';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / TELOLUNDRO / 33 , 89 , 01'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=TEMPURUK=56*69*51'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -50,8 +50,8 @@ var Comment10 = '#JNETOTO(TUKANGBATU)*32*14*57';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*TURUSU71*33*89*01*'; 
 
-var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY TULELOT11 35*19*62'; 
+var namagroup12 = 'MASTER KUY';
+var Comment12 = 'TOGELKUY TULELOT11 35*19*62'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( TUODANCOK ) : 23*82*24'; 
@@ -59,8 +59,8 @@ var Comment13 = '#TOYIBSLOT ( TUODANCOK ) : 23*82*24';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 23*82*24 ( TUMPLEKAH )'; 
 
-var namagroup15 = 'DEWA';
-var Comment15 = '#VESPATOGEL (TUKULENG12)  25*54*90'; 
+var namagroup15 = 'HATRICK';
+var Comment15 = 'VESPATOGEL (TUKULENG12)  25*54*90'; 
 
 var namagroup16 = '';
 var Comment16 = '';
