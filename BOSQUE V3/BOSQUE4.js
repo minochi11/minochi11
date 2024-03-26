@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NEW BOSQUE4
 // @namespace    http://tampermonkey.net/
-// @version      3.23
+// @version      3.24
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE4.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/BOSQUE%20V3/BOSQUE4.js
@@ -15,7 +15,6 @@
 // ==/UserScript==
 var refresh = 90;
 
-
 var namagroup1 = 'SHIOKELINCI';
 var Comment1 = '#shiokelinci4d*ZONEST2*65*32'; 
 
@@ -25,7 +24,7 @@ var Comment2 = 'IYATOTO ZOROK73 51*17*14';
 var namagroup3 = 'TiktakTogel';
 var Comment3 = '#Tiktaktogel / ZOMBIE27 / 42 , 21 , 55'; 
 
-var namagroup4 = 'G∆IB4D';
+var namagroup4 = 'GA1B4D';
 var Comment4 = 'GAIB4D=ZORAN36=30*45*36'; 
 
 var namagroup5 = 'KEITOGEL';
@@ -49,8 +48,8 @@ var Comment10 = '#JNETOTO(ZOKET72)*22*83*81';
 var namagroup11 = 'T_O_T_O_A_K_U_R_A_T';
 var Comment11 = '#TA*ZOKUTU72*51*17*14*'; 
 
-var namagroup12 = 'BOCORAN PREDIKSI SDY';
-var Comment12 = '#TOGELKUY ZOWEKNI82 22*83*81'; 
+var namagroup12 = 'MASTER KUY';
+var Comment12 = 'TOGELKUY ZOWEKNI82 22*83*81'; 
 
 var namagroup13 = 'TOYIBSLOT';
 var Comment13 = '#TOYIBSLOT ( ZOWINDO ) : 65*32*61'; 
@@ -58,8 +57,8 @@ var Comment13 = '#TOYIBSLOT ( ZOWINDO ) : 65*32*61';
 var namagroup14 = 'DENTOTO';
 var Comment14 = '#DENTOTO 30*45*36 ( ZORLETA )'; 
 
-var namagroup15 = 'DEWA';
-var Comment15 = '#VESPATOGEL (ZONIAK26)  25*54*74'; 
+var namagroup15 = 'HATRICK';
+var Comment15 = 'VESPATOGEL (ZONIAK26)  25*54*74'; 
 
 var namagroup16 = 'hdnqkwg7';
 var Comment16 = '';
