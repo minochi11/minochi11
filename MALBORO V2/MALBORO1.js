@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MALBORO 1
 // @namespace    http://tampermonkey.net/
-// @version      3.79
+// @version      3.80
 // @description  try to take over the world!
 // @updateURL    https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO1.js
 // @downloadURL  https://raw.githubusercontent.com/minochi11/minochi11/main/MALBORO%20V2/MALBORO1.js
@@ -22,7 +22,7 @@ var Comment1 = '#shiokelinci4d*ANANDA122*03*38';
 var namagroup2 = 'MARKAS';
 var Comment2 = 'IYATOTO ANAKCODA83 10*17*97'; 
 
-var namagroup3 = 'TiktakTogel';
+var namagroup3 = 'TIKTAK';
 var Comment3 = '#Tiktaktogel / ASUKAU348 / 52 , 36 , 32'; 
 
 var namagroup4 = 'GA1B4D';
